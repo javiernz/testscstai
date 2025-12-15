@@ -5,7 +5,11 @@ let preguntaActual = null;
 fetch('data.json')
     .then(response => response.json())
     .then(data => {
-        preguntas = data;
+        preguntas = data.map(p => ({
+            ...p,
+            // Convertimos de 1–4 a 0–3
+            respuestaCorrecta: p.respuestaCorrecta - 1
+        }));
 
         // Selecciona pregunta aleatoria
         preguntaActual = preguntas[Math.floor(Math.random() * preguntas.length)];
@@ -105,7 +109,7 @@ fetch('data.json')
     // Función para verificar la respuesta seleccionada por el usuario
     function verificarRespuesta(respuestaUsuario)
     {
-        if (respuestaUsuario -1 === preguntaActual.respuestaCorrecta)
+        if (respuestaUsuario === preguntaActual.respuestaCorrecta)
         {
             // Si la respuesta es correcta, la pinta de verde
             document.getElementById(preguntaActual.respuestaCorrecta).classList.add('text-success', 'fw-bold');

@@ -1,17 +1,22 @@
-    // Array de preguntas y respuestas
-    var preguntas = 
-    [  
+// Array de preguntas y respuestas
+let preguntas = [];
+let preguntaActual = null;
 
-    {    
-        pregunta: "1. La Constitución Española de 1978, debida a una iniciativa parlamentaria, fue elaborada y aprobada por las Cortes formadas como resultado de las Elecciones Generales del 15 de junio de 1977. De las siguientes fechas, señala la que corresponde con la publicación del citado texto en el Boletín Oficial del Estado.",
-        respuestas: [    
-        "6 de diciembre de 1978.",
-        "31 de octubre de 1978.", 
-        "27 de diciembre de 1978.", 
-        "29 de diciembre de 1978."], 
-        respuestaCorrecta: 3
-    }
-    ]
+fetch('data.json')
+    .then(response => response.json())
+    .then(data => {
+        preguntas = data;
+
+        // Selecciona pregunta aleatoria
+        preguntaActual = preguntas[Math.floor(Math.random() * preguntas.length)];
+
+        // Crea el formulario
+        crearFormulario(preguntaActual);
+    })
+    .catch(error => {
+        console.error('Error cargando preguntas:', error);
+    });
+
 
 
     // Función para crear el formulario de la pregunta actual
@@ -120,10 +125,10 @@
     }
 
     // Obtener una pregunta aleatoria
-    var preguntaActual = preguntas[Math.floor(Math.random() * preguntas.length)];
+    //var preguntaActual = preguntas[Math.floor(Math.random() * preguntas.length)];
 
     // Crear el formulario con la pregunta actual
-    crearFormulario(preguntaActual);
+    //crearFormulario(preguntaActual);
 
     // Agregar un evento de escucha para el envío del formulario
     var formulario = document.getElementById('formulario');

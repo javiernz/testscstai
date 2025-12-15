@@ -112,7 +112,7 @@ fetch('data.json')
         if (respuestaUsuario === preguntaActual.respuestaCorrecta)
         {
             // Si la respuesta es correcta, la pinta de verde
-            document.getElementById(preguntaActual.respuestaCorrecta).classList.add('text-success', 'fw-bold');
+            document.getElementById(preguntaActual.respuestaCorrecta -1).classList.add('text-success', 'fw-bold');
         } 
         else
         {

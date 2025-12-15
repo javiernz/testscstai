@@ -36,7 +36,7 @@ fetch('data.json')
         );
 
         // Actualizamos el índice de la correcta tras mezclar
-        pregunta.respuestaCorrecta = respuestasMezcladas.findIndex(r => r.esCorrecta);
+        pregunta.respuestaCorrecta = respuestasMezcladas.findIndex(r => r.esCorrecta +1);
 
         // Letras A-B-C-D
         const abcd = ['A', 'B', 'C', 'D'];

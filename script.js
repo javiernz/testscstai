@@ -41,7 +41,7 @@ fetch('data.json')
         // Letras A-B-C-D
         const abcd = ['A', 'B', 'C', 'D'];
 
-        pregunta.respuestaCorrecta = respuestasMezcladas.findIndex(r => r.esCorrecta);
+        //pregunta.respuestaCorrecta = respuestasMezcladas.findIndex(r => r.esCorrecta);
 
         respuestasMezcladas.forEach(function(respuesta, index) {
 

@@ -55,7 +55,7 @@ fetch('data.json')
             radioInput.setAttribute('class', 'form-check-input');
             radioInput.type = 'radio';
             radioInput.name = 'respuesta';
-            radioInput.value = index;
+            radioInput.value = index +1;
 
             radioLabel.setAttribute('class', 'form-check-label m-3');
             radioLabel.id = index;
@@ -80,7 +80,9 @@ fetch('data.json')
         
         if (respuestaSeleccionada)
         {
-            var respuestaUsuario = parseInt(respuestaSeleccionada.value); // Convertir el valor de la respuesta a entero
+            var respuestaUsuarioHumana = parseInt(respuestaSeleccionada.value);
+            var respuestaUsuario = respuestaUsuarioHumana - 1; // conversión 1–4 → 0–3
+            
             verificarRespuesta(respuestaUsuario);
         } 
         else 
@@ -112,12 +114,12 @@ fetch('data.json')
         if (respuestaUsuario === preguntaActual.respuestaCorrecta)
         {
             // Si la respuesta es correcta, la pinta de verde
-            document.getElementById(preguntaActual.respuestaCorrecta -1).classList.add('text-success', 'fw-bold');
+            document.getElementById(preguntaActual.respuestaCorrecta).classList.add('text-success', 'fw-bold');
         } 
         else
         {
             // Si la respuesta es incorrecta, la pinta de rojo
-            document.getElementById(preguntaActual.respuestaCorrecta -1).classList.add('fw-bold');
+            document.getElementById(preguntaActual.respuestaCorrecta).classList.add('fw-bold');
             document.getElementById(respuestaUsuario).classList.add('text-danger', 'fw-bold');
         }
             // Intercambia los botones de respuesta y nueva

@@ -36,7 +36,7 @@ fetch('data.json')
         );
 
         // Actualizamos el índice de la correcta tras mezclar
-        pregunta.respuestaCorrecta = respuestasMezcladas.findIndex(r => r.esCorrecta +1);
+        pregunta.respuestaCorrecta = respuestasMezcladas.findIndex(r => r.esCorrecta);
 
         // Letras A-B-C-D
         const abcd = ['A', 'B', 'C', 'D'];
@@ -105,7 +105,7 @@ fetch('data.json')
     // Función para verificar la respuesta seleccionada por el usuario
     function verificarRespuesta(respuestaUsuario)
     {
-        if (respuestaUsuario === preguntaActual.respuestaCorrecta)
+        if (respuestaUsuario -1 === preguntaActual.respuestaCorrecta)
         {
             // Si la respuesta es correcta, la pinta de verde
             document.getElementById(preguntaActual.respuestaCorrecta).classList.add('text-success', 'fw-bold');

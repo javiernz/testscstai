@@ -7,7 +7,7 @@
       "La Laguna",
       "Arrecife"
     ],
-    "respuestaCorrecta": 1
+    "respuestaCorrecta": 0
   },
   {
     "pregunta": "¿Qué lenguaje se ejecuta en el navegador?",
@@ -17,6 +17,6 @@
       "JavaScript",
       "PHP"
     ],
-    "respuestaCorrecta": 3
+    "respuestaCorrecta": 2
   }
 ]

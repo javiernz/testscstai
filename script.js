@@ -5,11 +5,7 @@ let preguntaActual = null;
 fetch('data.json')
     .then(response => response.json())
     .then(data => {
-        preguntas = data.map(p => ({
-            ...p,
-            // Convertimos de 1–4 a 0–3
-            respuestaCorrecta: p.respuestaCorrecta - 1
-        }));
+        preguntas = data;
 
         // Selecciona pregunta aleatoria
         preguntaActual = preguntas[Math.floor(Math.random() * preguntas.length)];
@@ -55,7 +51,7 @@ fetch('data.json')
             radioInput.setAttribute('class', 'form-check-input');
             radioInput.type = 'radio';
             radioInput.name = 'respuesta';
-            radioInput.value = index +1;
+            radioInput.value = index;
 
             radioLabel.setAttribute('class', 'form-check-label m-3');
             radioLabel.id = index;
@@ -80,9 +76,7 @@ fetch('data.json')
         
         if (respuestaSeleccionada)
         {
-            var respuestaUsuarioHumana = parseInt(respuestaSeleccionada.value);
-            var respuestaUsuario = respuestaUsuarioHumana - 1; // conversión 1–4 → 0–3
-            
+            var respuestaUsuario = parseInt(respuestaSeleccionada.value); // Convertir el valor de la respuesta a entero
             verificarRespuesta(respuestaUsuario);
         } 
         else 

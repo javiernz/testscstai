@@ -1,0 +1,14 @@
+{
+    "preguntas":
+    {    
+    "pregunta": "1. La Constitución Española de 1978, debida a una iniciativa parlamentaria, fue elaborada y aprobada por las Cortes formadas como resultado de las Elecciones Generales del 15 de junio de 1977. De las siguientes fechas, señala la que corresponde con la publicación del citado texto en el Boletín Oficial del Estado.",
+        "respuestas":
+        [    
+        "A) 6 de diciembre de 1978.",
+        "B) 31 de octubre de 1978.", 
+        "C) 27 de diciembre de 1978.", 
+        "D) 29 de diciembre de 1978."
+        ], 
+    "respuestaCorrecta": 3
+    }
+}

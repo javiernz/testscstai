@@ -117,7 +117,7 @@ fetch('data.json')
         else
         {
             // Si la respuesta es incorrecta, la pinta de rojo
-            document.getElementById(preguntaActual.respuestaCorrecta).classList.add('fw-bold');
+            document.getElementById(preguntaActual.respuestaCorrecta -1).classList.add('fw-bold');
             document.getElementById(respuestaUsuario).classList.add('text-danger', 'fw-bold');
         }
             // Intercambia los botones de respuesta y nueva

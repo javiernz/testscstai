@@ -1,141 +1,70 @@
-// Array de preguntas y respuestas
 let preguntas = [];
 let preguntaActual = null;
 
-fetch('data.json')
-    .then(response => response.json())
+// Cargar JSON
+fetch('preguntas.json')
+    .then(res => res.json())
     .then(data => {
-        preguntas = data;
-
-        // Selecciona pregunta aleatoria
-        preguntaActual = preguntas[Math.floor(Math.random() * preguntas.length)];
-
-        // Crea el formulario
-        crearFormulario(preguntaActual);
-    })
-    .catch(error => {
-        console.error('Error cargando preguntas:', error);
+        preguntas = mezclarArray(data.preguntas);
+        mostrarPregunta();
     });
 
+// Barajar array (Fisher-Yates)
+function mezclarArray(array) {
+    return array.sort(() => Math.random() - 0.5);
+}
 
+function mostrarPregunta() {
+    document.getElementById("siguiente").disabled = true;
 
-    // Función para crear el formulario de la pregunta actual
-    function crearFormulario(pregunta) {
-        var preguntaContainer = document.getElementById('pregunta-container');
-        preguntaContainer.innerHTML = ''; // Limpiar el contenido del contenedor
+    // Volver a mezclar preguntas en cada carga
+    preguntas = mezclarArray(preguntas);
+    preguntaActual = preguntas[0];
 
-        // Crear elemento de pregunta
-        var preguntaElement = document.createElement('p');
-        preguntaElement.textContent = pregunta.pregunta;
-        preguntaContainer.appendChild(preguntaElement);
+    document.getElementById("pregunta").textContent = preguntaActual.pregunta;
 
-        // Crear elementos de opciones de respuesta
-        const respuestasMezcladas = mezclarRespuestas(
-            pregunta.respuestas,
-            pregunta.respuestaCorrecta
-        );
+    const formulario = document.getElementById("formulario");
+    formulario.innerHTML = "";
 
-        // Actualizamos el índice de la correcta tras mezclar
-        pregunta.respuestaCorrecta = respuestasMezcladas.findIndex(r => r.esCorrecta);
+    let opciones = preguntaActual.respuestas.map((texto, index) => ({
+        texto,
+        numero: index + 1
+    }));
 
-        // Letras A-B-C-D
-        const abcd = ['A', 'B', 'C', 'D'];
+    opciones = mezclarArray(opciones);
 
-        //pregunta.respuestaCorrecta = respuestasMezcladas.findIndex(r => r.esCorrecta);
+    opciones.forEach(opcion => {
+        const label = document.createElement("label");
+        label.classList.add("opcion");
 
-        respuestasMezcladas.forEach(function(respuesta, index) {
+        label.innerHTML = `
+            <input type="radio" name="respuesta" value="${opcion.numero}">
+            ${opcion.texto}
+        `;
 
-            var radioLabel = document.createElement('label');
-            var radioInput = document.createElement('input');
+        formulario.appendChild(label);
+    });
 
-            radioInput.setAttribute('class', 'form-check-input');
-            radioInput.type = 'radio';
-            radioInput.name = 'respuesta';
-            radioInput.value = index;
+    formulario.addEventListener("change", comprobarRespuesta, { once: true });
+}
 
-            radioLabel.setAttribute('class', 'form-check-label m-3');
-            radioLabel.id = index;
+function comprobarRespuesta() {
+    const seleccionada = document.querySelector('input[name="respuesta"]:checked');
+    const opciones = document.querySelectorAll(".opcion");
 
-            radioLabel.appendChild(radioInput);
+    opciones.forEach(opcion => {
+        const input = opcion.querySelector("input");
+        input.disabled = true;
 
-            // 👉 Texto con letra A-B-C-D
-            radioLabel.appendChild(
-                document.createTextNode(` ${abcd[index]}. ${respuesta.texto}`)
-            );
-
-            preguntaContainer.appendChild(radioLabel);
-            preguntaContainer.appendChild(document.createElement('br'));
-        });
-    }
-
-    // Función para manejar el envío del formulario
-    function handleSubmit(event) {
-        event.preventDefault(); // Prevenir el envío por defecto del formulario
-
-        var respuestaSeleccionada = document.querySelector('input[name="respuesta"]:checked');
-        
-        if (respuestaSeleccionada)
-        {
-            var respuestaUsuario = parseInt(respuestaSeleccionada.value); // Convertir el valor de la respuesta a entero
-            verificarRespuesta(respuestaUsuario);
-        } 
-        else 
-        {
-            alert('Por favor selecciona una respuesta.');
+        if (parseInt(input.value) === preguntaActual.correcta) {
+            opcion.classList.add("correcta");
         }
-    }
-    
-    // Función para mezclar las respuestas
-    function mezclarRespuestas(respuestas, correcta) {
-    // Creamos un array de objetos para no perder la correcta
-        let mezcladas = respuestas.map((texto, index) => ({
-            texto,
-        esCorrecta: index === correcta
-        }));
-
-        // Mezcla Fisher-Yates
-        for (let i = mezcladas.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [mezcladas[i], mezcladas[j]] = [mezcladas[j], mezcladas[i]];
+        if (input.checked && parseInt(input.value) !== preguntaActual.correcta) {
+            opcion.classList.add("incorrecta");
         }
-    return mezcladas;
-    }
+    });
 
+    document.getElementById("siguiente").disabled = false;
+}
 
-    // Función para verificar la respuesta seleccionada por el usuario
-    function verificarRespuesta(respuestaUsuario)
-    {
-        if (respuestaUsuario === preguntaActual.respuestaCorrecta)
-        {
-            // Si la respuesta es correcta, la pinta de verde
-            document.getElementById(preguntaActual.respuestaCorrecta).classList.add('text-success', 'fw-bold');
-        } 
-        else
-        {
-            // Si la respuesta es incorrecta, la pinta de rojo
-            document.getElementById(preguntaActual.respuestaCorrecta).classList.add('fw-bold');
-            document.getElementById(respuestaUsuario).classList.add('text-danger', 'fw-bold');
-        }
-            // Intercambia los botones de respuesta y nueva
-            document.getElementById('responder').classList.add('d-none');
-            document.getElementById('nueva').classList.remove('d-none');
-            
-            // Pinta la respuesta de negrita
-            document.getElementById(preguntaActual.respuestaCorrecta).classList.add('fw-bold');
-    }
-
-    // Obtener una pregunta aleatoria
-    //var preguntaActual = preguntas[Math.floor(Math.random() * preguntas.length)];
-
-    // Crear el formulario con la pregunta actual
-    //crearFormulario(preguntaActual);
-
-    // Agregar un evento de escucha para el envío del formulario
-    var formulario = document.getElementById('formulario');
-    formulario.addEventListener('submit', handleSubmit);
-    
-    document.getElementById('nueva').onclick = function()
-    { 
-    	// Recarga la web con una nueva pregunta
-        location.reload();
-    };
+document.getElementById("siguiente").addEventListener("click", mostrarPregunta);

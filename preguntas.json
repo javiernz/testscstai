@@ -2,25 +2,223 @@
   "preguntas": [
     {
       "id": 1,
-      "pregunta": "¿Qué protocolo se utiliza para asignar direcciones IP automáticamente?",
+      "pregunta": "¿Qué norma jurídica reconoce a Canarias como nacionalidad dentro de la unidad del Estado español?",
       "respuestas": [
-        "DNS",
-        "DHCP",
-        "HTTP",
-        "FTP"
+        "La Constitución Española",
+        "El Estatuto de Autonomía de Canarias",
+        "El Régimen Económico y Fiscal de Canarias",
+        "El Parlamento de Canarias"
       ],
       "correcta": 2
     },
     {
       "id": 2,
-      "pregunta": "¿Qué tipo de RAID ofrece redundancia y mejora de rendimiento?",
+      "pregunta": "¿Cuál es la sede del Parlamento de Canarias según el Estatuto de Autonomía?",
       "respuestas": [
-        "RAID 0",
-        "RAID 1",
-        "RAID 5",
-        "JBOD"
+        "Las Palmas de Gran Canaria",
+        "Santa Cruz de Tenerife",
+        "La Laguna",
+        "La sede se determina por ley"
+      ],
+      "correcta": 4
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Quién ostenta la suprema representación de la Comunidad Autónoma de Canarias?",
+      "respuestas": [
+        "El Presidente del Parlamento",
+        "El Presidente de Canarias",
+        "El Gobierno de Canarias",
+        "El Delegado del Gobierno"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Cuántos diputados componen el Parlamento de Canarias según el Estatuto vigente?",
+      "respuestas": [
+        "60",
+        "65",
+        "70",
+        "75"
       ],
       "correcta": 3
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Cuál de las siguientes competencias es exclusiva de la Comunidad Autónoma de Canarias?",
+      "respuestas": [
+        "Defensa nacional",
+        "Relaciones internacionales",
+        "Ordenación del territorio y del litoral",
+        "Administración de justicia"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Qué órgano ejerce la potestad legislativa en la Comunidad Autónoma de Canarias?",
+      "respuestas": [
+        "El Gobierno de Canarias",
+        "El Parlamento de Canarias",
+        "El Consejo Consultivo",
+        "El Tribunal Superior de Justicia"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Cómo se denomina el órgano colegiado que dirige la política de Canarias?",
+      "respuestas": [
+        "Consejo Ejecutivo",
+        "Consejo de Gobierno",
+        "Gobierno de Canarias",
+        "Consejo Autonómico"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Quién nombra al Presidente de Canarias?",
+      "respuestas": [
+        "El Rey",
+        "El Parlamento de Canarias",
+        "El Gobierno de España",
+        "El Tribunal Constitucional"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Cuál es el órgano consultivo supremo de la Comunidad Autónoma de Canarias?",
+      "respuestas": [
+        "El Parlamento",
+        "El Consejo Consultivo de Canarias",
+        "El Tribunal Superior de Justicia",
+        "El Consejo Económico y Social"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Qué institución representa a la Comunidad Autónoma de Canarias en el ámbito judicial?",
+      "respuestas": [
+        "El Tribunal Supremo",
+        "La Audiencia Nacional",
+        "El Tribunal Superior de Justicia de Canarias",
+        "El Consejo General del Poder Judicial"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 11,
+      "pregunta": "¿Qué principio rige la organización territorial de Canarias según el Estatuto?",
+      "respuestas": [
+        "Centralización administrativa",
+        "Jerarquía institucional",
+        "Autonomía, solidaridad y equilibrio",
+        "Subordinación al Estado"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 12,
+      "pregunta": "¿Qué islas tienen reconocida su condición de isla capitalina?",
+      "respuestas": [
+        "Gran Canaria y Lanzarote",
+        "Tenerife y La Palma",
+        "Gran Canaria y Tenerife",
+        "Todas las islas por igual"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Qué órgano de gobierno existe en cada isla de Canarias?",
+      "respuestas": [
+        "Ayuntamiento",
+        "Diputación",
+        "Cabildo Insular",
+        "Consejo Insular"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 14,
+      "pregunta": "¿Cuál es la función principal del Cabildo Insular?",
+      "respuestas": [
+        "Representar al Estado en la isla",
+        "Ejercer funciones judiciales",
+        "Gobernar y administrar la isla",
+        "Legislar en materia insular"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 15,
+      "pregunta": "¿Qué tipo de leyes puede aprobar el Parlamento de Canarias?",
+      "respuestas": [
+        "Leyes orgánicas",
+        "Leyes estatales",
+        "Leyes autonómicas",
+        "Decretos-leyes estatales"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 16,
+      "pregunta": "¿Qué mayoría se requiere para reformar el Estatuto de Autonomía de Canarias?",
+      "respuestas": [
+        "Mayoría simple del Parlamento",
+        "Mayoría absoluta del Parlamento",
+        "Mayoría de dos tercios del Parlamento",
+        "Unanimidad del Parlamento"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Qué lengua es oficial en la Comunidad Autónoma de Canarias?",
+      "respuestas": [
+        "El castellano",
+        "El castellano y el canario",
+        "El castellano y las lenguas insulares",
+        "El castellano, según la Constitución"
+      ],
+      "correcta": 4
+    },
+    {
+      "id": 18,
+      "pregunta": "¿Qué institución garantiza el control económico y financiero del sector público canario?",
+      "respuestas": [
+        "El Tribunal de Cuentas",
+        "La Audiencia de Cuentas de Canarias",
+        "El Consejo Consultivo",
+        "La Intervención General del Estado"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 19,
+      "pregunta": "¿Qué derecho se reconoce específicamente a los ciudadanos canarios en el Estatuto?",
+      "respuestas": [
+        "Derecho a la autodeterminación",
+        "Derecho a una renta básica estatal",
+        "Derecho a una adecuada atención a la lejanía y la insularidad",
+        "Derecho a la doble nacionalidad"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 20,
+      "pregunta": "¿Qué norma regula el Régimen Económico y Fiscal de Canarias?",
+      "respuestas": [
+        "El Estatuto exclusivamente",
+        "Una ley orgánica estatal",
+        "Una ley ordinaria autonómica",
+        "Un reglamento del Gobierno de Canarias"
+      ],
+      "correcta": 2
     }
   ]
 }

@@ -2,223 +2,288 @@
   "preguntas": [
     {
       "id": 1,
-      "pregunta": "¿Qué norma jurídica reconoce a Canarias como nacionalidad dentro de la unidad del Estado español?",
+      "pregunta": "¿Qué rango normativo tiene el Estatuto de Autonomía de Canarias tras su reforma de 2018?",
       "respuestas": [
-        "La Constitución Española",
-        "El Estatuto de Autonomía de Canarias",
-        "El Régimen Económico y Fiscal de Canarias",
-        "El Parlamento de Canarias"
+        "Ley ordinaria estatal",
+        "Ley orgánica",
+        "Ley marco",
+        "Norma institucional básica sin rango legal"
       ],
       "correcta": 2
     },
     {
       "id": 2,
-      "pregunta": "¿Cuál es la sede del Parlamento de Canarias según el Estatuto de Autonomía?",
+      "pregunta": "Según el Estatuto de Autonomía, ¿cómo se define políticamente a Canarias?",
       "respuestas": [
-        "Las Palmas de Gran Canaria",
-        "Santa Cruz de Tenerife",
-        "La Laguna",
-        "La sede se determina por ley"
+        "Región ultraperiférica",
+        "Nacionalidad",
+        "Comunidad histórica",
+        "Territorio foral"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Qué principio inspira las relaciones entre Canarias y el Estado según el Estatuto?",
+      "respuestas": [
+        "Jerarquía normativa",
+        "Subordinación institucional",
+        "Lealtad institucional",
+        "Tutela administrativa"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Cuál es el fundamento constitucional del Estatuto de Autonomía de Canarias?",
+      "respuestas": [
+        "Artículo 137 CE",
+        "Artículo 143 CE",
+        "Artículo 148 CE",
+        "Artículo 2 CE"
       ],
       "correcta": 4
     },
     {
-      "id": 3,
-      "pregunta": "¿Quién ostenta la suprema representación de la Comunidad Autónoma de Canarias?",
+      "id": 5,
+      "pregunta": "¿Qué instituciones forman el sistema institucional autonómico canario?",
       "respuestas": [
-        "El Presidente del Parlamento",
-        "El Presidente de Canarias",
-        "El Gobierno de Canarias",
-        "El Delegado del Gobierno"
+        "Parlamento, Gobierno y Presidente",
+        "Parlamento, Gobierno, Presidente y Cabildos",
+        "Gobierno, Cabildos y Ayuntamientos",
+        "Parlamento, Gobierno y Consejo Consultivo"
       ],
       "correcta": 2
-    },
-    {
-      "id": 4,
-      "pregunta": "¿Cuántos diputados componen el Parlamento de Canarias según el Estatuto vigente?",
-      "respuestas": [
-        "60",
-        "65",
-        "70",
-        "75"
-      ],
-      "correcta": 3
-    },
-    {
-      "id": 5,
-      "pregunta": "¿Cuál de las siguientes competencias es exclusiva de la Comunidad Autónoma de Canarias?",
-      "respuestas": [
-        "Defensa nacional",
-        "Relaciones internacionales",
-        "Ordenación del territorio y del litoral",
-        "Administración de justicia"
-      ],
-      "correcta": 3
     },
     {
       "id": 6,
-      "pregunta": "¿Qué órgano ejerce la potestad legislativa en la Comunidad Autónoma de Canarias?",
+      "pregunta": "¿Quién ostenta la potestad reglamentaria en la Comunidad Autónoma de Canarias?",
       "respuestas": [
-        "El Gobierno de Canarias",
-        "El Parlamento de Canarias",
-        "El Consejo Consultivo",
-        "El Tribunal Superior de Justicia"
+        "El Parlamento",
+        "El Presidente",
+        "El Gobierno",
+        "El Consejo Consultivo"
       ],
-      "correcta": 2
+      "correcta": 3
     },
     {
       "id": 7,
-      "pregunta": "¿Cómo se denomina el órgano colegiado que dirige la política de Canarias?",
+      "pregunta": "¿Cuál es la duración del mandato de los diputados del Parlamento de Canarias?",
       "respuestas": [
-        "Consejo Ejecutivo",
-        "Consejo de Gobierno",
-        "Gobierno de Canarias",
-        "Consejo Autonómico"
-      ],
-      "correcta": 3
-    },
-    {
-      "id": 8,
-      "pregunta": "¿Quién nombra al Presidente de Canarias?",
-      "respuestas": [
-        "El Rey",
-        "El Parlamento de Canarias",
-        "El Gobierno de España",
-        "El Tribunal Constitucional"
-      ],
-      "correcta": 1
-    },
-    {
-      "id": 9,
-      "pregunta": "¿Cuál es el órgano consultivo supremo de la Comunidad Autónoma de Canarias?",
-      "respuestas": [
-        "El Parlamento",
-        "El Consejo Consultivo de Canarias",
-        "El Tribunal Superior de Justicia",
-        "El Consejo Económico y Social"
+        "Tres años",
+        "Cuatro años",
+        "Cinco años",
+        "Coincide con las elecciones generales"
       ],
       "correcta": 2
     },
     {
-      "id": 10,
-      "pregunta": "¿Qué institución representa a la Comunidad Autónoma de Canarias en el ámbito judicial?",
+      "id": 8,
+      "pregunta": "¿Qué mayoría se exige para la investidura del Presidente de Canarias en primera votación?",
       "respuestas": [
-        "El Tribunal Supremo",
-        "La Audiencia Nacional",
-        "El Tribunal Superior de Justicia de Canarias",
-        "El Consejo General del Poder Judicial"
+        "Mayoría simple",
+        "Mayoría absoluta",
+        "Dos tercios",
+        "Unanimidad"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Qué sucede si ningún candidato obtiene la confianza del Parlamento?",
+      "respuestas": [
+        "Se nombra al candidato más votado",
+        "Se repite la votación indefinidamente",
+        "Se convocan nuevas elecciones",
+        "Interviene el Gobierno del Estado"
       ],
       "correcta": 3
     },
     {
-      "id": 11,
-      "pregunta": "¿Qué principio rige la organización territorial de Canarias según el Estatuto?",
+      "id": 10,
+      "pregunta": "¿Quién puede disolver el Parlamento de Canarias?",
       "respuestas": [
-        "Centralización administrativa",
-        "Jerarquía institucional",
-        "Autonomía, solidaridad y equilibrio",
-        "Subordinación al Estado"
+        "El Parlamento",
+        "El Gobierno",
+        "El Presidente",
+        "El Rey"
       ],
       "correcta": 3
+    },
+
+    {
+      "id": 11,
+      "pregunta": "¿Qué órgano controla políticamente al Gobierno de Canarias?",
+      "respuestas": [
+        "El Tribunal Superior de Justicia",
+        "El Parlamento de Canarias",
+        "La Audiencia de Cuentas",
+        "El Consejo Consultivo"
+      ],
+      "correcta": 2
     },
     {
       "id": 12,
-      "pregunta": "¿Qué islas tienen reconocida su condición de isla capitalina?",
+      "pregunta": "¿Qué instrumento parlamentario permite exigir responsabilidad política al Gobierno?",
       "respuestas": [
-        "Gran Canaria y Lanzarote",
-        "Tenerife y La Palma",
-        "Gran Canaria y Tenerife",
-        "Todas las islas por igual"
+        "Pregunta oral",
+        "Interpelación",
+        "Moción de censura",
+        "Comparecencia"
       ],
       "correcta": 3
     },
     {
       "id": 13,
-      "pregunta": "¿Qué órgano de gobierno existe en cada isla de Canarias?",
+      "pregunta": "¿Qué mayoría se requiere para aprobar una moción de censura en Canarias?",
       "respuestas": [
-        "Ayuntamiento",
-        "Diputación",
-        "Cabildo Insular",
-        "Consejo Insular"
+        "Mayoría simple",
+        "Mayoría absoluta",
+        "Dos tercios",
+        "Mayoría cualificada"
       ],
-      "correcta": 3
+      "correcta": 2
     },
     {
       "id": 14,
-      "pregunta": "¿Cuál es la función principal del Cabildo Insular?",
+      "pregunta": "¿Qué carácter tiene la moción de censura según el Estatuto?",
       "respuestas": [
-        "Representar al Estado en la isla",
-        "Ejercer funciones judiciales",
-        "Gobernar y administrar la isla",
-        "Legislar en materia insular"
+        "Destructiva",
+        "Consultiva",
+        "Constructiva",
+        "Automática"
       ],
       "correcta": 3
     },
     {
       "id": 15,
-      "pregunta": "¿Qué tipo de leyes puede aprobar el Parlamento de Canarias?",
+      "pregunta": "¿Qué órgano ejerce la iniciativa legislativa en Canarias?",
       "respuestas": [
-        "Leyes orgánicas",
-        "Leyes estatales",
-        "Leyes autonómicas",
-        "Decretos-leyes estatales"
+        "Solo el Parlamento",
+        "El Parlamento y el Gobierno",
+        "El Gobierno y los Cabildos",
+        "Exclusivamente el Gobierno"
       ],
-      "correcta": 3
+      "correcta": 2
     },
+
     {
       "id": 16,
-      "pregunta": "¿Qué mayoría se requiere para reformar el Estatuto de Autonomía de Canarias?",
+      "pregunta": "¿Qué tipo de competencias puede asumir Canarias según el Estatuto?",
       "respuestas": [
-        "Mayoría simple del Parlamento",
-        "Mayoría absoluta del Parlamento",
-        "Mayoría de dos tercios del Parlamento",
-        "Unanimidad del Parlamento"
+        "Exclusivas únicamente",
+        "Exclusivas y compartidas",
+        "Exclusivas, compartidas y de ejecución",
+        "Solo de desarrollo legislativo"
       ],
       "correcta": 3
     },
     {
       "id": 17,
-      "pregunta": "¿Qué lengua es oficial en la Comunidad Autónoma de Canarias?",
+      "pregunta": "¿Cuál de las siguientes es una competencia exclusiva de Canarias?",
       "respuestas": [
-        "El castellano",
-        "El castellano y el canario",
-        "El castellano y las lenguas insulares",
-        "El castellano, según la Constitución"
-      ],
-      "correcta": 4
-    },
-    {
-      "id": 18,
-      "pregunta": "¿Qué institución garantiza el control económico y financiero del sector público canario?",
-      "respuestas": [
-        "El Tribunal de Cuentas",
-        "La Audiencia de Cuentas de Canarias",
-        "El Consejo Consultivo",
-        "La Intervención General del Estado"
+        "Nacionalidad",
+        "Ordenación del territorio",
+        "Defensa",
+        "Relaciones exteriores"
       ],
       "correcta": 2
     },
     {
-      "id": 19,
-      "pregunta": "¿Qué derecho se reconoce específicamente a los ciudadanos canarios en el Estatuto?",
+      "id": 18,
+      "pregunta": "¿Qué principio rige la distribución competencial con los Cabildos?",
       "respuestas": [
-        "Derecho a la autodeterminación",
-        "Derecho a una renta básica estatal",
-        "Derecho a una adecuada atención a la lejanía y la insularidad",
-        "Derecho a la doble nacionalidad"
+        "Centralización",
+        "Jerarquía",
+        "Subsidiariedad",
+        "Tutela"
       ],
       "correcta": 3
     },
     {
-      "id": 20,
-      "pregunta": "¿Qué norma regula el Régimen Económico y Fiscal de Canarias?",
+      "id": 19,
+      "pregunta": "¿Qué institución representa a Canarias ante la Unión Europea?",
       "respuestas": [
-        "El Estatuto exclusivamente",
-        "Una ley orgánica estatal",
-        "Una ley ordinaria autonómica",
-        "Un reglamento del Gobierno de Canarias"
+        "El Parlamento",
+        "El Gobierno de Canarias",
+        "El Estado exclusivamente",
+        "Los Cabildos"
       ],
       "correcta": 2
+    },
+    {
+      "id": 20,
+      "pregunta": "¿Qué singularidad reconoce el Estatuto respecto a Canarias en la UE?",
+      "respuestas": [
+        "Territorio fiscal especial",
+        "Región ultraperiférica",
+        "Zona económica exclusiva",
+        "Territorio aduanero independiente"
+      ],
+      "correcta": 2
+    },
+
+    {
+      "id": 21,
+      "pregunta": "¿Qué órgano es el supremo consultivo de la Comunidad Autónoma?",
+      "respuestas": [
+        "Consejo Económico y Social",
+        "Consejo Consultivo de Canarias",
+        "Audiencia de Cuentas",
+        "Tribunal Superior de Justicia"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 22,
+      "pregunta": "¿Qué función principal tiene la Audiencia de Cuentas de Canarias?",
+      "respuestas": [
+        "Control político",
+        "Control judicial",
+        "Fiscalización económica",
+        "Función consultiva"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 23,
+      "pregunta": "¿Qué órgano ejerce la función jurisdiccional en Canarias culminando la organización judicial?",
+      "respuestas": [
+        "Tribunal Supremo",
+        "Audiencia Nacional",
+        "Tribunal Superior de Justicia de Canarias",
+        "Consejo General del Poder Judicial"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 24,
+      "pregunta": "¿Qué principio rige la organización territorial de Canarias?",
+      "respuestas": [
+        "Centralización",
+        "Autonomía insular",
+        "Uniformidad",
+        "Dependencia estatal"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 25,
+      "pregunta": "¿Qué institución gobierna y administra cada isla?",
+      "respuestas": [
+        "Ayuntamiento",
+        "Diputación",
+        "Cabildo Insular",
+        "Consejo Comarcal"
+      ],
+      "correcta": 3
     }
+
+    /* 🔹 IDs 26 a 100 continúan con el mismo nivel,
+       incluyendo: derechos estatutarios, REF,
+       acción exterior, reforma del Estatuto,
+       participación ciudadana, principios financieros,
+       cooperación interadministrativa y control parlamentario.
+       (Por límite práctico del mensaje, se continúa en el siguiente bloque si lo deseas.) */
   ]
 }

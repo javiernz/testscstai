@@ -1,22 +1,26 @@
-[
-  {
-    "pregunta": "¿Cuál es la capital de Canarias?",
-    "respuestas": [
-      "Las Palmas de Gran Canaria",
-      "Santa Cruz de Tenerife",
-      "La Laguna",
-      "Arrecife"
-    ],
-    "respuestaCorrecta": 0
-  },
-  {
-    "pregunta": "¿Qué lenguaje se ejecuta en el navegador?",
-    "respuestas": [
-      "Python",
-      "Java",
-      "JavaScript",
-      "PHP"
-    ],
-    "respuestaCorrecta": 2
-  }
-]
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué protocolo se utiliza para asignar direcciones IP automáticamente?",
+      "respuestas": [
+        "DNS",
+        "DHCP",
+        "HTTP",
+        "FTP"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Qué tipo de RAID ofrece redundancia y mejora de rendimiento?",
+      "respuestas": [
+        "RAID 0",
+        "RAID 1",
+        "RAID 5",
+        "JBOD"
+      ],
+      "correcta": 3
+    }
+  ]
+}

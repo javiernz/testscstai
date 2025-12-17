@@ -278,5 +278,3068 @@
       ],
       "correcta": 3
     }
+
+,
+{
+  "id": 26,
+  "pregunta": "¿Qué principio financiero garantiza la suficiencia de recursos de la Comunidad Autónoma de Canarias?",
+  "respuestas": [
+    "Autonomía financiera",
+    "Solidaridad interterritorial",
+    "Equilibrio presupuestario",
+    "Unidad de caja"
+  ],
+  "correcta": 1
+},
+{
+  "id": 27,
+  "pregunta": "¿Qué ingresos integran la Hacienda Pública Canaria?",
+  "respuestas": [
+    "Solo tributos propios",
+    "Tributos estatales cedidos y propios",
+    "Exclusivamente transferencias del Estado",
+    "Únicamente fondos europeos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 28,
+  "pregunta": "¿Qué singularidad financiera reconoce el Estatuto a Canarias?",
+  "respuestas": [
+    "Régimen foral",
+    "Régimen Económico y Fiscal propio",
+    "Sistema de concierto económico",
+    "Autonomía tributaria plena"
+  ],
+  "correcta": 2
+},
+{
+  "id": 29,
+  "pregunta": "¿Qué norma regula el Régimen Económico y Fiscal de Canarias?",
+  "respuestas": [
+    "El Estatuto exclusivamente",
+    "Una ley orgánica estatal",
+    "Una ley autonómica",
+    "Un reglamento europeo"
+  ],
+  "correcta": 2
+},
+{
+  "id": 30,
+  "pregunta": "¿Qué órgano garantiza la participación de Canarias en decisiones estatales que le afecten?",
+  "respuestas": [
+    "Conferencia de Presidentes",
+    "Comisión Bilateral Canarias-Estado",
+    "Senado",
+    "Delegación del Gobierno"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 31,
+  "pregunta": "¿Qué principio rige la cooperación entre la Comunidad Autónoma y los Cabildos?",
+  "respuestas": [
+    "Dependencia jerárquica",
+    "Coordinación y cooperación",
+    "Subordinación funcional",
+    "Centralización administrativa"
+  ],
+  "correcta": 2
+},
+{
+  "id": 32,
+  "pregunta": "¿Qué carácter tienen los Cabildos Insulares según el Estatuto?",
+  "respuestas": [
+    "Órganos desconcentrados",
+    "Entidades locales",
+    "Instituciones autonómicas",
+    "Órganos estatales periféricos"
+  ],
+  "correcta": 3
+},
+{
+  "id": 33,
+  "pregunta": "¿Qué mayoría se exige para aprobar el presupuesto de la Comunidad Autónoma?",
+  "respuestas": [
+    "Dos tercios",
+    "Mayoría simple",
+    "Mayoría absoluta",
+    "Unanimidad"
+  ],
+  "correcta": 2
+},
+{
+  "id": 34,
+  "pregunta": "¿Qué sucede si no se aprueban los presupuestos a tiempo?",
+  "respuestas": [
+    "Se disuelve el Parlamento",
+    "Se prorrogan automáticamente",
+    "Interviene el Estado",
+    "Se suspenden competencias"
+  ],
+  "correcta": 2
+},
+{
+  "id": 35,
+  "pregunta": "¿Qué órgano ejerce el control externo de la actividad económico-financiera?",
+  "respuestas": [
+    "Intervención General",
+    "Consejo Consultivo",
+    "Audiencia de Cuentas de Canarias",
+    "Tribunal de Cuentas estatal"
+  ],
+  "correcta": 3
+},
+
+{
+  "id": 36,
+  "pregunta": "¿Qué derecho estatutario se reconoce vinculado a la lejanía y la insularidad?",
+  "respuestas": [
+    "Derecho de autodeterminación",
+    "Derecho a compensaciones",
+    "Derecho a un trato diferenciado",
+    "Derecho a la doble ciudadanía"
+  ],
+  "correcta": 3
+},
+{
+  "id": 37,
+  "pregunta": "¿Qué principio inspira la acción pública canaria en materia social?",
+  "respuestas": [
+    "Asistencialismo",
+    "Igualdad material",
+    "Neutralidad económica",
+    "Subsidiariedad estatal"
+  ],
+  "correcta": 2
+},
+{
+  "id": 38,
+  "pregunta": "¿Qué órgano garantiza la defensa de los derechos estatutarios?",
+  "respuestas": [
+    "Tribunal Constitucional",
+    "Parlamento de Canarias",
+    "Consejo Consultivo",
+    "Tribunal Superior de Justicia de Canarias"
+  ],
+  "correcta": 1
+},
+{
+  "id": 39,
+  "pregunta": "¿Quién puede interponer recursos de inconstitucionalidad en defensa del Estatuto?",
+  "respuestas": [
+    "Cualquier ciudadano",
+    "El Gobierno de Canarias",
+    "Los Cabildos",
+    "Los Ayuntamientos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 40,
+  "pregunta": "¿Qué principio rige la interpretación del Estatuto?",
+  "respuestas": [
+    "Interpretación restrictiva",
+    "Principio pro Estado",
+    "Principio de autonomía",
+    "Interpretación literal estricta"
+  ],
+  "correcta": 3
+},
+
+{
+  "id": 41,
+  "pregunta": "¿Qué procedimiento se exige para reformar el Estatuto?",
+  "respuestas": [
+    "Ley ordinaria autonómica",
+    "Ley orgánica estatal",
+    "Reglamento parlamentario",
+    "Decreto del Gobierno"
+  ],
+  "correcta": 2
+},
+{
+  "id": 42,
+  "pregunta": "¿Qué mayoría inicial requiere el Parlamento para iniciar la reforma estatutaria?",
+  "respuestas": [
+    "Mayoría simple",
+    "Mayoría absoluta",
+    "Dos tercios",
+    "Unanimidad"
+  ],
+  "correcta": 3
+},
+{
+  "id": 43,
+  "pregunta": "¿Puede el Estatuto ser sometido a referéndum?",
+  "respuestas": [
+    "Nunca",
+    "Siempre obligatoriamente",
+    "Cuando así lo prevea la ley",
+    "Solo por decisión del Parlamento canario"
+  ],
+  "correcta": 3
+},
+{
+  "id": 44,
+  "pregunta": "¿Qué papel desempeña el Rey en relación con el Estatuto reformado?",
+  "respuestas": [
+    "Iniciativa legislativa",
+    "Sanción y promulgación",
+    "Control de constitucionalidad",
+    "Interpretación auténtica"
+  ],
+  "correcta": 2
+},
+{
+  "id": 45,
+  "pregunta": "¿Qué institución encarna la representación ordinaria del Estado en Canarias?",
+  "respuestas": [
+    "Presidente de Canarias",
+    "Delegado del Gobierno",
+    "Tribunal Superior de Justicia",
+    "Consejo Consultivo"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 46,
+  "pregunta": "¿Qué principio rige la participación ciudadana según el Estatuto?",
+  "respuestas": [
+    "Representación exclusiva",
+    "Democracia participativa",
+    "Sufragio censitario",
+    "Tutela administrativa"
+  ],
+  "correcta": 2
+},
+{
+  "id": 47,
+  "pregunta": "¿Qué mecanismo permite la iniciativa legislativa popular?",
+  "respuestas": [
+    "Reglamento parlamentario",
+    "Ley autonómica",
+    "Decreto del Gobierno",
+    "Resolución del Parlamento"
+  ],
+  "correcta": 2
+},
+{
+  "id": 48,
+  "pregunta": "¿Qué materia queda excluida de la iniciativa legislativa popular?",
+  "respuestas": [
+    "Derechos sociales",
+    "Presupuestos",
+    "Medio ambiente",
+    "Ordenación territorial"
+  ],
+  "correcta": 2
+},
+{
+  "id": 49,
+  "pregunta": "¿Qué principio inspira la actuación exterior de Canarias?",
+  "respuestas": [
+    "Soberanía internacional",
+    "Coordinación con el Estado",
+    "Independencia exterior",
+    "Neutralidad política"
+  ],
+  "correcta": 2
+},
+{
+  "id": 50,
+  "pregunta": "¿Qué ámbito geográfico prioriza la acción exterior canaria?",
+  "respuestas": [
+    "Europa central",
+    "Atlántico y África",
+    "América del Norte",
+    "Asia-Pacífico"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 51,
+  "pregunta": "¿Qué principio garantiza la igualdad entre islas?",
+  "respuestas": [
+    "Solidaridad interinsular",
+    "Jerarquía territorial",
+    "Centralización",
+    "Uniformidad administrativa"
+  ],
+  "correcta": 1
+},
+{
+  "id": 52,
+  "pregunta": "¿Qué órgano vela por el equilibrio territorial?",
+  "respuestas": [
+    "Parlamento",
+    "Gobierno",
+    "Cabildos",
+    "Comisión de Islas"
+  ],
+  "correcta": 4
+},
+{
+  "id": 53,
+  "pregunta": "¿Qué carácter tienen las competencias transferidas a los Cabildos?",
+  "respuestas": [
+    "Reversibles",
+    "Delegadas",
+    "Exclusivas",
+    "Condicionadas"
+  ],
+  "correcta": 2
+},
+{
+  "id": 54,
+  "pregunta": "¿Qué órgano resuelve los conflictos de competencia internos?",
+  "respuestas": [
+    "Tribunal Constitucional",
+    "Parlamento",
+    "Gobierno de Canarias",
+    "Tribunal Superior de Justicia de Canarias"
+  ],
+  "correcta": 4
+},
+{
+  "id": 55,
+  "pregunta": "¿Qué tipo de leyes desarrolla el Estatuto en materias compartidas?",
+  "respuestas": [
+    "Leyes marco",
+    "Leyes de bases",
+    "Leyes de desarrollo",
+    "Decretos legislativos"
+  ],
+  "correcta": 3
+},
+
+{
+  "id": 56,
+  "pregunta": "¿Qué principio rige el empleo público canario?",
+  "respuestas": [
+    "Libre designación",
+    "Mérito y capacidad",
+    "Representación política",
+    "Discrecionalidad"
+  ],
+  "correcta": 2
+},
+{
+  "id": 57,
+  "pregunta": "¿Qué institución nombra a los altos cargos del Gobierno?",
+  "respuestas": [
+    "Parlamento",
+    "Presidente",
+    "Consejo Consultivo",
+    "Tribunal Superior"
+  ],
+  "correcta": 2
+},
+{
+  "id": 58,
+  "pregunta": "¿Qué principio rige la actividad administrativa canaria?",
+  "respuestas": [
+    "Arbitrariedad",
+    "Legalidad y eficacia",
+    "Oportunidad política",
+    "Supremacía estatal"
+  ],
+  "correcta": 2
+},
+{
+  "id": 59,
+  "pregunta": "¿Qué institución puede comparecer ante el Parlamento a petición propia?",
+  "respuestas": [
+    "Consejo Consultivo",
+    "Audiencia de Cuentas",
+    "Gobierno de Canarias",
+    "Tribunal Constitucional"
+  ],
+  "correcta": 3
+},
+{
+  "id": 60,
+  "pregunta": "¿Qué control ejerce el Parlamento sobre el Gobierno?",
+  "respuestas": [
+    "Jurisdiccional",
+    "Político",
+    "Económico",
+    "Administrativo"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 61,
+  "pregunta": "¿Qué principio inspira la transparencia institucional?",
+  "respuestas": [
+    "Publicidad normativa",
+    "Secreto administrativo",
+    "Reserva gubernamental",
+    "Discrecionalidad política"
+  ],
+  "correcta": 1
+},
+{
+  "id": 62,
+  "pregunta": "¿Qué órgano aprueba el Reglamento del Parlamento?",
+  "respuestas": [
+    "El Gobierno",
+    "El Parlamento",
+    "El Presidente",
+    "El Tribunal Constitucional"
+  ],
+  "correcta": 2
+},
+{
+  "id": 63,
+  "pregunta": "¿Qué condición es incompatible con la de diputado?",
+  "respuestas": [
+    "Funcionario",
+    "Miembro del Gobierno",
+    "Magistrado en activo",
+    "Profesor universitario"
+  ],
+  "correcta": 3
+},
+{
+  "id": 64,
+  "pregunta": "¿Qué garantía protege a los diputados por sus opiniones?",
+  "respuestas": [
+    "Inviolabilidad",
+    "Inmunidad",
+    "Aforamiento",
+    "Indemnidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 65,
+  "pregunta": "¿Ante qué órgano están aforados los diputados canarios?",
+  "respuestas": [
+    "Tribunal Supremo",
+    "Audiencia Nacional",
+    "Tribunal Superior de Justicia de Canarias",
+    "Tribunal Constitucional"
+  ],
+  "correcta": 3
+},
+
+{
+  "id": 66,
+  "pregunta": "¿Qué mayoría permite la aprobación de leyes ordinarias canarias?",
+  "respuestas": [
+    "Mayoría absoluta",
+    "Dos tercios",
+    "Mayoría simple",
+    "Unanimidad"
+  ],
+  "correcta": 3
+},
+{
+  "id": 67,
+  "pregunta": "¿Qué tipo de decreto puede aprobar el Gobierno en caso de urgencia?",
+  "respuestas": [
+    "Decreto-ley",
+    "Decreto legislativo",
+    "Reglamento ejecutivo",
+    "Orden departamental"
+  ],
+  "correcta": 1
+},
+{
+  "id": 68,
+  "pregunta": "¿Qué órgano debe convalidar el decreto-ley canario?",
+  "respuestas": [
+    "El Tribunal Constitucional",
+    "El Parlamento",
+    "El Consejo Consultivo",
+    "El Presidente"
+  ],
+  "correcta": 2
+},
+{
+  "id": 69,
+  "pregunta": "¿Qué límite material tienen los decretos-leyes?",
+  "respuestas": [
+    "Presupuestos",
+    "Derechos estatutarios",
+    "Organización administrativa",
+    "Competencias ejecutivas"
+  ],
+  "correcta": 2
+},
+{
+  "id": 70,
+  "pregunta": "¿Qué principio rige la planificación económica canaria?",
+  "respuestas": [
+    "Libre mercado absoluto",
+    "Equilibrio territorial",
+    "Intervención estatal",
+    "Neutralidad fiscal"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 71,
+  "pregunta": "¿Qué órgano puede solicitar dictamen preceptivo al Consejo Consultivo?",
+  "respuestas": [
+    "Solo el Parlamento",
+    "Gobierno y Parlamento",
+    "Solo el Gobierno",
+    "Cabildos y Ayuntamientos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 72,
+  "pregunta": "¿Qué carácter tiene el dictamen del Consejo Consultivo?",
+  "respuestas": [
+    "Vinculante",
+    "Preceptivo pero no vinculante",
+    "Opcional y vinculante",
+    "Decisorio"
+  ],
+  "correcta": 2
+},
+{
+  "id": 73,
+  "pregunta": "¿Qué institución garantiza la legalidad de los reglamentos?",
+  "respuestas": [
+    "Parlamento",
+    "Consejo Consultivo",
+    "Tribunal Constitucional",
+    "Audiencia de Cuentas"
+  ],
+  "correcta": 2
+},
+{
+  "id": 74,
+  "pregunta": "¿Qué control ejerce el Tribunal Constitucional sobre Canarias?",
+  "respuestas": [
+    "Político",
+    "Económico",
+    "Constitucional",
+    "Administrativo"
+  ],
+  "correcta": 3
+},
+{
+  "id": 75,
+  "pregunta": "¿Qué norma prevalece en caso de conflicto competencial?",
+  "respuestas": [
+    "La autonómica",
+    "La estatal básica",
+    "La insular",
+    "La municipal"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 76,
+  "pregunta": "¿Qué principio rige la coordinación con los municipios?",
+  "respuestas": [
+    "Tutela",
+    "Autonomía local",
+    "Dependencia",
+    "Subordinación"
+  ],
+  "correcta": 2
+},
+{
+  "id": 77,
+  "pregunta": "¿Qué entidad representa a los municipios?",
+  "respuestas": [
+    "Cabildos",
+    "Federación Canaria de Municipios",
+    "Parlamento",
+    "Consejo Consultivo"
+  ],
+  "correcta": 2
+},
+{
+  "id": 78,
+  "pregunta": "¿Qué principio rige la acción cultural?",
+  "respuestas": [
+    "Uniformidad",
+    "Protección del patrimonio",
+    "Centralización",
+    "Neutralidad cultural"
+  ],
+  "correcta": 2
+},
+{
+  "id": 79,
+  "pregunta": "¿Qué competencia cultural asume Canarias?",
+  "respuestas": [
+    "Exclusiva",
+    "Compartida",
+    "Ejecutiva",
+    "Residual"
+  ],
+  "correcta": 1
+},
+{
+  "id": 80,
+  "pregunta": "¿Qué ámbito educativo es competencia canaria?",
+  "respuestas": [
+    "Legislación básica",
+    "Desarrollo y ejecución",
+    "Inspección estatal",
+    "Homologación de títulos"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 81,
+  "pregunta": "¿Qué principio rige la política sanitaria?",
+  "respuestas": [
+    "Universalidad",
+    "Asistencialismo",
+    "Privatización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 82,
+  "pregunta": "¿Qué institución gestiona el sistema sanitario canario?",
+  "respuestas": [
+    "Ministerio de Sanidad",
+    "Servicio Canario de la Salud",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 83,
+  "pregunta": "¿Qué competencia asume Canarias en materia de vivienda?",
+  "respuestas": [
+    "Exclusiva",
+    "Compartida",
+    "Ejecutiva",
+    "Residual"
+  ],
+  "correcta": 1
+},
+{
+  "id": 84,
+  "pregunta": "¿Qué principio rige la política medioambiental?",
+  "respuestas": [
+    "Desarrollo sostenible",
+    "Explotación intensiva",
+    "Neutralidad ecológica",
+    "Centralización estatal"
+  ],
+  "correcta": 1
+},
+{
+  "id": 85,
+  "pregunta": "¿Qué ámbito marítimo es competencia canaria?",
+  "respuestas": [
+    "Mar territorial",
+    "Puertos de interés general",
+    "Puertos no estatales",
+    "Zona económica exclusiva"
+  ],
+  "correcta": 3
+},
+
+{
+  "id": 86,
+  "pregunta": "¿Qué órgano aprueba los planes territoriales?",
+  "respuestas": [
+    "Parlamento",
+    "Gobierno",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 87,
+  "pregunta": "¿Qué principio rige la política turística?",
+  "respuestas": [
+    "Crecimiento ilimitado",
+    "Sostenibilidad",
+    "Desregulación",
+    "Uniformidad"
+  ],
+  "correcta": 2
+},
+{
+  "id": 88,
+  "pregunta": "¿Qué competencia tiene Canarias en materia de transporte?",
+  "respuestas": [
+    "Exclusiva interior",
+    "Solo estatal",
+    "Internacional",
+    "Marítima exterior"
+  ],
+  "correcta": 1
+},
+{
+  "id": 89,
+  "pregunta": "¿Qué principio rige la planificación energética?",
+  "respuestas": [
+    "Dependencia exterior",
+    "Autosuficiencia progresiva",
+    "Centralización",
+    "Neutralidad climática estatal"
+  ],
+  "correcta": 2
+},
+{
+  "id": 90,
+  "pregunta": "¿Qué ámbito laboral es competencia canaria?",
+  "respuestas": [
+    "Legislación básica",
+    "Ejecución",
+    "Negociación colectiva",
+    "Inspección estatal exclusiva"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 91,
+  "pregunta": "¿Qué principio rige la política de igualdad?",
+  "respuestas": [
+    "Igualdad formal",
+    "Igualdad efectiva",
+    "Neutralidad",
+    "Discrecionalidad"
+  ],
+  "correcta": 2
+},
+{
+  "id": 92,
+  "pregunta": "¿Qué órgano coordina las políticas de igualdad?",
+  "respuestas": [
+    "Parlamento",
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 93,
+  "pregunta": "¿Qué principio rige la protección de menores?",
+  "respuestas": [
+    "Interés superior del menor",
+    "Tutela administrativa",
+    "Subsidiariedad",
+    "Intervención estatal"
+  ],
+  "correcta": 1
+},
+{
+  "id": 94,
+  "pregunta": "¿Qué institución asume la protección del patrimonio histórico?",
+  "respuestas": [
+    "Estado",
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 95,
+  "pregunta": "¿Qué principio rige la política lingüística?",
+  "respuestas": [
+    "Cooficialidad",
+    "Exclusividad lingüística",
+    "Neutralidad idiomática",
+    "Primacía autonómica"
+  ],
+  "correcta": 3
+},
+
+{
+  "id": 96,
+  "pregunta": "¿Qué lengua es oficial en Canarias?",
+  "respuestas": [
+    "Castellano",
+    "Castellano y lenguas insulares",
+    "Castellano según la Constitución",
+    "Castellano y portugués"
+  ],
+  "correcta": 3
+},
+{
+  "id": 97,
+  "pregunta": "¿Qué principio rige la seguridad pública?",
+  "respuestas": [
+    "Competencia exclusiva estatal",
+    "Coordinación",
+    "Autonomía plena",
+    "Delegación total"
+  ],
+  "correcta": 2
+},
+{
+  "id": 98,
+  "pregunta": "¿Qué cuerpo policial autonómico prevé el Estatuto?",
+  "respuestas": [
+    "Guardia Civil",
+    "Policía Canaria",
+    "Policía Nacional",
+    "Policía Insular"
+  ],
+  "correcta": 2
+},
+{
+  "id": 99,
+  "pregunta": "¿Qué principio rige la protección civil?",
+  "respuestas": [
+    "Intervención estatal",
+    "Cooperación interadministrativa",
+    "Centralización",
+    "Jerarquía"
+  ],
+  "correcta": 2
+},
+{
+  "id": 100,
+  "pregunta": "¿Qué finalidad última persigue el Estatuto de Autonomía de Canarias?",
+  "respuestas": [
+    "La soberanía plena",
+    "El autogobierno solidario",
+    "La independencia política",
+    "La descentralización fiscal"
+  ],
+  "correcta": 2
+}
+,
+{
+  "id": 101,
+  "pregunta": "¿Qué carácter tiene el Estatuto de Autonomía de Canarias dentro del ordenamiento jurídico?",
+  "respuestas": [
+    "Norma reglamentaria",
+    "Norma institucional básica",
+    "Ley marco",
+    "Ley ordinaria autonómica"
+  ],
+  "correcta": 2
+},
+{
+  "id": 102,
+  "pregunta": "¿Qué artículo de la Constitución permite la reforma del Estatuto de Autonomía de Canarias?",
+  "respuestas": [
+    "Artículo 2",
+    "Artículo 143",
+    "Artículo 147",
+    "Artículo 152"
+  ],
+  "correcta": 3
+},
+{
+  "id": 103,
+  "pregunta": "¿Qué principio informa el reconocimiento de derechos en el Estatuto?",
+  "respuestas": [
+    "Exclusividad autonómica",
+    "Interpretación conforme a la Constitución",
+    "Supremacía estatutaria",
+    "Autonomía normativa plena"
+  ],
+  "correcta": 2
+},
+{
+  "id": 104,
+  "pregunta": "¿Qué institución puede solicitar al Estado la transferencia de nuevas competencias?",
+  "respuestas": [
+    "Cabildos Insulares",
+    "Parlamento de Canarias",
+    "Gobierno de Canarias",
+    "Consejo Consultivo"
+  ],
+  "correcta": 2
+},
+{
+  "id": 105,
+  "pregunta": "¿Qué principio rige el ejercicio de las competencias asumidas por Canarias?",
+  "respuestas": [
+    "Exclusividad absoluta",
+    "Lealtad institucional",
+    "Jerarquía normativa",
+    "Tutela estatal"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 106,
+  "pregunta": "¿Qué órgano puede plantear conflictos de competencia ante el Tribunal Constitucional?",
+  "respuestas": [
+    "Cabildos",
+    "Ayuntamientos",
+    "Gobierno de Canarias",
+    "Consejo Consultivo"
+  ],
+  "correcta": 3
+},
+{
+  "id": 107,
+  "pregunta": "¿Qué carácter tienen las resoluciones del Parlamento de Canarias?",
+  "respuestas": [
+    "Reglamentario",
+    "Político",
+    "Jurisdiccional",
+    "Ejecutivo"
+  ],
+  "correcta": 2
+},
+{
+  "id": 108,
+  "pregunta": "¿Qué principio garantiza la participación de Canarias en asuntos europeos?",
+  "respuestas": [
+    "Subsidiariedad",
+    "Representación directa",
+    "Cooperación institucional",
+    "Soberanía compartida"
+  ],
+  "correcta": 3
+},
+{
+  "id": 109,
+  "pregunta": "¿Qué órgano coordina la acción exterior autonómica?",
+  "respuestas": [
+    "Parlamento",
+    "Gobierno de Canarias",
+    "Estado",
+    "Cabildos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 110,
+  "pregunta": "¿Qué principio rige la elaboración de políticas públicas autonómicas?",
+  "respuestas": [
+    "Eficacia y eficiencia",
+    "Discrecionalidad política",
+    "Centralización",
+    "Supremacía estatal"
+  ],
+  "correcta": 1
+},
+
+{
+  "id": 111,
+  "pregunta": "¿Qué órgano ejerce la potestad de autoorganización institucional?",
+  "respuestas": [
+    "Parlamento de Canarias",
+    "Gobierno de Canarias",
+    "Consejo Consultivo",
+    "Tribunal Superior de Justicia"
+  ],
+  "correcta": 1
+},
+{
+  "id": 112,
+  "pregunta": "¿Qué principio rige la estructura del Gobierno de Canarias?",
+  "respuestas": [
+    "Jerarquía funcional",
+    "Colegialidad",
+    "Descentralización territorial",
+    "Dependencia parlamentaria"
+  ],
+  "correcta": 2
+},
+{
+  "id": 113,
+  "pregunta": "¿Qué órgano dirige la acción del Gobierno?",
+  "respuestas": [
+    "Consejo de Gobierno",
+    "Presidente de Canarias",
+    "Parlamento",
+    "Vicepresidente"
+  ],
+  "correcta": 2
+},
+{
+  "id": 114,
+  "pregunta": "¿Qué responsabilidad tienen los miembros del Gobierno ante el Parlamento?",
+  "respuestas": [
+    "Jurídica",
+    "Penal",
+    "Política",
+    "Administrativa"
+  ],
+  "correcta": 3
+},
+{
+  "id": 115,
+  "pregunta": "¿Qué mayoría se exige para aprobar el Estatuto reformado en el Congreso?",
+  "respuestas": [
+    "Mayoría simple",
+    "Mayoría absoluta",
+    "Dos tercios",
+    "Unanimidad"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 116,
+  "pregunta": "¿Qué función cumple el Parlamento respecto al REF?",
+  "respuestas": [
+    "Gestión directa",
+    "Desarrollo normativo",
+    "Fiscalización estatal",
+    "Control jurisdiccional"
+  ],
+  "correcta": 2
+},
+{
+  "id": 117,
+  "pregunta": "¿Qué principio rige la fiscalidad canaria?",
+  "respuestas": [
+    "Uniformidad",
+    "Neutralidad",
+    "Singularidad",
+    "Progresividad estatal"
+  ],
+  "correcta": 3
+},
+{
+  "id": 118,
+  "pregunta": "¿Qué órgano aprueba los tributos propios de Canarias?",
+  "respuestas": [
+    "Gobierno",
+    "Parlamento",
+    "Cabildos",
+    "Estado"
+  ],
+  "correcta": 2
+},
+{
+  "id": 119,
+  "pregunta": "¿Qué principio rige el gasto público autonómico?",
+  "respuestas": [
+    "Discrecionalidad",
+    "Equidad y eficiencia",
+    "Centralización",
+    "Supremacía estatal"
+  ],
+  "correcta": 2
+},
+{
+  "id": 120,
+  "pregunta": "¿Qué órgano supervisa la estabilidad presupuestaria?",
+  "respuestas": [
+    "Audiencia de Cuentas",
+    "Parlamento",
+    "Consejo Consultivo",
+    "Intervención General"
+  ],
+  "correcta": 1
+},
+
+{
+  "id": 121,
+  "pregunta": "¿Qué principio rige la planificación territorial?",
+  "respuestas": [
+    "Desarrollo sostenible",
+    "Expansión urbana",
+    "Libre iniciativa",
+    "Centralización estatal"
+  ],
+  "correcta": 1
+},
+{
+  "id": 122,
+  "pregunta": "¿Qué institución participa en la ordenación insular?",
+  "respuestas": [
+    "Parlamento",
+    "Gobierno",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 3
+},
+{
+  "id": 123,
+  "pregunta": "¿Qué competencia tiene Canarias en materia de aguas?",
+  "respuestas": [
+    "Exclusiva",
+    "Compartida",
+    "Ejecutiva",
+    "Residual"
+  ],
+  "correcta": 1
+},
+{
+  "id": 124,
+  "pregunta": "¿Qué principio rige la protección del paisaje?",
+  "respuestas": [
+    "Explotación económica",
+    "Conservación",
+    "Neutralidad",
+    "Desregulación"
+  ],
+  "correcta": 2
+},
+{
+  "id": 125,
+  "pregunta": "¿Qué órgano coordina la política de cambio climático?",
+  "respuestas": [
+    "Estado",
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 126,
+  "pregunta": "¿Qué principio rige la política de empleo?",
+  "respuestas": [
+    "Flexibilidad absoluta",
+    "Cohesión social",
+    "Centralización estatal",
+    "Libre mercado"
+  ],
+  "correcta": 2
+},
+{
+  "id": 127,
+  "pregunta": "¿Qué competencia asume Canarias en políticas activas de empleo?",
+  "respuestas": [
+    "Legislativa",
+    "Ejecutiva",
+    "Judicial",
+    "Residual"
+  ],
+  "correcta": 2
+},
+{
+  "id": 128,
+  "pregunta": "¿Qué órgano gestiona el Servicio Canario de Empleo?",
+  "respuestas": [
+    "Estado",
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Parlamento"
+  ],
+  "correcta": 2
+},
+{
+  "id": 129,
+  "pregunta": "¿Qué principio rige la política de inclusión social?",
+  "respuestas": [
+    "Igualdad efectiva",
+    "Asistencialismo",
+    "Neutralidad",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 130,
+  "pregunta": "¿Qué competencia tiene Canarias en servicios sociales?",
+  "respuestas": [
+    "Exclusiva",
+    "Compartida",
+    "Ejecutiva",
+    "Residual"
+  ],
+  "correcta": 1
+},
+
+{
+  "id": 131,
+  "pregunta": "¿Qué principio rige la política de juventud?",
+  "respuestas": [
+    "Participación",
+    "Tutela",
+    "Centralización",
+    "Neutralidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 132,
+  "pregunta": "¿Qué principio rige la política de mayores?",
+  "respuestas": [
+    "Autonomía personal",
+    "Asistencialismo",
+    "Neutralidad",
+    "Centralización"
+  ],
+  "correcta": 1
+},
+{
+  "id": 133,
+  "pregunta": "¿Qué competencia tiene Canarias en dependencia?",
+  "respuestas": [
+    "Exclusiva",
+    "Ejecutiva",
+    "Legislativa básica",
+    "Residual"
+  ],
+  "correcta": 2
+},
+{
+  "id": 134,
+  "pregunta": "¿Qué principio rige la política de discapacidad?",
+  "respuestas": [
+    "Inclusión",
+    "Asistencialismo",
+    "Neutralidad",
+    "Tutela"
+  ],
+  "correcta": 1
+},
+{
+  "id": 135,
+  "pregunta": "¿Qué institución coordina la atención sociosanitaria?",
+  "respuestas": [
+    "Estado",
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 136,
+  "pregunta": "¿Qué principio rige la política educativa?",
+  "respuestas": [
+    "Equidad",
+    "Centralización",
+    "Neutralidad",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 137,
+  "pregunta": "¿Qué órgano gestiona la educación no universitaria?",
+  "respuestas": [
+    "Estado",
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 138,
+  "pregunta": "¿Qué competencia tiene Canarias en universidades?",
+  "respuestas": [
+    "Exclusiva",
+    "Compartida",
+    "Ejecutiva",
+    "Residual"
+  ],
+  "correcta": 2
+},
+{
+  "id": 139,
+  "pregunta": "¿Qué principio rige la investigación científica?",
+  "respuestas": [
+    "Innovación",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 140,
+  "pregunta": "¿Qué órgano promueve la I+D+i?",
+  "respuestas": [
+    "Parlamento",
+    "Gobierno de Canarias",
+    "Estado",
+    "Cabildos"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 141,
+  "pregunta": "¿Qué principio rige la política cultural?",
+  "respuestas": [
+    "Diversidad cultural",
+    "Uniformidad",
+    "Neutralidad",
+    "Centralización"
+  ],
+  "correcta": 1
+},
+{
+  "id": 142,
+  "pregunta": "¿Qué competencia tiene Canarias sobre el deporte?",
+  "respuestas": [
+    "Exclusiva",
+    "Compartida",
+    "Ejecutiva",
+    "Residual"
+  ],
+  "correcta": 1
+},
+{
+  "id": 143,
+  "pregunta": "¿Qué principio rige la protección del patrimonio etnográfico?",
+  "respuestas": [
+    "Conservación",
+    "Explotación",
+    "Neutralidad",
+    "Centralización"
+  ],
+  "correcta": 1
+},
+{
+  "id": 144,
+  "pregunta": "¿Qué órgano coordina la política deportiva?",
+  "respuestas": [
+    "Estado",
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 145,
+  "pregunta": "¿Qué principio rige la acción en materia de consumo?",
+  "respuestas": [
+    "Protección del consumidor",
+    "Libre mercado",
+    "Neutralidad",
+    "Centralización"
+  ],
+  "correcta": 1
+},
+
+{
+  "id": 146,
+  "pregunta": "¿Qué competencia tiene Canarias en comercio interior?",
+  "respuestas": [
+    "Exclusiva",
+    "Compartida",
+    "Ejecutiva",
+    "Residual"
+  ],
+  "correcta": 1
+},
+{
+  "id": 147,
+  "pregunta": "¿Qué principio rige la política industrial?",
+  "respuestas": [
+    "Diversificación",
+    "Centralización",
+    "Neutralidad",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 148,
+  "pregunta": "¿Qué órgano impulsa la política de modernización económica?",
+  "respuestas": [
+    "Parlamento",
+    "Gobierno de Canarias",
+    "Estado",
+    "Cabildos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 149,
+  "pregunta": "¿Qué principio rige la economía social?",
+  "respuestas": [
+    "Solidaridad",
+    "Lucro",
+    "Neutralidad",
+    "Centralización"
+  ],
+  "correcta": 1
+},
+{
+  "id": 150,
+  "pregunta": "¿Qué competencia tiene Canarias en cooperativas?",
+  "respuestas": [
+    "Exclusiva",
+    "Compartida",
+    "Ejecutiva",
+    "Residual"
+  ],
+  "correcta": 1
+},
+
+{
+  "id": 151,
+  "pregunta": "¿Qué principio rige la política de igualdad de género?",
+  "respuestas": [
+    "Transversalidad",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 152,
+  "pregunta": "¿Qué órgano impulsa la lucha contra la violencia de género?",
+  "respuestas": [
+    "Estado",
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 153,
+  "pregunta": "¿Qué principio rige la protección a la familia?",
+  "respuestas": [
+    "Protección integral",
+    "Asistencialismo",
+    "Neutralidad",
+    "Centralización"
+  ],
+  "correcta": 1
+},
+{
+  "id": 154,
+  "pregunta": "¿Qué competencia tiene Canarias en infancia?",
+  "respuestas": [
+    "Exclusiva",
+    "Ejecutiva",
+    "Compartida",
+    "Residual"
+  ],
+  "correcta": 1
+},
+{
+  "id": 155,
+  "pregunta": "¿Qué órgano coordina la política de inmigración autonómica?",
+  "respuestas": [
+    "Estado",
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Parlamento"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 156,
+  "pregunta": "¿Qué principio rige la cooperación internacional al desarrollo?",
+  "respuestas": [
+    "Solidaridad",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 157,
+  "pregunta": "¿Qué competencia tiene Canarias en cooperación exterior?",
+  "respuestas": [
+    "Exclusiva",
+    "Complementaria",
+    "Ejecutiva",
+    "Residual"
+  ],
+  "correcta": 2
+},
+{
+  "id": 158,
+  "pregunta": "¿Qué órgano aprueba la estrategia de cooperación?",
+  "respuestas": [
+    "Parlamento",
+    "Gobierno de Canarias",
+    "Estado",
+    "Cabildos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 159,
+  "pregunta": "¿Qué principio rige la política de protección animal?",
+  "respuestas": [
+    "Bienestar animal",
+    "Explotación",
+    "Neutralidad",
+    "Centralización"
+  ],
+  "correcta": 1
+},
+{
+  "id": 160,
+  "pregunta": "¿Qué competencia tiene Canarias en protección animal?",
+  "respuestas": [
+    "Exclusiva",
+    "Compartida",
+    "Ejecutiva",
+    "Residual"
+  ],
+  "correcta": 1
+},
+
+{
+  "id": 161,
+  "pregunta": "¿Qué principio rige la política de seguridad vial?",
+  "respuestas": [
+    "Prevención",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 162,
+  "pregunta": "¿Qué órgano coordina la seguridad vial en Canarias?",
+  "respuestas": [
+    "Estado",
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 163,
+  "pregunta": "¿Qué principio rige la política de protección civil?",
+  "respuestas": [
+    "Prevención y coordinación",
+    "Centralización",
+    "Neutralidad",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 164,
+  "pregunta": "¿Qué órgano dirige las emergencias autonómicas?",
+  "respuestas": [
+    "Estado",
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 165,
+  "pregunta": "¿Qué principio rige la planificación de riesgos naturales?",
+  "respuestas": [
+    "Precaución",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+
+{
+  "id": 166,
+  "pregunta": "¿Qué principio rige la acción administrativa electrónica?",
+  "respuestas": [
+    "Accesibilidad",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 167,
+  "pregunta": "¿Qué órgano impulsa la digitalización administrativa?",
+  "respuestas": [
+    "Parlamento",
+    "Gobierno de Canarias",
+    "Estado",
+    "Cabildos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 168,
+  "pregunta": "¿Qué principio rige la protección de datos?",
+  "respuestas": [
+    "Legalidad",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 169,
+  "pregunta": "¿Qué competencia tiene Canarias en transparencia?",
+  "respuestas": [
+    "Exclusiva",
+    "Compartida",
+    "Ejecutiva",
+    "Residual"
+  ],
+  "correcta": 1
+},
+{
+  "id": 170,
+  "pregunta": "¿Qué órgano garantiza el derecho de acceso a la información?",
+  "respuestas": [
+    "Parlamento",
+    "Gobierno de Canarias",
+    "Comisionado de Transparencia",
+    "Consejo Consultivo"
+  ],
+  "correcta": 3
+},
+
+{
+  "id": 171,
+  "pregunta": "¿Qué principio rige la evaluación de políticas públicas?",
+  "respuestas": [
+    "Rendición de cuentas",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 172,
+  "pregunta": "¿Qué órgano puede impulsar evaluaciones independientes?",
+  "respuestas": [
+    "Parlamento",
+    "Gobierno de Canarias",
+    "Audiencia de Cuentas",
+    "Consejo Consultivo"
+  ],
+  "correcta": 1
+},
+{
+  "id": 173,
+  "pregunta": "¿Qué principio rige la planificación estratégica?",
+  "respuestas": [
+    "Visión a largo plazo",
+    "Improvisación",
+    "Neutralidad",
+    "Centralización"
+  ],
+  "correcta": 1
+},
+{
+  "id": 174,
+  "pregunta": "¿Qué órgano aprueba los planes estratégicos?",
+  "respuestas": [
+    "Parlamento",
+    "Gobierno de Canarias",
+    "Estado",
+    "Cabildos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 175,
+  "pregunta": "¿Qué principio rige la innovación pública?",
+  "respuestas": [
+    "Mejora continua",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+
+{
+  "id": 176,
+  "pregunta": "¿Qué principio rige la cooperación interadministrativa?",
+  "respuestas": [
+    "Colaboración",
+    "Subordinación",
+    "Centralización",
+    "Tutela"
+  ],
+  "correcta": 1
+},
+{
+  "id": 177,
+  "pregunta": "¿Qué órgano articula la cooperación con el Estado?",
+  "respuestas": [
+    "Conferencia Sectorial",
+    "Comisión Bilateral Canarias-Estado",
+    "Senado",
+    "Delegación del Gobierno"
+  ],
+  "correcta": 2
+},
+{
+  "id": 178,
+  "pregunta": "¿Qué principio rige la participación en conferencias sectoriales?",
+  "respuestas": [
+    "Lealtad institucional",
+    "Supremacía estatal",
+    "Neutralidad",
+    "Centralización"
+  ],
+  "correcta": 1
+},
+{
+  "id": 179,
+  "pregunta": "¿Qué órgano representa a Canarias en el Senado?",
+  "respuestas": [
+    "Gobierno",
+    "Parlamento",
+    "Senadores designados",
+    "Cabildos"
+  ],
+  "correcta": 3
+},
+{
+  "id": 180,
+  "pregunta": "¿Qué principio rige la designación de senadores autonómicos?",
+  "respuestas": [
+    "Proporcionalidad",
+    "Unanimidad",
+    "Discrecionalidad",
+    "Centralización"
+  ],
+  "correcta": 1
+},
+
+{
+  "id": 181,
+  "pregunta": "¿Qué principio rige la defensa del interés general canario?",
+  "respuestas": [
+    "Autonomía",
+    "Solidaridad",
+    "Equilibrio",
+    "Todos los anteriores"
+  ],
+  "correcta": 4
+},
+{
+  "id": 182,
+  "pregunta": "¿Qué institución impulsa la cohesión social?",
+  "respuestas": [
+    "Estado",
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 2
+},
+{
+  "id": 183,
+  "pregunta": "¿Qué principio rige la política fiscal del REF?",
+  "respuestas": [
+    "Neutralidad económica",
+    "Recaudación máxima",
+    "Uniformidad",
+    "Centralización"
+  ],
+  "correcta": 1
+},
+{
+  "id": 184,
+  "pregunta": "¿Qué órgano participa en la actualización del REF?",
+  "respuestas": [
+    "Parlamento de Canarias",
+    "Cabildos",
+    "Ayuntamientos",
+    "Consejo Consultivo"
+  ],
+  "correcta": 1
+},
+{
+  "id": 185,
+  "pregunta": "¿Qué principio rige la protección de los consumidores en el REF?",
+  "respuestas": [
+    "Equilibrio fiscal",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+
+{
+  "id": 186,
+  "pregunta": "¿Qué principio rige la compensación por costes de la insularidad?",
+  "respuestas": [
+    "Equidad",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 187,
+  "pregunta": "¿Qué institución reclama el cumplimiento del principio de compensación?",
+  "respuestas": [
+    "Cabildos",
+    "Gobierno de Canarias",
+    "Ayuntamientos",
+    "Consejo Consultivo"
+  ],
+  "correcta": 2
+},
+{
+  "id": 188,
+  "pregunta": "¿Qué principio rige la financiación del transporte?",
+  "respuestas": [
+    "Continuidad territorial",
+    "Libre mercado",
+    "Neutralidad",
+    "Centralización"
+  ],
+  "correcta": 1
+},
+{
+  "id": 189,
+  "pregunta": "¿Qué ámbito protege el principio de continuidad territorial?",
+  "respuestas": [
+    "Educación",
+    "Transporte",
+    "Sanidad",
+    "Turismo"
+  ],
+  "correcta": 2
+},
+{
+  "id": 190,
+  "pregunta": "¿Qué institución coordina la movilidad interinsular?",
+  "respuestas": [
+    "Estado",
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Ayuntamientos"
+  ],
+  "correcta": 2
+},
+
+{
+  "id": 191,
+  "pregunta": "¿Qué principio rige la planificación portuaria autonómica?",
+  "respuestas": [
+    "Interés general",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 192,
+  "pregunta": "¿Qué competencia tiene Canarias en puertos no estatales?",
+  "respuestas": [
+    "Exclusiva",
+    "Compartida",
+    "Ejecutiva",
+    "Residual"
+  ],
+  "correcta": 1
+},
+{
+  "id": 193,
+  "pregunta": "¿Qué principio rige la ordenación aeroportuaria?",
+  "respuestas": [
+    "Interés general estatal",
+    "Autonomía plena",
+    "Neutralidad",
+    "Centralización insular"
+  ],
+  "correcta": 1
+},
+{
+  "id": 194,
+  "pregunta": "¿Qué órgano participa en la planificación aeroportuaria?",
+  "respuestas": [
+    "Gobierno de Canarias",
+    "Cabildos",
+    "Ayuntamientos",
+    "Consejo Consultivo"
+  ],
+  "correcta": 1
+},
+{
+  "id": 195,
+  "pregunta": "¿Qué principio rige la política de costas?",
+  "respuestas": [
+    "Protección del dominio público",
+    "Explotación turística",
+    "Neutralidad",
+    "Centralización"
+  ],
+  "correcta": 1
+},
+
+{
+  "id": 196,
+  "pregunta": "¿Qué competencia tiene Canarias en gestión del litoral?",
+  "respuestas": [
+    "Ejecutiva",
+    "Exclusiva",
+    "Compartida",
+    "Residual"
+  ],
+  "correcta": 1
+},
+{
+  "id": 197,
+  "pregunta": "¿Qué principio rige la política pesquera?",
+  "respuestas": [
+    "Sostenibilidad",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 198,
+  "pregunta": "¿Qué competencia tiene Canarias en pesca artesanal?",
+  "respuestas": [
+    "Exclusiva",
+    "Compartida",
+    "Ejecutiva",
+    "Residual"
+  ],
+  "correcta": 1
+},
+{
+  "id": 199,
+  "pregunta": "¿Qué principio rige la política agraria?",
+  "respuestas": [
+    "Equilibrio territorial",
+    "Neutralidad",
+    "Centralización",
+    "Discrecionalidad"
+  ],
+  "correcta": 1
+},
+{
+  "id": 200,
+  "pregunta": "¿Qué finalidad persigue el Estatuto en relación con el desarrollo sostenible?",
+  "respuestas": [
+    "Crecimiento económico ilimitado",
+    "Equilibrio entre progreso y protección",
+    "Centralización normativa",
+    "Neutralidad ambiental"
+  ],
+  "correcta": 2
+}
+,
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es uno de los valores superiores del ordenamiento jurídico según el artículo 1 de la Constitución Española?",
+      "respuestas": [
+        "La igualdad",
+        "La unidad territorial",
+        "La jerarquía normativa",
+        "La descentralización"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Qué valor superior implica la sujeción de todos los poderes públicos a la Constitución?",
+      "respuestas": [
+        "Libertad",
+        "Justicia",
+        "Estado de Derecho",
+        "Pluralismo político"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Qué principio inspira la organización territorial del Estado según la Constitución?",
+      "respuestas": [
+        "Centralización administrativa",
+        "Autonomía de nacionalidades y regiones",
+        "Soberanía regional",
+        "Federalismo expreso"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Dónde se reconocen los derechos fundamentales y libertades públicas?",
+      "respuestas": [
+        "Título Preliminar",
+        "Título I",
+        "Título II",
+        "Título IV"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Qué artículo reconoce el derecho a la vida?",
+      "respuestas": [
+        "Artículo 14",
+        "Artículo 15",
+        "Artículo 16",
+        "Artículo 17"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 6,
+      "pregunta": "Pregunta de prueba constitucional número 6 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 7,
+      "pregunta": "Pregunta de prueba constitucional número 7 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 8,
+      "pregunta": "Pregunta de prueba constitucional número 8 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 9,
+      "pregunta": "Pregunta de prueba constitucional número 9 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 10,
+      "pregunta": "Pregunta de prueba constitucional número 10 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 11,
+      "pregunta": "Pregunta de prueba constitucional número 11 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 12,
+      "pregunta": "Pregunta de prueba constitucional número 12 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 13,
+      "pregunta": "Pregunta de prueba constitucional número 13 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 14,
+      "pregunta": "Pregunta de prueba constitucional número 14 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 15,
+      "pregunta": "Pregunta de prueba constitucional número 15 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 16,
+      "pregunta": "Pregunta de prueba constitucional número 16 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 17,
+      "pregunta": "Pregunta de prueba constitucional número 17 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 18,
+      "pregunta": "Pregunta de prueba constitucional número 18 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 19,
+      "pregunta": "Pregunta de prueba constitucional número 19 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 20,
+      "pregunta": "Pregunta de prueba constitucional número 20 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 21,
+      "pregunta": "Pregunta de prueba constitucional número 21 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 22,
+      "pregunta": "Pregunta de prueba constitucional número 22 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 23,
+      "pregunta": "Pregunta de prueba constitucional número 23 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 24,
+      "pregunta": "Pregunta de prueba constitucional número 24 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 25,
+      "pregunta": "Pregunta de prueba constitucional número 25 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 26,
+      "pregunta": "Pregunta de prueba constitucional número 26 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 27,
+      "pregunta": "Pregunta de prueba constitucional número 27 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 28,
+      "pregunta": "Pregunta de prueba constitucional número 28 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 29,
+      "pregunta": "Pregunta de prueba constitucional número 29 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 30,
+      "pregunta": "Pregunta de prueba constitucional número 30 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 31,
+      "pregunta": "Pregunta de prueba constitucional número 31 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 32,
+      "pregunta": "Pregunta de prueba constitucional número 32 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 33,
+      "pregunta": "Pregunta de prueba constitucional número 33 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 34,
+      "pregunta": "Pregunta de prueba constitucional número 34 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 35,
+      "pregunta": "Pregunta de prueba constitucional número 35 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 36,
+      "pregunta": "Pregunta de prueba constitucional número 36 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 37,
+      "pregunta": "Pregunta de prueba constitucional número 37 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 38,
+      "pregunta": "Pregunta de prueba constitucional número 38 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 39,
+      "pregunta": "Pregunta de prueba constitucional número 39 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 40,
+      "pregunta": "Pregunta de prueba constitucional número 40 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 41,
+      "pregunta": "Pregunta de prueba constitucional número 41 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 42,
+      "pregunta": "Pregunta de prueba constitucional número 42 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 43,
+      "pregunta": "Pregunta de prueba constitucional número 43 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 44,
+      "pregunta": "Pregunta de prueba constitucional número 44 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 45,
+      "pregunta": "Pregunta de prueba constitucional número 45 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 46,
+      "pregunta": "Pregunta de prueba constitucional número 46 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 47,
+      "pregunta": "Pregunta de prueba constitucional número 47 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 48,
+      "pregunta": "Pregunta de prueba constitucional número 48 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 49,
+      "pregunta": "Pregunta de prueba constitucional número 49 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 50,
+      "pregunta": "Pregunta de prueba constitucional número 50 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 51,
+      "pregunta": "Pregunta de prueba constitucional número 51 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 52,
+      "pregunta": "Pregunta de prueba constitucional número 52 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 53,
+      "pregunta": "Pregunta de prueba constitucional número 53 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 54,
+      "pregunta": "Pregunta de prueba constitucional número 54 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 55,
+      "pregunta": "Pregunta de prueba constitucional número 55 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 56,
+      "pregunta": "Pregunta de prueba constitucional número 56 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 57,
+      "pregunta": "Pregunta de prueba constitucional número 57 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 58,
+      "pregunta": "Pregunta de prueba constitucional número 58 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 59,
+      "pregunta": "Pregunta de prueba constitucional número 59 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 60,
+      "pregunta": "Pregunta de prueba constitucional número 60 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 61,
+      "pregunta": "Pregunta de prueba constitucional número 61 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 62,
+      "pregunta": "Pregunta de prueba constitucional número 62 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 63,
+      "pregunta": "Pregunta de prueba constitucional número 63 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 64,
+      "pregunta": "Pregunta de prueba constitucional número 64 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 65,
+      "pregunta": "Pregunta de prueba constitucional número 65 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 66,
+      "pregunta": "Pregunta de prueba constitucional número 66 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 67,
+      "pregunta": "Pregunta de prueba constitucional número 67 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 68,
+      "pregunta": "Pregunta de prueba constitucional número 68 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 69,
+      "pregunta": "Pregunta de prueba constitucional número 69 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 70,
+      "pregunta": "Pregunta de prueba constitucional número 70 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 71,
+      "pregunta": "Pregunta de prueba constitucional número 71 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 72,
+      "pregunta": "Pregunta de prueba constitucional número 72 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 73,
+      "pregunta": "Pregunta de prueba constitucional número 73 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 74,
+      "pregunta": "Pregunta de prueba constitucional número 74 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 75,
+      "pregunta": "Pregunta de prueba constitucional número 75 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 76,
+      "pregunta": "Pregunta de prueba constitucional número 76 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 77,
+      "pregunta": "Pregunta de prueba constitucional número 77 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 78,
+      "pregunta": "Pregunta de prueba constitucional número 78 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 79,
+      "pregunta": "Pregunta de prueba constitucional número 79 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 80,
+      "pregunta": "Pregunta de prueba constitucional número 80 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 81,
+      "pregunta": "Pregunta de prueba constitucional número 81 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 82,
+      "pregunta": "Pregunta de prueba constitucional número 82 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 83,
+      "pregunta": "Pregunta de prueba constitucional número 83 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 84,
+      "pregunta": "Pregunta de prueba constitucional número 84 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 85,
+      "pregunta": "Pregunta de prueba constitucional número 85 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 86,
+      "pregunta": "Pregunta de prueba constitucional número 86 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 87,
+      "pregunta": "Pregunta de prueba constitucional número 87 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 88,
+      "pregunta": "Pregunta de prueba constitucional número 88 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 89,
+      "pregunta": "Pregunta de prueba constitucional número 89 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 90,
+      "pregunta": "Pregunta de prueba constitucional número 90 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 91,
+      "pregunta": "Pregunta de prueba constitucional número 91 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 92,
+      "pregunta": "Pregunta de prueba constitucional número 92 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 93,
+      "pregunta": "Pregunta de prueba constitucional número 93 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 94,
+      "pregunta": "Pregunta de prueba constitucional número 94 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 95,
+      "pregunta": "Pregunta de prueba constitucional número 95 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 96,
+      "pregunta": "Pregunta de prueba constitucional número 96 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 97,
+      "pregunta": "Pregunta de prueba constitucional número 97 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 98,
+      "pregunta": "Pregunta de prueba constitucional número 98 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 99,
+      "pregunta": "Pregunta de prueba constitucional número 99 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 100,
+      "pregunta": "Pregunta de prueba constitucional número 100 relacionada con derechos fundamentales.",
+      "respuestas": [
+        "Respuesta A",
+        "Respuesta B",
+        "Respuesta C",
+        "Respuesta D"
+      ],
+      "correcta": 1
+    }
+
   ]
 }

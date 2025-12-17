@@ -2239,43 +2239,121 @@
   ],
   "correcta": 2
 }
+
 ,
     {
       "id": 1,
-      "pregunta": "¿Cuál es uno de los valores superiores del ordenamiento jurídico según el artículo 1 de la Constitución Española?",
+      "pregunta": "Según el artículo 1.1 de la Constitución Española, ¿cuál de los siguientes es un valor superior del ordenamiento jurídico?",
       "respuestas": [
-        "La igualdad",
-        "La unidad territorial",
-        "La jerarquía normativa",
-        "La descentralización"
+        "Libertad",
+        "Unidad territorial",
+        "Seguridad jurídica",
+        "Autonomía política"
       ],
       "correcta": 1
     },
     {
       "id": 2,
-      "pregunta": "¿Qué valor superior implica la sujeción de todos los poderes públicos a la Constitución?",
+      "pregunta": "¿Qué valor superior garantiza la coexistencia de distintas opciones ideológicas en el sistema constitucional?",
       "respuestas": [
-        "Libertad",
         "Justicia",
-        "Estado de Derecho",
-        "Pluralismo político"
+        "Libertad",
+        "Pluralismo político",
+        "Igualdad material"
       ],
       "correcta": 3
     },
     {
       "id": 3,
-      "pregunta": "¿Qué principio inspira la organización territorial del Estado según la Constitución?",
+      "pregunta": "¿Qué principio define a España como un Estado sometido al imperio de la ley?",
       "respuestas": [
-        "Centralización administrativa",
-        "Autonomía de nacionalidades y regiones",
-        "Soberanía regional",
-        "Federalismo expreso"
+        "Estado democrático",
+        "Estado social",
+        "Estado de Derecho",
+        "Estado descentralizado"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Qué artículo proclama la soberanía nacional del pueblo español?",
+      "respuestas": [
+        "Artículo 1.1",
+        "Artículo 1.2",
+        "Artículo 2",
+        "Artículo 9.1"
       ],
       "correcta": 2
     },
     {
-      "id": 4,
-      "pregunta": "¿Dónde se reconocen los derechos fundamentales y libertades públicas?",
+      "id": 5,
+      "pregunta": "¿Qué principio constitucional obliga a los poderes públicos a promover condiciones para la igualdad real?",
+      "respuestas": [
+        "Legalidad",
+        "Seguridad jurídica",
+        "Igualdad formal",
+        "Igualdad material"
+      ],
+      "correcta": 4
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Qué artículo establece la sujeción de ciudadanos y poderes públicos a la Constitución?",
+      "respuestas": [
+        "Artículo 1.1",
+        "Artículo 2",
+        "Artículo 9.1",
+        "Artículo 10.1"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Qué principio prohíbe la arbitrariedad de los poderes públicos?",
+      "respuestas": [
+        "Legalidad",
+        "Responsabilidad",
+        "Interdicción de la arbitrariedad",
+        "Jerarquía normativa"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Qué principio garantiza la estabilidad del ordenamiento jurídico?",
+      "respuestas": [
+        "Legalidad",
+        "Publicidad normativa",
+        "Seguridad jurídica",
+        "Responsabilidad"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Dónde se recoge el principio de jerarquía normativa?",
+      "respuestas": [
+        "Artículo 1",
+        "Artículo 2",
+        "Artículo 9.3",
+        "Artículo 10"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Qué principio constitucional asegura la publicación de las normas?",
+      "respuestas": [
+        "Legalidad",
+        "Publicidad normativa",
+        "Seguridad jurídica",
+        "Eficacia"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 11,
+      "pregunta": "¿Qué título de la Constitución regula los derechos y deberes fundamentales?",
       "respuestas": [
         "Título Preliminar",
         "Título I",
@@ -2285,8 +2363,30 @@
       "correcta": 2
     },
     {
-      "id": 5,
-      "pregunta": "¿Qué artículo reconoce el derecho a la vida?",
+      "id": 12,
+      "pregunta": "¿Qué artículo reconoce el principio de igualdad ante la ley?",
+      "respuestas": [
+        "Artículo 9",
+        "Artículo 10",
+        "Artículo 14",
+        "Artículo 15"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Qué derecho fundamental protege la vida y la integridad física?",
+      "respuestas": [
+        "Libertad ideológica",
+        "Derecho a la vida",
+        "Libertad personal",
+        "Dignidad"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 14,
+      "pregunta": "¿Qué artículo prohíbe la tortura y los tratos inhumanos o degradantes?",
       "respuestas": [
         "Artículo 14",
         "Artículo 15",
@@ -2296,1050 +2396,953 @@
       "correcta": 2
     },
     {
-      "id": 6,
-      "pregunta": "Pregunta de prueba constitucional número 6 relacionada con derechos fundamentales.",
-      "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
-      ],
-      "correcta": 1
-    },
-    {
-      "id": 7,
-      "pregunta": "Pregunta de prueba constitucional número 7 relacionada con derechos fundamentales.",
-      "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
-      ],
-      "correcta": 1
-    },
-    {
-      "id": 8,
-      "pregunta": "Pregunta de prueba constitucional número 8 relacionada con derechos fundamentales.",
-      "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
-      ],
-      "correcta": 1
-    },
-    {
-      "id": 9,
-      "pregunta": "Pregunta de prueba constitucional número 9 relacionada con derechos fundamentales.",
-      "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
-      ],
-      "correcta": 1
-    },
-    {
-      "id": 10,
-      "pregunta": "Pregunta de prueba constitucional número 10 relacionada con derechos fundamentales.",
-      "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
-      ],
-      "correcta": 1
-    },
-    {
-      "id": 11,
-      "pregunta": "Pregunta de prueba constitucional número 11 relacionada con derechos fundamentales.",
-      "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
-      ],
-      "correcta": 1
-    },
-    {
-      "id": 12,
-      "pregunta": "Pregunta de prueba constitucional número 12 relacionada con derechos fundamentales.",
-      "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
-      ],
-      "correcta": 1
-    },
-    {
-      "id": 13,
-      "pregunta": "Pregunta de prueba constitucional número 13 relacionada con derechos fundamentales.",
-      "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
-      ],
-      "correcta": 1
-    },
-    {
-      "id": 14,
-      "pregunta": "Pregunta de prueba constitucional número 14 relacionada con derechos fundamentales.",
-      "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
-      ],
-      "correcta": 1
-    },
-    {
       "id": 15,
-      "pregunta": "Pregunta de prueba constitucional número 15 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho garantiza la libertad ideológica, religiosa y de culto?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Artículo 15",
+        "Artículo 16",
+        "Artículo 17",
+        "Artículo 18"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 16,
-      "pregunta": "Pregunta de prueba constitucional número 16 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho protege la libertad y seguridad personal?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Artículo 16",
+        "Artículo 17",
+        "Artículo 18",
+        "Artículo 19"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 17,
-      "pregunta": "Pregunta de prueba constitucional número 17 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho fundamental ampara el honor, la intimidad y la propia imagen?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Artículo 17",
+        "Artículo 18",
+        "Artículo 19",
+        "Artículo 20"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 18,
-      "pregunta": "Pregunta de prueba constitucional número 18 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho permite expresar y difundir pensamientos libremente?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Derecho de reunión",
+        "Derecho de asociación",
+        "Libertad de expresión",
+        "Libertad ideológica"
       ],
-      "correcta": 1
+      "correcta": 3
     },
     {
       "id": 19,
-      "pregunta": "Pregunta de prueba constitucional número 19 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué límite expreso tiene la libertad de expresión?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Orden público",
+        "Respeto a los derechos fundamentales",
+        "Moral pública",
+        "Seguridad nacional"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 20,
-      "pregunta": "Pregunta de prueba constitucional número 20 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho reconoce el artículo 21 de la Constitución?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Asociación",
+        "Reunión",
+        "Sindicación",
+        "Huelga"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 21,
-      "pregunta": "Pregunta de prueba constitucional número 21 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho fundamental permite crear asociaciones?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Artículo 21",
+        "Artículo 22",
+        "Artículo 23",
+        "Artículo 24"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 22,
-      "pregunta": "Pregunta de prueba constitucional número 22 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho garantiza la participación política directa o representativa?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Artículo 22",
+        "Artículo 23",
+        "Artículo 24",
+        "Artículo 25"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 23,
-      "pregunta": "Pregunta de prueba constitucional número 23 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho fundamental reconoce el acceso a la tutela judicial efectiva?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Artículo 23",
+        "Artículo 24",
+        "Artículo 25",
+        "Artículo 26"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 24,
-      "pregunta": "Pregunta de prueba constitucional número 24 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho prohíbe tribunales de excepción?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Derecho al juez ordinario predeterminado por la ley",
+        "Tutela judicial",
+        "Presunción de inocencia",
+        "Legalidad penal"
       ],
       "correcta": 1
     },
     {
       "id": 25,
-      "pregunta": "Pregunta de prueba constitucional número 25 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué principio penal establece que nadie puede ser condenado por hechos no tipificados previamente?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Presunción de inocencia",
+        "Legalidad penal",
+        "Responsabilidad penal",
+        "Irretroactividad"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 26,
-      "pregunta": "Pregunta de prueba constitucional número 26 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho fundamental reconoce la presunción de inocencia?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Artículo 23",
+        "Artículo 24",
+        "Artículo 25",
+        "Artículo 26"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 27,
-      "pregunta": "Pregunta de prueba constitucional número 27 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho fundamental regula el artículo 27 de la Constitución?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Educación",
+        "Salud",
+        "Trabajo",
+        "Vivienda"
       ],
       "correcta": 1
     },
     {
       "id": 28,
-      "pregunta": "Pregunta de prueba constitucional número 28 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho reconoce el artículo 28.1?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Huelga",
+        "Sindicación",
+        "Asociación",
+        "Negociación colectiva"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 29,
-      "pregunta": "Pregunta de prueba constitucional número 29 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho fundamental está limitado a trabajadores?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Sindicación",
+        "Reunión",
+        "Expresión",
+        "Petición"
       ],
       "correcta": 1
     },
     {
       "id": 30,
-      "pregunta": "Pregunta de prueba constitucional número 30 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué derecho se reconoce en el artículo 29?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Petición",
+        "Asociación",
+        "Reunión",
+        "Participación"
       ],
       "correcta": 1
     },
     {
       "id": 31,
-      "pregunta": "Pregunta de prueba constitucional número 31 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué artículo de la Constitución reconoce el derecho a la protección de la salud?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Artículo 41",
+        "Artículo 42",
+        "Artículo 43",
+        "Artículo 44"
       ],
-      "correcta": 1
+      "correcta": 3
     },
     {
       "id": 32,
-      "pregunta": "Pregunta de prueba constitucional número 32 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué naturaleza tiene el derecho a la protección de la salud?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Derecho fundamental",
+        "Principio rector",
+        "Derecho subjetivo absoluto",
+        "Libertad pública"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 33,
-      "pregunta": "Pregunta de prueba constitucional número 33 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué poderes públicos tienen la obligación de organizar y tutelar la salud pública?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "El Estado",
+        "Las Comunidades Autónomas",
+        "Los poderes públicos",
+        "Las entidades locales"
       ],
-      "correcta": 1
+      "correcta": 3
     },
     {
       "id": 34,
-      "pregunta": "Pregunta de prueba constitucional número 34 relacionada con derechos fundamentales.",
+      "pregunta": "¿Mediante qué instrumentos se tutela la salud pública según la Constitución?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Ley y reglamento",
+        "Medidas preventivas y servicios necesarios",
+        "Planes económicos",
+        "Normas europeas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 35,
-      "pregunta": "Pregunta de prueba constitucional número 35 relacionada con derechos fundamentales.",
+      "pregunta": "¿Qué relación guarda el artículo 43 con el artículo 53 de la Constitución?",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Protección mediante recurso de amparo",
+        "Aplicación directa",
+        "Principio rector exigible según ley",
+        "Tutela judicial preferente"
       ],
-      "correcta": 1
+      "correcta": 3
     },
     {
       "id": 36,
-      "pregunta": "Pregunta de prueba constitucional número 36 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 36.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 37,
-      "pregunta": "Pregunta de prueba constitucional número 37 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 37.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 38,
-      "pregunta": "Pregunta de prueba constitucional número 38 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 38.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 39,
-      "pregunta": "Pregunta de prueba constitucional número 39 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 39.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 40,
-      "pregunta": "Pregunta de prueba constitucional número 40 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 40.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 41,
-      "pregunta": "Pregunta de prueba constitucional número 41 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 41.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 42,
-      "pregunta": "Pregunta de prueba constitucional número 42 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 42.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 43,
-      "pregunta": "Pregunta de prueba constitucional número 43 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 43.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 44,
-      "pregunta": "Pregunta de prueba constitucional número 44 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 44.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 45,
-      "pregunta": "Pregunta de prueba constitucional número 45 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 45.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 46,
-      "pregunta": "Pregunta de prueba constitucional número 46 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 46.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 47,
-      "pregunta": "Pregunta de prueba constitucional número 47 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 47.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 48,
-      "pregunta": "Pregunta de prueba constitucional número 48 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 48.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 49,
-      "pregunta": "Pregunta de prueba constitucional número 49 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 49.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 50,
-      "pregunta": "Pregunta de prueba constitucional número 50 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 50.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 51,
-      "pregunta": "Pregunta de prueba constitucional número 51 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 51.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 52,
-      "pregunta": "Pregunta de prueba constitucional número 52 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 52.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 53,
-      "pregunta": "Pregunta de prueba constitucional número 53 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 53.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 54,
-      "pregunta": "Pregunta de prueba constitucional número 54 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 54.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 55,
-      "pregunta": "Pregunta de prueba constitucional número 55 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 55.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 56,
-      "pregunta": "Pregunta de prueba constitucional número 56 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 56.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 57,
-      "pregunta": "Pregunta de prueba constitucional número 57 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 57.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 58,
-      "pregunta": "Pregunta de prueba constitucional número 58 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 58.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 59,
-      "pregunta": "Pregunta de prueba constitucional número 59 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 59.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 60,
-      "pregunta": "Pregunta de prueba constitucional número 60 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 60.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 61,
-      "pregunta": "Pregunta de prueba constitucional número 61 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 61.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 62,
-      "pregunta": "Pregunta de prueba constitucional número 62 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 62.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 63,
-      "pregunta": "Pregunta de prueba constitucional número 63 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 63.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 64,
-      "pregunta": "Pregunta de prueba constitucional número 64 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 64.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 65,
-      "pregunta": "Pregunta de prueba constitucional número 65 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 65.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 66,
-      "pregunta": "Pregunta de prueba constitucional número 66 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 66.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 67,
-      "pregunta": "Pregunta de prueba constitucional número 67 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 67.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 68,
-      "pregunta": "Pregunta de prueba constitucional número 68 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 68.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 69,
-      "pregunta": "Pregunta de prueba constitucional número 69 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 69.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 70,
-      "pregunta": "Pregunta de prueba constitucional número 70 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 70.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 71,
-      "pregunta": "Pregunta de prueba constitucional número 71 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 71.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 72,
-      "pregunta": "Pregunta de prueba constitucional número 72 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 72.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 73,
-      "pregunta": "Pregunta de prueba constitucional número 73 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 73.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 74,
-      "pregunta": "Pregunta de prueba constitucional número 74 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 74.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 75,
-      "pregunta": "Pregunta de prueba constitucional número 75 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 75.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 76,
-      "pregunta": "Pregunta de prueba constitucional número 76 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 76.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 77,
-      "pregunta": "Pregunta de prueba constitucional número 77 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 77.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 78,
-      "pregunta": "Pregunta de prueba constitucional número 78 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 78.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 79,
-      "pregunta": "Pregunta de prueba constitucional número 79 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 79.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 80,
-      "pregunta": "Pregunta de prueba constitucional número 80 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 80.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 81,
-      "pregunta": "Pregunta de prueba constitucional número 81 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 81.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 82,
-      "pregunta": "Pregunta de prueba constitucional número 82 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 82.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 83,
-      "pregunta": "Pregunta de prueba constitucional número 83 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 83.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 84,
-      "pregunta": "Pregunta de prueba constitucional número 84 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 84.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 85,
-      "pregunta": "Pregunta de prueba constitucional número 85 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 85.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 86,
-      "pregunta": "Pregunta de prueba constitucional número 86 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 86.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 87,
-      "pregunta": "Pregunta de prueba constitucional número 87 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 87.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 88,
-      "pregunta": "Pregunta de prueba constitucional número 88 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 88.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 89,
-      "pregunta": "Pregunta de prueba constitucional número 89 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 89.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 90,
-      "pregunta": "Pregunta de prueba constitucional número 90 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 90.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 91,
-      "pregunta": "Pregunta de prueba constitucional número 91 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 91.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 92,
-      "pregunta": "Pregunta de prueba constitucional número 92 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 92.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 93,
-      "pregunta": "Pregunta de prueba constitucional número 93 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 93.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 94,
-      "pregunta": "Pregunta de prueba constitucional número 94 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 94.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 95,
-      "pregunta": "Pregunta de prueba constitucional número 95 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 95.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 96,
-      "pregunta": "Pregunta de prueba constitucional número 96 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 96.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 97,
-      "pregunta": "Pregunta de prueba constitucional número 97 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 97.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 98,
-      "pregunta": "Pregunta de prueba constitucional número 98 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 98.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 99,
-      "pregunta": "Pregunta de prueba constitucional número 99 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 99.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "id": 100,
-      "pregunta": "Pregunta de prueba constitucional número 100 relacionada con derechos fundamentales.",
+      "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta número 100.",
       "respuestas": [
-        "Respuesta A",
-        "Respuesta B",
-        "Respuesta C",
-        "Respuesta D"
+        "Es un derecho fundamental con amparo constitucional directo",
+        "Es un principio rector que orienta la actuación de los poderes públicos",
+        "No tiene eficacia jurídica",
+        "Depende exclusivamente de las Comunidades Autónomas"
       ],
-      "correcta": 1
+      "correcta": 2
     }
+
+
 
   ]
 }

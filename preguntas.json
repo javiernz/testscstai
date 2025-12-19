@@ -2924,7 +2924,1122 @@
         "Carecer de eficacia frente a particulares"
       ],
       "correcta": 2
+    },
+    {
+    "id": 226,
+    "pregunta": "El personal estatutario de los servicios de salud se clasifican atendiendo a:",
+    "respuestas": [
+      "La función desarrollada",
+      "Al nivel de titulo exigido para su ingreso",
+      "Al tipo de nombramiento",
+      "Todas son correctas"
+      ],
+    "correcta": 4
+    },
+    {
+      "id": 1,
+      "pregunta": "El personal estatutario ostenta los siguientes derechos colectivos:",
+      "respuestas": [
+        "A la movilidad voluntaria",
+        "Al descanso necesario",
+        "A la libre sindicación",
+        "Todas son incorrectas"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 2,
+      "pregunta": "El personal estatutario de los servicios de salud viene obligado a:",
+      "respuestas": [
+        "Cumplir las normas relativas a la seguridad y salud en el trabajo, así como las disposiciones adoptadas en el centro sanitario en relación con esta materia",
+        "A la jubilación en los términos y condiciones establecidos",
+        "A la acción social en los términos y ámbitos que se determinen",
+        "Todas son correctas"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 3,
+      "pregunta": "La condición de personal estatutario fijo se adquiere por el cumplimiento sucesivo de los siguientes requisitos:",
+      "respuestas": [
+        "Superación de las pruebas de selección",
+        "Nombramiento conferido por el órgano competente",
+        "Incorporación, previo cumplimiento de los requisitos formales, a una plaza del servicio correspondiente",
+        "Todas son correctas"
+      ],
+      "correcta": 4
+    },
+    {
+      "id": 4,
+      "pregunta": "Son causas de extinción de la condición de personal estatutario fijo:",
+      "respuestas": [
+        "El tipo de nombramiento",
+        "La jubilación",
+        "La función desarrollada",
+        "Todas son incorrectas"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 5,
+      "pregunta": "La provisión de plazas del personal estatutario se regirá por los siguientes principios básicos:",
+      "respuestas": [
+        "Planificación eficiente de las necesidades de recursos y programación periódica de las convocatorias",
+        "Igualdad, mérito, capacidad y publicidad",
+        "Participación de las organizaciones sindicales mediante negociación",
+        "Todas son correctas"
+      ],
+      "correcta": 4
+    },
+    {
+      "id": 6,
+      "pregunta": "El nombramiento del personal estatutario temporal se realizará:",
+      "respuestas": [
+        "Con carácter discrecional",
+        "De forma automática",
+        "Por razones expresamente justificadas de necesidad y urgencia",
+        "Por concurso de méritos"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 7,
+      "pregunta": "El personal estatutario está sujeto al régimen de incompatibilidades:",
+      "respuestas": [
+        "De los funcionarios de carrera",
+        "Del personal laboral",
+        "Del personal al servicio de las Administraciones Públicas",
+        "Ninguna es correcta"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 8,
+      "pregunta": "El régimen disciplinario del personal estatutario se rige por:",
+      "respuestas": [
+        "La normativa laboral",
+        "La legislación penal",
+        "La legislación básica del Estado y su desarrollo autonómico",
+        "El convenio colectivo"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 9,
+      "pregunta": "Las faltas disciplinarias del personal estatutario se clasifican en:",
+      "respuestas": [
+        "Leves y graves",
+        "Graves y muy graves",
+        "Leves, graves y muy graves",
+        "Simples y complejas"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 10,
+      "pregunta": "La potestad disciplinaria corresponde:",
+      "respuestas": [
+        "Exclusivamente al Parlamento",
+        "A la autoridad judicial",
+        "A los órganos competentes de la Administración sanitaria",
+        "A las organizaciones sindicales"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 11,
+      "pregunta": "El personal estatutario tiene derecho a la formación continuada:",
+      "respuestas": [
+        "Solo si es obligatoria",
+        "Como derecho individual y colectivo",
+        "Únicamente en horario no laboral",
+        "Solo a iniciativa del trabajador"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 12,
+      "pregunta": "La movilidad voluntaria del personal estatutario se articula mediante:",
+      "respuestas": [
+        "Libre designación",
+        "Comisión de servicios",
+        "Concurso de traslados",
+        "Nombramiento provisional"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 13,
+      "pregunta": "La jornada de trabajo del personal estatutario:",
+      "respuestas": [
+        "Es idéntica en todos los servicios",
+        "Se fija por negociación colectiva",
+        "Se determina conforme a la normativa aplicable y las necesidades del servicio",
+        "Es siempre de carácter fijo"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 14,
+      "pregunta": "El personal estatutario tiene derecho a la protección eficaz en materia de seguridad y salud:",
+      "respuestas": [
+        "Solo en caso de accidente",
+        "En los términos previstos en la normativa de prevención de riesgos laborales",
+        "Únicamente en puestos de riesgo",
+        "De forma voluntaria"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 15,
+      "pregunta": "Las retribuciones del personal estatutario se estructuran en:",
+      "respuestas": [
+        "Retribuciones básicas y complementarias",
+        "Salario base y pluses",
+        "Honorarios y dietas",
+        "Retribuciones fijas únicamente"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 16,
+      "pregunta": "El complemento específico retribuye:",
+      "respuestas": [
+        "La antigüedad",
+        "Las condiciones particulares del puesto",
+        "La productividad general",
+        "La formación recibida"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 17,
+      "pregunta": "El complemento de productividad está vinculado a:",
+      "respuestas": [
+        "La antigüedad",
+        "El rendimiento y resultados",
+        "La titulación",
+        "El puesto ocupado"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 18,
+      "pregunta": "El personal estatutario tiene derecho a permisos:",
+      "respuestas": [
+        "Solo por causas médicas",
+        "Únicamente por matrimonio",
+        "Por las causas y condiciones legalmente establecidas",
+        "A discreción del superior jerárquico"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 19,
+      "pregunta": "La jubilación del personal estatutario puede ser:",
+      "respuestas": [
+        "Únicamente forzosa",
+        "Solo voluntaria",
+        "Forzosa o voluntaria según los supuestos",
+        "Inexistente"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 20,
+      "pregunta": "La acción social del personal estatutario:",
+      "respuestas": [
+        "Es obligatoria",
+        "Es un derecho condicionado a disponibilidad presupuestaria",
+        "Sustituye a las retribuciones",
+        "No está prevista legalmente"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 21,
+      "pregunta": "El régimen de vacaciones del personal estatutario:",
+      "respuestas": [
+        "Es idéntico al del personal laboral",
+        "Se fija discrecionalmente",
+        "Se regula conforme a la normativa aplicable",
+        "Depende exclusivamente del servicio"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 22,
+      "pregunta": "La evaluación del desempeño del personal estatutario:",
+      "respuestas": [
+        "No está prevista",
+        "Tiene carácter sancionador",
+        "Puede tener efectos en la carrera profesional",
+        "Sustituye al régimen disciplinario"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 23,
+      "pregunta": "La carrera profesional del personal estatutario:",
+      "respuestas": [
+        "Es automática",
+        "No existe",
+        "Se basa en criterios de mérito y evaluación",
+        "Depende solo de la antigüedad"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 24,
+      "pregunta": "La representación del personal estatutario se ejerce mediante:",
+      "respuestas": [
+        "Órganos judiciales",
+        "Colegios profesionales",
+        "Órganos de representación y negociación",
+        "La Administración exclusivamente"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 25,
+      "pregunta": "El uso indebido de recursos públicos por el personal estatutario:",
+      "respuestas": [
+        "No tiene consecuencias",
+        "Puede dar lugar a responsabilidad disciplinaria",
+        "Solo genera advertencias",
+        "Es una falta leve en todo caso"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 26,
+      "pregunta": "El personal estatutario tiene derecho a conocer los objetivos y funciones asignadas a su puesto de trabajo:",
+      "respuestas": [
+        "Solo a petición del interesado",
+        "Únicamente en procesos selectivos",
+        "Como parte de sus derechos profesionales",
+        "Exclusivamente en caso de evaluación"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 27,
+      "pregunta": "El principio de igualdad en el acceso al empleo público implica:",
+      "respuestas": [
+        "Preferencia por antigüedad",
+        "Ausencia de cualquier requisito",
+        "Igualdad, mérito y capacidad",
+        "Libre designación general"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 28,
+      "pregunta": "La selección del personal estatutario se realizará, con carácter general, mediante:",
+      "respuestas": [
+        "Concurso",
+        "Concurso-oposición",
+        "Libre designación",
+        "Nombramiento directo"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 29,
+      "pregunta": "El acceso a la condición de personal estatutario fijo exige:",
+      "respuestas": [
+        "Solo antigüedad previa",
+        "Superación del proceso selectivo",
+        "Informe favorable del superior",
+        "Negociación sindical"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 30,
+      "pregunta": "El personal estatutario temporal podrá ser nombrado:",
+      "respuestas": [
+        "Únicamente por sustitución",
+        "Para cubrir necesidades permanentes",
+        "Por razones de necesidad, urgencia o programas temporales",
+        "De forma indefinida"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 31,
+      "pregunta": "La duración del nombramiento del personal estatutario temporal:",
+      "respuestas": [
+        "Es indefinida",
+        "Se limita estrictamente a la causa que lo justifica",
+        "Depende del convenio colectivo",
+        "Es siempre anual"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 32,
+      "pregunta": "El cese del personal estatutario temporal se producirá:",
+      "respuestas": [
+        "Solo mediante sanción",
+        "Por decisión unilateral del trabajador",
+        "Cuando desaparezca la causa que motivó su nombramiento",
+        "Únicamente por jubilación"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 33,
+      "pregunta": "La movilidad forzosa del personal estatutario:",
+      "respuestas": [
+        "No está permitida",
+        "Puede acordarse por necesidades del servicio",
+        "Requiere siempre consentimiento del interesado",
+        "Es una sanción disciplinaria"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 34,
+      "pregunta": "La comisión de servicios se caracteriza por ser:",
+      "respuestas": [
+        "Un sistema de provisión definitivo",
+        "Una forma de movilidad temporal",
+        "Un nombramiento estatutario",
+        "Un proceso selectivo"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 35,
+      "pregunta": "El reingreso al servicio activo del personal estatutario:",
+      "respuestas": [
+        "Es automático",
+        "No está previsto",
+        "Se produce conforme a los procedimientos establecidos",
+        "Depende de la antigüedad"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 36,
+      "pregunta": "Las situaciones administrativas del personal estatutario:",
+      "respuestas": [
+        "No existen",
+        "Son idénticas a las del personal laboral",
+        "Se regulan conforme a la normativa aplicable",
+        "Dependen de la negociación colectiva"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 37,
+      "pregunta": "La excedencia voluntaria del personal estatutario:",
+      "respuestas": [
+        "Es obligatoria",
+        "No conlleva reserva de puesto",
+        "Implica sanción",
+        "Se concede discrecionalmente"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 38,
+      "pregunta": "La excedencia por cuidado de familiares:",
+      "respuestas": [
+        "No computa a efectos de antigüedad",
+        "Tiene duración ilimitada",
+        "Está reconocida como derecho",
+        "Implica pérdida definitiva del puesto"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 39,
+      "pregunta": "El personal estatutario en situación de servicios especiales:",
+      "respuestas": [
+        "Pierde la condición estatutaria",
+        "Conserva derechos en los términos legalmente previstos",
+        "No puede reingresar",
+        "Es sancionado"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 40,
+      "pregunta": "La evaluación del desempeño tiene como finalidad principal:",
+      "respuestas": [
+        "Sancionar al personal",
+        "Valorar el rendimiento profesional",
+        "Sustituir la formación",
+        "Eliminar la carrera profesional"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 41,
+      "pregunta": "El complemento de carrera profesional:",
+      "respuestas": [
+        "Es obligatorio para todo el personal",
+        "Se vincula a la evaluación y méritos",
+        "Sustituye al salario base",
+        "Es discrecional"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 42,
+      "pregunta": "Las retribuciones complementarias pueden depender de:",
+      "respuestas": [
+        "La antigüedad únicamente",
+        "Las características del puesto y el rendimiento",
+        "La afiliación sindical",
+        "La situación personal"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 43,
+      "pregunta": "La jornada complementaria del personal estatutario:",
+      "respuestas": [
+        "Es ilegal",
+        "Tiene carácter excepcional y regulado",
+        "Es voluntaria en todo caso",
+        "No retribuida"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 44,
+      "pregunta": "Los permisos por asuntos particulares:",
+      "respuestas": [
+        "No existen",
+        "Se conceden sin límite",
+        "Están sujetos a las condiciones establecidas normativamente",
+        "Dependen solo del superior jerárquico"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 45,
+      "pregunta": "Las licencias del personal estatutario:",
+      "respuestas": [
+        "Son siempre retribuidas",
+        "No están reguladas",
+        "Pueden ser retribuidas o no, según los supuestos",
+        "Sustituyen a las vacaciones"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 46,
+      "pregunta": "El derecho a la conciliación de la vida personal, familiar y laboral:",
+      "respuestas": [
+        "No está reconocido",
+        "Depende de la disponibilidad presupuestaria",
+        "Está reconocido en la normativa aplicable",
+        "Es discrecional"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 47,
+      "pregunta": "El régimen de incompatibilidades del personal estatutario:",
+      "respuestas": [
+        "Permite cualquier actividad privada",
+        "Prohíbe toda actividad adicional",
+        "Está sujeto a autorización en los supuestos previstos",
+        "No se aplica"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 48,
+      "pregunta": "La responsabilidad disciplinaria del personal estatutario:",
+      "respuestas": [
+        "Excluye la responsabilidad penal",
+        "Excluye la responsabilidad civil",
+        "Es compatible con otras responsabilidades",
+        "Solo se aplica a personal fijo"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 49,
+      "pregunta": "Las sanciones disciplinarias deben respetar el principio de:",
+      "respuestas": [
+        "Discrecionalidad",
+        "Proporcionalidad",
+        "Oportunidad",
+        "Jerarquía"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 50,
+      "pregunta": "El procedimiento disciplinario debe garantizar:",
+      "respuestas": [
+        "La rapidez exclusiva",
+        "La presunción de culpabilidad",
+        "La audiencia y defensa del interesado",
+        "La discrecionalidad administrativa"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 51,
+      "pregunta": "El régimen disciplinario del personal estatutario se inspira, entre otros, en el principio de:",
+      "respuestas": [
+        "Discrecionalidad absoluta",
+        "Tipicidad",
+        "Oportunidad política",
+        "Libre apreciación"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 52,
+      "pregunta": "Las faltas muy graves del personal estatutario pueden sancionarse con:",
+      "respuestas": [
+        "Amonestación verbal",
+        "Suspensión de funciones",
+        "Separación del servicio",
+        "Traslado voluntario"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 53,
+      "pregunta": "La prescripción de las faltas disciplinarias:",
+      "respuestas": [
+        "No existe",
+        "Depende exclusivamente de la sanción",
+        "Se regula conforme a la normativa aplicable",
+        "Es siempre anual"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 54,
+      "pregunta": "El inicio del procedimiento disciplinario corresponde:",
+      "respuestas": [
+        "A cualquier empleado público",
+        "Al órgano competente de la Administración",
+        "A la autoridad judicial",
+        "A los sindicatos"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 55,
+      "pregunta": "Durante la tramitación del procedimiento disciplinario puede acordarse:",
+      "respuestas": [
+        "La sanción definitiva inmediata",
+        "La suspensión provisional",
+        "El archivo automático",
+        "La jubilación forzosa"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 56,
+      "pregunta": "La suspensión provisional del personal estatutario:",
+      "respuestas": [
+        "Es una sanción firme",
+        "No afecta a retribuciones",
+        "Tiene carácter cautelar",
+        "Implica pérdida de condición estatutaria"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 57,
+      "pregunta": "El personal estatutario tiene derecho a la defensa y asistencia:",
+      "respuestas": [
+        "Solo judicial",
+        "Solo sindical",
+        "En el procedimiento disciplinario",
+        "Únicamente penal"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 58,
+      "pregunta": "Las sanciones disciplinarias se anotarán:",
+      "respuestas": [
+        "En el BOE",
+        "En el expediente personal",
+        "En el tablón de anuncios",
+        "En el convenio colectivo"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 59,
+      "pregunta": "La cancelación de las sanciones disciplinarias:",
+      "respuestas": [
+        "No está prevista",
+        "Se produce automáticamente al año",
+        "Puede solicitarse una vez cumplida la sanción y transcurrido el plazo legal",
+        "Depende del superior jerárquico"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 60,
+      "pregunta": "La responsabilidad disciplinaria del personal estatutario:",
+      "respuestas": [
+        "Es incompatible con la penal",
+        "Es incompatible con la civil",
+        "Es independiente de otras responsabilidades",
+        "Excluye cualquier otra"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 61,
+      "pregunta": "La representación del personal estatutario en los órganos de negociación:",
+      "respuestas": [
+        "No existe",
+        "Se ejerce a través de órganos representativos legalmente previstos",
+        "Depende de la Administración",
+        "Es meramente consultiva"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 62,
+      "pregunta": "La negociación colectiva del personal estatutario:",
+      "respuestas": [
+        "No está permitida",
+        "Se rige por la normativa laboral",
+        "Se ejerce conforme a la legislación específica",
+        "Sustituye a la ley"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 63,
+      "pregunta": "Los acuerdos alcanzados en la negociación colectiva:",
+      "respuestas": [
+        "Tienen rango constitucional",
+        "Carecen de eficacia",
+        "Están sujetos a los límites legales y presupuestarios",
+        "Son de aplicación automática"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 64,
+      "pregunta": "La participación del personal estatutario en la gestión de los servicios:",
+      "respuestas": [
+        "No está prevista",
+        "Es obligatoria",
+        "Se articula mediante los cauces legalmente establecidos",
+        "Sustituye a la dirección"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 65,
+      "pregunta": "La evaluación del desempeño debe realizarse conforme a criterios de:",
+      "respuestas": [
+        "Discrecionalidad",
+        "Objetividad y transparencia",
+        "Antigüedad",
+        "Oportunidad política"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 66,
+      "pregunta": "La carrera profesional del personal estatutario tiene como finalidad:",
+      "respuestas": [
+        "Sancionar al personal",
+        "Reconocer la progresión profesional",
+        "Sustituir la formación",
+        "Eliminar la movilidad"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 67,
+      "pregunta": "El acceso a los distintos grados de carrera profesional:",
+      "respuestas": [
+        "Es automático",
+        "Depende exclusivamente del tiempo de servicios",
+        "Exige evaluación y cumplimiento de requisitos",
+        "Es discrecional"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 68,
+      "pregunta": "La formación continuada del personal estatutario:",
+      "respuestas": [
+        "Es voluntaria sin efectos",
+        "Es un derecho y un deber",
+        "Solo se realiza fuera de jornada",
+        "No influye en la carrera profesional"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 69,
+      "pregunta": "El derecho a la información del personal estatutario incluye:",
+      "respuestas": [
+        "Información confidencial sin límites",
+        "Acceso a la información relativa a su relación profesional",
+        "Datos personales de otros empleados",
+        "Información reservada"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 70,
+      "pregunta": "El deber de confidencialidad del personal estatutario:",
+      "respuestas": [
+        "Finaliza al cesar",
+        "Se limita al horario laboral",
+        "Se mantiene incluso tras el cese",
+        "Es opcional"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 71,
+      "pregunta": "El uso de los medios y recursos públicos por el personal estatutario:",
+      "respuestas": [
+        "Es libre",
+        "Puede destinarse a fines privados",
+        "Debe ajustarse a los fines institucionales",
+        "Depende del criterio personal"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 72,
+      "pregunta": "El incumplimiento de los deberes profesionales puede dar lugar a:",
+      "respuestas": [
+        "Únicamente advertencias",
+        "Responsabilidad disciplinaria",
+        "Solo responsabilidad civil",
+        "Ninguna consecuencia"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 73,
+      "pregunta": "La responsabilidad patrimonial derivada de la actuación del personal estatutario:",
+      "respuestas": [
+        "Nunca existe",
+        "Es siempre directa del empleado",
+        "Se rige por la normativa aplicable",
+        "Sustituye a la disciplinaria"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 74,
+      "pregunta": "El personal estatutario debe actuar conforme a los principios de:",
+      "respuestas": [
+        "Eficiencia, imparcialidad y legalidad",
+        "Discrecionalidad y oportunidad",
+        "Conveniencia personal",
+        "Autonomía absoluta"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 75,
+      "pregunta": "La observancia de los principios éticos y de conducta profesional:",
+      "respuestas": [
+        "Es voluntaria",
+        "Solo afecta a directivos",
+        "Es exigible a todo el personal estatutario",
+        "Depende de la antigüedad"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 76,
+      "pregunta": "El principio de legalidad en la actuación del personal estatutario implica:",
+      "respuestas": [
+        "Actuar según instrucciones verbales",
+        "Someterse exclusivamente a criterios personales",
+        "Actuar conforme a la Constitución, la ley y el Derecho",
+        "Aplicar solo normas internas"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 77,
+      "pregunta": "La imparcialidad en el ejercicio de las funciones públicas exige:",
+      "respuestas": [
+        "Preferencia por intereses personales",
+        "Neutralidad y objetividad en la actuación",
+        "Obediencia jerárquica absoluta",
+        "Discrecionalidad sin límites"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 78,
+      "pregunta": "El deber de abstención del personal estatutario procede cuando:",
+      "respuestas": [
+        "Exista relación jerárquica",
+        "Concurra interés personal en el asunto",
+        "Se trate de un procedimiento complejo",
+        "Lo solicite el interesado"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 79,
+      "pregunta": "La recusación del personal estatutario puede ser promovida por:",
+      "respuestas": [
+        "Cualquier ciudadano",
+        "La Administración únicamente",
+        "Los interesados en el procedimiento",
+        "Los sindicatos"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 80,
+      "pregunta": "El deber de secreto profesional del personal estatutario:",
+      "respuestas": [
+        "Se limita al tiempo de servicio",
+        "Solo afecta a datos clínicos",
+        "Se extiende a toda información conocida por razón del puesto",
+        "Puede ser dispensado libremente"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 81,
+      "pregunta": "La responsabilidad penal del personal estatutario:",
+      "respuestas": [
+        "Excluye la disciplinaria",
+        "Es independiente de la disciplinaria",
+        "Solo se aplica a personal directivo",
+        "No es compatible con la civil"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 82,
+      "pregunta": "La responsabilidad civil derivada de la actuación profesional:",
+      "respuestas": [
+        "Nunca existe",
+        "Es siempre directa del empleado",
+        "Puede exigirse conforme a la normativa aplicable",
+        "Sustituye a la disciplinaria"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 83,
+      "pregunta": "La responsabilidad patrimonial de la Administración se fundamenta en:",
+      "respuestas": [
+        "La culpa del empleado",
+        "El funcionamiento normal o anormal del servicio",
+        "La intencionalidad del daño",
+        "La antigüedad del personal"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 84,
+      "pregunta": "La acción de regreso contra el personal estatutario:",
+      "respuestas": [
+        "No está prevista",
+        "Se ejerce automáticamente",
+        "Procede en casos de dolo, culpa o negligencia grave",
+        "Sustituye al procedimiento disciplinario"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 85,
+      "pregunta": "El personal estatutario debe colaborar con la Administración de Justicia:",
+      "respuestas": [
+        "Solo si es voluntario",
+        "Cuando sea requerido legalmente",
+        "Únicamente en procesos penales",
+        "Nunca"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 86,
+      "pregunta": "La participación del personal estatutario en actividades formativas:",
+      "respuestas": [
+        "Es irrelevante",
+        "Constituye un derecho y un deber",
+        "Solo es voluntaria",
+        "No tiene efectos profesionales"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 87,
+      "pregunta": "La actualización permanente de conocimientos del personal estatutario:",
+      "respuestas": [
+        "Es opcional",
+        "Depende de la iniciativa personal",
+        "Forma parte de sus deberes profesionales",
+        "No está prevista normativamente"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 88,
+      "pregunta": "El principio de eficiencia en la gestión pública implica:",
+      "respuestas": [
+        "Reducción de derechos",
+        "Uso óptimo de los recursos públicos",
+        "Discrecionalidad absoluta",
+        "Externalización obligatoria"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 89,
+      "pregunta": "La calidad en la prestación de los servicios públicos exige:",
+      "respuestas": [
+        "Rapidez exclusivamente",
+        "Cumplimiento de estándares y mejora continua",
+        "Reducción de costes únicamente",
+        "Automatización total"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 90,
+      "pregunta": "El personal estatutario debe tratar a los ciudadanos con:",
+      "respuestas": [
+        "Distancia profesional",
+        "Preferencia personal",
+        "Respeto, corrección y consideración",
+        "Neutralidad absoluta sin comunicación"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 91,
+      "pregunta": "La transparencia en la actuación administrativa implica:",
+      "respuestas": [
+        "Difusión indiscriminada de información",
+        "Acceso a la información conforme a la normativa",
+        "Publicidad de datos personales",
+        "Ausencia de límites"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 92,
+      "pregunta": "El uso de sistemas de información por el personal estatutario:",
+      "respuestas": [
+        "Es libre",
+        "Debe ajustarse a las normas de seguridad y protección de datos",
+        "No tiene límites",
+        "Depende del criterio del usuario"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 93,
+      "pregunta": "La protección de datos personales en el ámbito sanitario exige:",
+      "respuestas": [
+        "Libre acceso del personal",
+        "Confidencialidad y uso legítimo de los datos",
+        "Publicidad general",
+        "Almacenamiento indefinido"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 94,
+      "pregunta": "El acceso del personal estatutario a datos personales:",
+      "respuestas": [
+        "Es ilimitado",
+        "Se limita a los necesarios para el desempeño de sus funciones",
+        "Depende de la antigüedad",
+        "Es discrecional"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 95,
+      "pregunta": "El incumplimiento de la normativa de protección de datos puede dar lugar a:",
+      "respuestas": [
+        "Solo advertencias",
+        "Responsabilidad disciplinaria y otras responsabilidades",
+        "Ninguna consecuencia",
+        "Únicamente responsabilidad civil"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 96,
+      "pregunta": "La utilización de dispositivos y sistemas corporativos:",
+      "respuestas": [
+        "Puede destinarse a fines personales sin límites",
+        "Debe ajustarse a las normas y políticas establecidas",
+        "Es libre fuera del horario laboral",
+        "No está regulada"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 97,
+      "pregunta": "La seguridad de la información en la Administración sanitaria:",
+      "respuestas": [
+        "Es responsabilidad exclusiva del área TIC",
+        "Afecta únicamente a directivos",
+        "Es responsabilidad de todo el personal",
+        "No es relevante"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 98,
+      "pregunta": "La concienciación en materia de seguridad de la información:",
+      "respuestas": [
+        "No es necesaria",
+        "Se limita a formación inicial",
+        "Debe ser continua",
+        "Es voluntaria"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 99,
+      "pregunta": "El incumplimiento de las políticas internas de seguridad puede suponer:",
+      "respuestas": [
+        "Ninguna consecuencia",
+        "Responsabilidad disciplinaria",
+        "Solo advertencias informales",
+        "Únicamente responsabilidad civil"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 100,
+      "pregunta": "El comportamiento ético del personal estatutario:",
+      "respuestas": [
+        "Es una recomendación",
+        "Solo afecta a cargos directivos",
+        "Es exigible y evaluable",
+        "Depende de la antigüedad"
+      ],
+      "correcta": 3
     }
+
+
+
+
 
   ]
 }

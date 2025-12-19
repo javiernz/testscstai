@@ -2238,11 +2238,9 @@
     "Neutralidad ambiental"
   ],
   "correcta": 2
-}
-
-,
+},
     {
-      "id": 1,
+      "id": 201,
       "pregunta": "Según el artículo 1.1 de la Constitución Española, ¿cuál de los siguientes es un valor superior del ordenamiento jurídico?",
       "respuestas": [
         "Libertad",
@@ -2253,7 +2251,7 @@
       "correcta": 1
     },
     {
-      "id": 2,
+      "id": 202,
       "pregunta": "¿Qué valor superior garantiza la coexistencia de distintas opciones ideológicas en el sistema constitucional?",
       "respuestas": [
         "Justicia",
@@ -2264,7 +2262,7 @@
       "correcta": 3
     },
     {
-      "id": 3,
+      "id": 203,
       "pregunta": "¿Qué principio define a España como un Estado sometido al imperio de la ley?",
       "respuestas": [
         "Estado democrático",
@@ -2275,7 +2273,7 @@
       "correcta": 3
     },
     {
-      "id": 4,
+      "id": 204,
       "pregunta": "¿Qué artículo proclama la soberanía nacional del pueblo español?",
       "respuestas": [
         "Artículo 1.1",
@@ -2286,7 +2284,7 @@
       "correcta": 2
     },
     {
-      "id": 5,
+      "id": 205,
       "pregunta": "¿Qué principio constitucional obliga a los poderes públicos a promover condiciones para la igualdad real?",
       "respuestas": [
         "Legalidad",
@@ -2297,7 +2295,7 @@
       "correcta": 4
     },
     {
-      "id": 6,
+      "id": 206,
       "pregunta": "¿Qué artículo establece la sujeción de ciudadanos y poderes públicos a la Constitución?",
       "respuestas": [
         "Artículo 1.1",
@@ -2308,7 +2306,7 @@
       "correcta": 3
     },
     {
-      "id": 7,
+      "id": 207,
       "pregunta": "¿Qué principio prohíbe la arbitrariedad de los poderes públicos?",
       "respuestas": [
         "Legalidad",
@@ -2319,7 +2317,7 @@
       "correcta": 3
     },
     {
-      "id": 8,
+      "id": 208,
       "pregunta": "¿Qué principio garantiza la estabilidad del ordenamiento jurídico?",
       "respuestas": [
         "Legalidad",
@@ -2330,7 +2328,7 @@
       "correcta": 3
     },
     {
-      "id": 9,
+      "id": 209,
       "pregunta": "¿Dónde se recoge el principio de jerarquía normativa?",
       "respuestas": [
         "Artículo 1",
@@ -2341,7 +2339,7 @@
       "correcta": 3
     },
     {
-      "id": 10,
+      "id": 210,
       "pregunta": "¿Qué principio constitucional asegura la publicación de las normas?",
       "respuestas": [
         "Legalidad",
@@ -2352,7 +2350,7 @@
       "correcta": 2
     },
     {
-      "id": 11,
+      "id": 211,
       "pregunta": "¿Qué título de la Constitución regula los derechos y deberes fundamentales?",
       "respuestas": [
         "Título Preliminar",
@@ -2363,7 +2361,7 @@
       "correcta": 2
     },
     {
-      "id": 12,
+      "id": 212,
       "pregunta": "¿Qué artículo reconoce el principio de igualdad ante la ley?",
       "respuestas": [
         "Artículo 9",
@@ -2374,7 +2372,7 @@
       "correcta": 3
     },
     {
-      "id": 13,
+      "id": 213,
       "pregunta": "¿Qué derecho fundamental protege la vida y la integridad física?",
       "respuestas": [
         "Libertad ideológica",
@@ -2385,7 +2383,7 @@
       "correcta": 2
     },
     {
-      "id": 14,
+      "id": 214,
       "pregunta": "¿Qué artículo prohíbe la tortura y los tratos inhumanos o degradantes?",
       "respuestas": [
         "Artículo 14",
@@ -2396,7 +2394,7 @@
       "correcta": 2
     },
     {
-      "id": 15,
+      "id": 215,
       "pregunta": "¿Qué derecho garantiza la libertad ideológica, religiosa y de culto?",
       "respuestas": [
         "Artículo 15",
@@ -2407,7 +2405,7 @@
       "correcta": 2
     },
     {
-      "id": 16,
+      "id": 216,
       "pregunta": "¿Qué derecho protege la libertad y seguridad personal?",
       "respuestas": [
         "Artículo 16",
@@ -2418,7 +2416,7 @@
       "correcta": 2
     },
     {
-      "id": 17,
+      "id": 217,
       "pregunta": "¿Qué derecho fundamental ampara el honor, la intimidad y la propia imagen?",
       "respuestas": [
         "Artículo 17",
@@ -2429,7 +2427,7 @@
       "correcta": 2
     },
     {
-      "id": 18,
+      "id": 218,
       "pregunta": "¿Qué derecho permite expresar y difundir pensamientos libremente?",
       "respuestas": [
         "Derecho de reunión",
@@ -2440,7 +2438,7 @@
       "correcta": 3
     },
     {
-      "id": 19,
+      "id": 219,
       "pregunta": "¿Qué límite expreso tiene la libertad de expresión?",
       "respuestas": [
         "Orden público",
@@ -2451,7 +2449,7 @@
       "correcta": 2
     },
     {
-      "id": 20,
+      "id": 220,
       "pregunta": "¿Qué derecho reconoce el artículo 21 de la Constitución?",
       "respuestas": [
         "Asociación",
@@ -2462,7 +2460,7 @@
       "correcta": 2
     },
     {
-      "id": 21,
+      "id": 221,
       "pregunta": "¿Qué derecho fundamental permite crear asociaciones?",
       "respuestas": [
         "Artículo 21",
@@ -2473,7 +2471,7 @@
       "correcta": 2
     },
     {
-      "id": 22,
+      "id": 222,
       "pregunta": "¿Qué derecho garantiza la participación política directa o representativa?",
       "respuestas": [
         "Artículo 22",
@@ -2484,7 +2482,7 @@
       "correcta": 2
     },
     {
-      "id": 23,
+      "id": 223,
       "pregunta": "¿Qué derecho fundamental reconoce el acceso a la tutela judicial efectiva?",
       "respuestas": [
         "Artículo 23",
@@ -2495,7 +2493,7 @@
       "correcta": 2
     },
     {
-      "id": 24,
+      "id": 224,
       "pregunta": "¿Qué derecho prohíbe tribunales de excepción?",
       "respuestas": [
         "Derecho al juez ordinario predeterminado por la ley",
@@ -2506,7 +2504,7 @@
       "correcta": 1
     },
     {
-      "id": 25,
+      "id": 225,
       "pregunta": "¿Qué principio penal establece que nadie puede ser condenado por hechos no tipificados previamente?",
       "respuestas": [
         "Presunción de inocencia",
@@ -2517,7 +2515,7 @@
       "correcta": 2
     },
     {
-      "id": 26,
+      "id": 226,
       "pregunta": "¿Qué derecho fundamental reconoce la presunción de inocencia?",
       "respuestas": [
         "Artículo 23",
@@ -2528,7 +2526,7 @@
       "correcta": 2
     },
     {
-      "id": 27,
+      "id": 227,
       "pregunta": "¿Qué derecho fundamental regula el artículo 27 de la Constitución?",
       "respuestas": [
         "Educación",
@@ -2539,7 +2537,7 @@
       "correcta": 1
     },
     {
-      "id": 28,
+      "id": 228,
       "pregunta": "¿Qué derecho reconoce el artículo 28.1?",
       "respuestas": [
         "Huelga",
@@ -2550,7 +2548,7 @@
       "correcta": 2
     },
     {
-      "id": 29,
+      "id": 229,
       "pregunta": "¿Qué derecho fundamental está limitado a trabajadores?",
       "respuestas": [
         "Sindicación",
@@ -2561,7 +2559,7 @@
       "correcta": 1
     },
     {
-      "id": 30,
+      "id": 230,
       "pregunta": "¿Qué derecho se reconoce en el artículo 29?",
       "respuestas": [
         "Petición",
@@ -2572,7 +2570,7 @@
       "correcta": 1
     },
     {
-      "id": 31,
+      "id": 231,
       "pregunta": "¿Qué artículo de la Constitución reconoce el derecho a la protección de la salud?",
       "respuestas": [
         "Artículo 41",
@@ -2583,7 +2581,7 @@
       "correcta": 3
     },
     {
-      "id": 32,
+      "id": 232,
       "pregunta": "¿Qué naturaleza tiene el derecho a la protección de la salud?",
       "respuestas": [
         "Derecho fundamental",
@@ -2594,7 +2592,7 @@
       "correcta": 2
     },
     {
-      "id": 33,
+      "id": 233,
       "pregunta": "¿Qué poderes públicos tienen la obligación de organizar y tutelar la salud pública?",
       "respuestas": [
         "El Estado",
@@ -2605,7 +2603,7 @@
       "correcta": 3
     },
     {
-      "id": 34,
+      "id": 234,
       "pregunta": "¿Mediante qué instrumentos se tutela la salud pública según la Constitución?",
       "respuestas": [
         "Ley y reglamento",
@@ -2616,7 +2614,7 @@
       "correcta": 2
     },
     {
-      "id": 35,
+      "id": 235,
       "pregunta": "¿Qué relación guarda el artículo 43 con el artículo 53 de la Constitución?",
       "respuestas": [
         "Protección mediante recurso de amparo",
@@ -2627,7 +2625,7 @@
       "correcta": 3
     },
     {
-      "id": 100,
+      "id": 236,
       "pregunta": "En relación con el derecho a la protección de la salud, indique la afirmación correcta.",
       "respuestas": [
         "Es un derecho fundamental con amparo constitucional directo",
@@ -2639,7 +2637,7 @@
     }
 ,
     {
-      "id": 101,
+      "id": 237,
       "pregunta": "El personal estatutario de los servicios de salud se clasifican atendiendo a:",
       "respuestas": [
         "La función desarrollada",
@@ -2651,7 +2649,7 @@
     }
 ,
 {
-      "id": 201,
+      "id": 238,
       "pregunta": "¿Qué función cumplen los valores superiores del artículo 1.1 de la Constitución en la interpretación del ordenamiento jurídico?",
       "respuestas": [
         "Carecen de valor normativo",
@@ -2662,7 +2660,7 @@
       "correcta": 2
     },
     {
-      "id": 202,
+      "id": 239,
       "pregunta": "¿Qué valor superior legitima constitucionalmente la alternancia política?",
       "respuestas": [
         "Justicia",
@@ -2673,7 +2671,7 @@
       "correcta": 3
     },
     {
-      "id": 203,
+      "id": 240,
       "pregunta": "¿Qué principio del artículo 9.3 CE se vulnera cuando una norma es imprevisible o contradictoria?",
       "respuestas": [
         "Legalidad",
@@ -2684,7 +2682,7 @@
       "correcta": 3
     },
     {
-      "id": 204,
+      "id": 241,
       "pregunta": "La interdicción de la arbitrariedad de los poderes públicos implica:",
       "respuestas": [
         "Prohibición de toda discrecionalidad",
@@ -2695,7 +2693,7 @@
       "correcta": 2
     },
     {
-      "id": 205,
+      "id": 242,
       "pregunta": "¿Qué relación existe entre el artículo 10.1 CE y los derechos fundamentales?",
       "respuestas": [
         "Es un precepto meramente programático",
@@ -2706,7 +2704,7 @@
       "correcta": 2
     },
     {
-      "id": 206,
+      "id": 243,
       "pregunta": "¿Qué garantiza el respeto al contenido esencial de los derechos fundamentales?",
       "respuestas": [
         "La ley ordinaria",
@@ -2717,7 +2715,7 @@
       "correcta": 3
     },
     {
-      "id": 207,
+      "id": 244,
       "pregunta": "¿Qué implica que un derecho fundamental tenga eficacia directa?",
       "respuestas": [
         "Que requiere desarrollo reglamentario",
@@ -2728,7 +2726,7 @@
       "correcta": 2
     },
     {
-      "id": 208,
+      "id": 245,
       "pregunta": "¿Qué derechos pueden ser objeto de recurso de amparo constitucional?",
       "respuestas": [
         "Todos los derechos del Título I",
@@ -2739,7 +2737,7 @@
       "correcta": 2
     },
     {
-      "id": 209,
+      "id": 246,
       "pregunta": "¿Qué principio rige la restricción de los derechos fundamentales?",
       "respuestas": [
         "Discrecionalidad política",
@@ -2750,7 +2748,7 @@
       "correcta": 3
     },
     {
-      "id": 210,
+      "id": 247,
       "pregunta": "El juicio de proporcionalidad exige comprobar:",
       "respuestas": [
         "Legalidad y competencia",
@@ -2761,7 +2759,7 @@
       "correcta": 2
     },
     {
-      "id": 211,
+      "id": 248,
       "pregunta": "¿Qué derecho puede ser suspendido de forma individualizada según la Constitución?",
       "respuestas": [
         "Derecho a la vida",
@@ -2772,7 +2770,7 @@
       "correcta": 2
     },
     {
-      "id": 212,
+      "id": 249,
       "pregunta": "¿Qué derecho es indisponible incluso en estados de excepción o sitio?",
       "respuestas": [
         "Libertad de circulación",
@@ -2783,7 +2781,7 @@
       "correcta": 2
     },
     {
-      "id": 213,
+      "id": 250,
       "pregunta": "¿Qué artículo de la Constitución regula el sistema general de garantías de los derechos?",
       "respuestas": [
         "Artículo 24",
@@ -2792,6 +2790,39 @@
         "Artículo 161"
       ],
       "correcta": 2
+    },
+    {
+      "id": 251,
+      "pregunta": "Sobre bases de datos relaciones, ¿cuáles de las siguientes afirmaciones son ciertas?:",
+      "respuestas":[
+        "Los sistemas orientados al proceso están especialmente diseñados para evitar redundancias en los datos de entrada.",
+        "En los sistemas orientados a los datos, entre los que se encuentran los sistemas de bases de datos, la gestión de dichos datos es independiente de los tratamientos.",
+        "El esquema externo de una base de datos contiene información sobre la estrategia a emplear para el almacenamiento de los datos.",
+        "El lenguaje de datos SQL puede clasificarse como autocontenido y navegacional."
+      ],
+      "correcta":2
+    },
+    {
+      "id": 252,
+      "pregunta": "Sobre bases de datos relaciones, respecto de las claves candidatas en el modelo relacional, señalar las afirmaciones erróneas:",
+      "respuestas":[
+        "Toda relación tiene al menos una clave candidata.",
+        "Una clave candidata es una clave primaria que también cumple la propiedad de minimalidad.",
+        "Toda clave primaria es también clave candidata.",
+        "Toda clave alternativa es también clave candidata."
+      ],
+      "correcta":2
+    },
+      {
+      "id": 253,
+      "pregunta": "Sobre bases de datos relaciones, dadas las siguientes relaciones: Clientes(dni, ape1, ape2, nom, dir, tel) Cuentas(numerocta, fechaapertura, saldo, dni_cliente) ¿Qué tipo de restricción debe agregar y en qué tabla para asegurar que siempre que se introduzca una cuenta nueva el cliente al que pertenece dicha cuenta deba existir previamente y siempre que se borre un Cliente se borren todos sus Cuentas?",
+      "respuestas":[
+        "En la relación Cuentas definir el atributo dni_cliente como NOT NULL, como clave ajena el atributo dni_cliente y como opción de borrado especificar CASCADE.",
+        "En la relación Cuentas definir como clave ajena sobre el atributo dni_cliente que especifique como opción de borrado NO ACTION.",
+        "En la relación Clientes definir como clave ajena el atributo dni y como opción de borrado especificar CASCADE.",
+        "En la relación Cuentas definir una restricción CHECK indicando como modo de borrado CASCADE."
+      ],
+      "correcta":1
     },
     {
       "id": 214,

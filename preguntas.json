@@ -4035,6 +4035,556 @@
         "Depende de la antigüedad"
       ],
       "correcta": 3
+    },
+    {
+      "id": 101,
+      "pregunta": "El principio de jerarquía normativa implica que:",
+      "respuestas": [
+        "Las normas de rango inferior pueden contradecir a las superiores",
+        "Las normas deben respetar el orden de prelación establecido",
+        "Los reglamentos prevalecen sobre la ley",
+        "Las instrucciones internas tienen rango legal"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 102,
+      "pregunta": "La actuación administrativa debe ajustarse al principio de eficacia, que supone:",
+      "respuestas": [
+        "Cumplir objetivos con independencia de la legalidad",
+        "Alcanzar los fines previstos por la norma",
+        "Reducir costes exclusivamente",
+        "Actuar solo cuando exista orden expresa"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 103,
+      "pregunta": "El principio de economía procedimental persigue:",
+      "respuestas": [
+        "La eliminación de trámites esenciales",
+        "La reducción de garantías",
+        "La utilización racional de los medios y recursos",
+        "La aceleración sin límites del procedimiento"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 104,
+      "pregunta": "El principio de buena fe en las relaciones administrativas exige:",
+      "respuestas": [
+        "Confianza legítima y lealtad recíproca",
+        "Obediencia ciega del ciudadano",
+        "Discrecionalidad absoluta",
+        "Ausencia de control"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 105,
+      "pregunta": "El principio de confianza legítima protege al ciudadano frente a:",
+      "respuestas": [
+        "Cambios normativos imprevisibles y arbitrarios",
+        "La aplicación estricta de la ley",
+        "La actuación judicial",
+        "Las resoluciones firmes"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 106,
+      "pregunta": "La obligación de motivar los actos administrativos responde al principio de:",
+      "respuestas": [
+        "Discrecionalidad",
+        "Transparencia y control",
+        "Jerarquía",
+        "Eficiencia económica"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 107,
+      "pregunta": "La motivación es obligatoria especialmente en los actos que:",
+      "respuestas": [
+        "No afectan a derechos",
+        "Resuelven procedimientos sancionadores",
+        "Son de mero trámite",
+        "Carecen de efectos"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 108,
+      "pregunta": "La falta de motivación de un acto administrativo puede dar lugar a:",
+      "respuestas": [
+        "Su nulidad o anulabilidad según los casos",
+        "Su validez automática",
+        "Únicamente responsabilidad política",
+        "Ninguna consecuencia"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 109,
+      "pregunta": "El principio de proporcionalidad en la actuación administrativa implica:",
+      "respuestas": [
+        "Aplicar siempre la medida más gravosa",
+        "Adecuación, necesidad y proporcionalidad en sentido estricto",
+        "Discrecionalidad plena",
+        "Ausencia de control judicial"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 110,
+      "pregunta": "El principio de igualdad en la actuación administrativa exige:",
+      "respuestas": [
+        "Trato idéntico en cualquier circunstancia",
+        "Trato diferente sin justificación",
+        "Trato igual en situaciones iguales y distinto en las desiguales",
+        "Preferencia por determinados colectivos"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 111,
+      "pregunta": "El principio de imparcialidad obliga al personal al servicio de la Administración a:",
+      "respuestas": [
+        "Evitar conflictos de intereses",
+        "Defender intereses personales",
+        "Priorizar instrucciones informales",
+        "Actuar sin motivación"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 112,
+      "pregunta": "El deber de abstención procede cuando:",
+      "respuestas": [
+        "Existe relación jerárquica",
+        "Concurre interés personal directo o indirecto",
+        "El procedimiento es complejo",
+        "Lo solicite un compañero"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 113,
+      "pregunta": "La recusación permite:",
+      "respuestas": [
+        "Sancionar al empleado",
+        "Apartar a quien no ofrece garantías de imparcialidad",
+        "Anular automáticamente el procedimiento",
+        "Suspender indefinidamente el expediente"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 114,
+      "pregunta": "El principio de responsabilidad en la actuación administrativa implica:",
+      "respuestas": [
+        "Ausencia de consecuencias",
+        "Asunción de las consecuencias jurídicas de la actuación",
+        "Inmunidad del personal",
+        "Exclusión del control judicial"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 115,
+      "pregunta": "La responsabilidad patrimonial de la Administración exige:",
+      "respuestas": [
+        "Dolo del empleado",
+        "Daño efectivo, evaluable e individualizado",
+        "Sentencia penal previa",
+        "Culpa exclusiva del ciudadano"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 116,
+      "pregunta": "El derecho de los ciudadanos a ser indemnizados se reconoce cuando:",
+      "respuestas": [
+        "Existe funcionamiento normal o anormal del servicio",
+        "Hay actuación judicial",
+        "Se dicta un reglamento",
+        "Se produce un daño moral sin relación causal"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 117,
+      "pregunta": "La relación de causalidad es un requisito esencial de:",
+      "respuestas": [
+        "La potestad reglamentaria",
+        "La responsabilidad patrimonial",
+        "El procedimiento sancionador",
+        "La negociación colectiva"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 118,
+      "pregunta": "La responsabilidad del personal al servicio de la Administración:",
+      "respuestas": [
+        "Es inexistente",
+        "Puede coexistir con la responsabilidad de la Administración",
+        "Sustituye a la responsabilidad patrimonial",
+        "Es siempre penal"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 119,
+      "pregunta": "El principio de legalidad en materia sancionadora implica:",
+      "respuestas": [
+        "Sancionar sin norma previa",
+        "Tipicidad y reserva de ley",
+        "Discrecionalidad administrativa",
+        "Aplicación analógica de sanciones"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 120,
+      "pregunta": "El principio non bis in idem prohíbe:",
+      "respuestas": [
+        "La reiteración de procedimientos",
+        "La doble sanción por los mismos hechos y fundamento",
+        "La revisión de actos",
+        "La responsabilidad disciplinaria"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 121,
+      "pregunta": "El procedimiento sancionador debe respetar:",
+      "respuestas": [
+        "La presunción de culpabilidad",
+        "Las garantías del interesado",
+        "La discrecionalidad plena",
+        "La ausencia de motivación"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 122,
+      "pregunta": "La audiencia al interesado en el procedimiento administrativo:",
+      "respuestas": [
+        "Es potestativa",
+        "Es obligatoria cuando puedan resultar afectados sus derechos",
+        "Solo se concede a petición",
+        "No tiene efectos"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 123,
+      "pregunta": "La notificación de los actos administrativos tiene como finalidad:",
+      "respuestas": [
+        "Informar genéricamente",
+        "Permitir su conocimiento y defensa",
+        "Retrasar la eficacia",
+        "Cumplir un trámite formal sin efectos"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 124,
+      "pregunta": "La validez de los actos administrativos exige:",
+      "respuestas": [
+        "Forma oral siempre",
+        "Competencia, objeto y finalidad conforme a Derecho",
+        "Aprobación judicial",
+        "Publicación en todo caso"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 125,
+      "pregunta": "La nulidad de pleno derecho de un acto administrativo se produce cuando:",
+      "respuestas": [
+        "Existe cualquier defecto formal",
+        "Se dicta prescindiendo total y absolutamente del procedimiento legal",
+        "Hay un error material",
+        "Se produce fuera de plazo"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 126,
+      "pregunta": "La anulabilidad de los actos administrativos se produce cuando:",
+      "respuestas": [
+        "Existe cualquier defecto de forma",
+        "Se incurre en infracción del ordenamiento jurídico no constitutiva de nulidad",
+        "Falta competencia absoluta",
+        "Se vulneran derechos fundamentales siempre"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 127,
+      "pregunta": "Los actos administrativos anulables:",
+      "respuestas": [
+        "Son ineficaces de pleno derecho",
+        "Producen efectos mientras no sean anulados",
+        "No pueden ser impugnados",
+        "Carecen de efectos jurídicos"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 128,
+      "pregunta": "La revisión de oficio de los actos nulos corresponde:",
+      "respuestas": [
+        "A cualquier órgano",
+        "Al órgano judicial",
+        "A la Administración en los supuestos legalmente previstos",
+        "Exclusivamente al interesado"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 129,
+      "pregunta": "La declaración de lesividad de los actos anulables:",
+      "respuestas": [
+        "No está prevista",
+        "Permite su revisión en vía administrativa",
+        "Es presupuesto para su impugnación ante la jurisdicción contencioso-administrativa",
+        "Anula directamente el acto"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 130,
+      "pregunta": "La revocación de los actos administrativos:",
+      "respuestas": [
+        "Procede en cualquier caso",
+        "Está prohibida siempre",
+        "Puede acordarse cuando no constituya dispensa o exención no permitida por la ley",
+        "Requiere sentencia judicial"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 131,
+      "pregunta": "La convalidación de los actos administrativos tiene como finalidad:",
+      "respuestas": [
+        "Sancionar al órgano incompetente",
+        "Subsanar defectos que no constituyen nulidad",
+        "Eliminar actos válidos",
+        "Modificar el contenido esencial"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 132,
+      "pregunta": "El silencio administrativo tiene por finalidad principal:",
+      "respuestas": [
+        "Eliminar la obligación de resolver",
+        "Garantizar los derechos del interesado ante la inactividad administrativa",
+        "Sustituir la resolución expresa",
+        "Retrasar los procedimientos"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 133,
+      "pregunta": "Con carácter general, el silencio administrativo en procedimientos iniciados a solicitud del interesado es:",
+      "respuestas": [
+        "Negativo",
+        "Positivo",
+        "Inexistente",
+        "Indiferente"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 134,
+      "pregunta": "El silencio administrativo negativo implica:",
+      "respuestas": [
+        "Estimación de la solicitud",
+        "Desestimación a efectos de interponer recursos",
+        "Archivo automático",
+        "Pérdida de derechos"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 135,
+      "pregunta": "La Administración está obligada a dictar resolución expresa:",
+      "respuestas": [
+        "Solo si el interesado lo solicita",
+        "En todos los procedimientos",
+        "Solo en procedimientos sancionadores",
+        "Únicamente en procedimientos de oficio"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 136,
+      "pregunta": "El plazo máximo para resolver un procedimiento administrativo:",
+      "respuestas": [
+        "Es siempre de tres meses",
+        "Se fija por la norma reguladora del procedimiento",
+        "Depende de la complejidad del asunto",
+        "Es discrecional"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 137,
+      "pregunta": "La ampliación de plazos en el procedimiento administrativo:",
+      "respuestas": [
+        "No está permitida",
+        "Solo puede acordarse de oficio",
+        "Puede acordarse de oficio o a petición del interesado cuando lo permitan las normas",
+        "Es automática"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 138,
+      "pregunta": "La caducidad del procedimiento se produce cuando:",
+      "respuestas": [
+        "Se dicta resolución fuera de plazo",
+        "Se paraliza el procedimiento por causa imputable a la Administración",
+        "Se paraliza por causa imputable al interesado en los procedimientos iniciados de oficio",
+        "Existe silencio administrativo"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 139,
+      "pregunta": "La caducidad del procedimiento:",
+      "respuestas": [
+        "Impide iniciar uno nuevo",
+        "Produce la prescripción automática",
+        "No produce por sí sola la prescripción",
+        "Anula el acto inicial"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 140,
+      "pregunta": "El desistimiento del interesado supone:",
+      "respuestas": [
+        "Renuncia al derecho",
+        "Abandono del procedimiento iniciado",
+        "Archivo definitivo con pérdida de derechos",
+        "Sanción administrativa"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 141,
+      "pregunta": "La renuncia del interesado:",
+      "respuestas": [
+        "No está permitida",
+        "Solo afecta al procedimiento",
+        "Supone el abandono del derecho, cuando no esté prohibida por el ordenamiento",
+        "Equivale a la caducidad"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 142,
+      "pregunta": "La terminación convencional del procedimiento administrativo:",
+      "respuestas": [
+        "Está prohibida",
+        "Solo es posible en procedimientos sancionadores",
+        "Puede producirse mediante acuerdos o pactos cuando la ley lo permita",
+        "Sustituye siempre a la resolución"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 143,
+      "pregunta": "La ejecución de los actos administrativos:",
+      "respuestas": [
+        "Requiere siempre autorización judicial",
+        "Se produce automáticamente sin límites",
+        "Es inmediata salvo que se suspenda",
+        "No está prevista"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 144,
+      "pregunta": "La suspensión de la ejecución de un acto administrativo:",
+      "respuestas": [
+        "Es automática al recurrir",
+        "Nunca es posible",
+        "Puede acordarse cuando la ejecución cause perjuicios de difícil reparación",
+        "Depende solo de la voluntad del interesado"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 145,
+      "pregunta": "Los medios de ejecución forzosa incluyen:",
+      "respuestas": [
+        "La sanción penal",
+        "La ejecución subsidiaria",
+        "La mediación",
+        "La negociación colectiva"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 146,
+      "pregunta": "La ejecución subsidiaria procede cuando:",
+      "respuestas": [
+        "El obligado no cumple y la prestación no es personalísima",
+        "La obligación es personalísima",
+        "Existe oposición sindical",
+        "Hay recurso pendiente"
+      ],
+      "correcta": 1
+    },
+    {
+      "id": 147,
+      "pregunta": "Las multas coercitivas:",
+      "respuestas": [
+        "Tienen carácter sancionador",
+        "Sustituyen a las sanciones",
+        "Se imponen para compeler al cumplimiento de actos administrativos",
+        "No están reguladas"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 148,
+      "pregunta": "El apremio sobre el patrimonio:",
+      "respuestas": [
+        "Es un procedimiento judicial",
+        "Es un medio de ejecución forzosa",
+        "No está permitido",
+        "Sustituye a la vía penal"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": 149,
+      "pregunta": "La compulsión sobre las personas:",
+      "respuestas": [
+        "Está prohibida en todo caso",
+        "Es el medio ordinario de ejecución",
+        "Solo puede utilizarse cuando lo autorice la ley y con respeto a la dignidad",
+        "No tiene límites"
+      ],
+      "correcta": 3
+    },
+    {
+      "id": 150,
+      "pregunta": "La ejecución forzosa debe realizarse respetando los principios de:",
+      "respuestas": [
+        "Discrecionalidad y oportunidad",
+        "Legalidad y proporcionalidad",
+        "Eficacia exclusivamente",
+        "Jerarquía normativa"
+      ],
+      "correcta": 2
     }
 
 

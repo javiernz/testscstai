@@ -2825,7 +2825,7 @@
       "correcta":1
     },
     {
-      "id": 214,
+      "id": 254,
       "pregunta": "¿Qué implica la interpretación conforme a los tratados internacionales de derechos humanos?",
       "respuestas": [
         "Supremacía automática del Derecho internacional",
@@ -2836,7 +2836,7 @@
       "correcta": 3
     },
     {
-      "id": 215,
+      "id": 255,
       "pregunta": "¿Qué naturaleza jurídica tiene el derecho a la protección de la salud?",
       "respuestas": [
         "Derecho fundamental",
@@ -2847,7 +2847,7 @@
       "correcta": 3
     },
     {
-      "id": 216,
+      "id": 256,
       "pregunta": "¿Qué obliga el artículo 43 CE a los poderes públicos?",
       "respuestas": [
         "A garantizar prestaciones ilimitadas",
@@ -2858,7 +2858,7 @@
       "correcta": 2
     },
     {
-      "id": 217,
+      "id": 257,
       "pregunta": "¿Cuándo puede el derecho a la salud generar derechos subjetivos exigibles?",
       "respuestas": [
         "Nunca",
@@ -2869,7 +2869,7 @@
       "correcta": 3
     },
     {
-      "id": 218,
+      "id": 258,
       "pregunta": "¿Qué relación existe entre el derecho a la vida y el derecho a la salud?",
       "respuestas": [
         "Son derechos equivalentes",
@@ -2880,7 +2880,7 @@
       "correcta": 2
     },
     {
-      "id": 219,
+      "id": 259,
       "pregunta": "¿Qué límite condiciona constitucionalmente la extensión de las prestaciones sanitarias?",
       "respuestas": [
         "La voluntad política",
@@ -2891,7 +2891,7 @@
       "correcta": 2
     },
     {
-      "id": 220,
+      "id": 260,
       "pregunta": "¿Qué tipo de normas desarrollan habitualmente el artículo 43 CE?",
       "respuestas": [
         "Leyes orgánicas",
@@ -2902,7 +2902,7 @@
       "correcta": 2
     },
     {
-      "id": 221,
+      "id": 261,
       "pregunta": "¿Qué papel juega el artículo 53.3 CE respecto al derecho a la salud?",
       "respuestas": [
         "Reconoce amparo constitucional directo",
@@ -2913,7 +2913,7 @@
       "correcta": 3
     },
     {
-      "id": 222,
+      "id": 262,
       "pregunta": "¿Qué principio constitucional justifica la intervención pública en materia sanitaria?",
       "respuestas": [
         "Pluralismo político",
@@ -2924,7 +2924,7 @@
       "correcta": 2
     },
     {
-      "id": 223,
+      "id": 263,
       "pregunta": "¿Qué característica diferencia a los principios rectores de los derechos fundamentales?",
       "respuestas": [
         "Carecen de valor jurídico",
@@ -2935,7 +2935,7 @@
       "correcta": 3
     },
     {
-      "id": 224,
+      "id": 264,
       "pregunta": "¿Qué criterio utiliza el Tribunal Constitucional para ponderar derechos en conflicto?",
       "respuestas": [
         "Jerarquía entre derechos",
@@ -2946,7 +2946,7 @@
       "correcta": 2
     },
     {
-      "id": 225,
+      "id": 265,
       "pregunta": "Desde una perspectiva constitucional avanzada, los derechos fundamentales se caracterizan por:",
       "respuestas": [
         "Ser absolutos e ilimitados",
@@ -2957,7 +2957,7 @@
       "correcta": 2
     },
     {
-    "id": 226,
+    "id": 266,
     "pregunta": "El personal estatutario de los servicios de salud se clasifican atendiendo a:",
     "respuestas": [
       "La función desarrollada",
@@ -2968,7 +2968,7 @@
     "correcta": 4
     },
     {
-      "id": 1,
+      "id": 267,
       "pregunta": "El personal estatutario ostenta los siguientes derechos colectivos:",
       "respuestas": [
         "A la movilidad voluntaria",
@@ -2979,7 +2979,7 @@
       "correcta": 3
     },
     {
-      "id": 2,
+      "id": 268,
       "pregunta": "El personal estatutario de los servicios de salud viene obligado a:",
       "respuestas": [
         "Cumplir las normas relativas a la seguridad y salud en el trabajo, así como las disposiciones adoptadas en el centro sanitario en relación con esta materia",
@@ -2990,7 +2990,7 @@
       "correcta": 1
     },
     {
-      "id": 3,
+      "id": 269,
       "pregunta": "La condición de personal estatutario fijo se adquiere por el cumplimiento sucesivo de los siguientes requisitos:",
       "respuestas": [
         "Superación de las pruebas de selección",
@@ -3001,7 +3001,7 @@
       "correcta": 4
     },
     {
-      "id": 4,
+      "id": 270,
       "pregunta": "Son causas de extinción de la condición de personal estatutario fijo:",
       "respuestas": [
         "El tipo de nombramiento",
@@ -3012,7 +3012,7 @@
       "correcta": 2
     },
     {
-      "id": 5,
+      "id": 271,
       "pregunta": "La provisión de plazas del personal estatutario se regirá por los siguientes principios básicos:",
       "respuestas": [
         "Planificación eficiente de las necesidades de recursos y programación periódica de las convocatorias",
@@ -3023,7 +3023,7 @@
       "correcta": 4
     },
     {
-      "id": 6,
+      "id": 272,
       "pregunta": "El nombramiento del personal estatutario temporal se realizará:",
       "respuestas": [
         "Con carácter discrecional",
@@ -3034,7 +3034,7 @@
       "correcta": 3
     },
     {
-      "id": 7,
+      "id": 273,
       "pregunta": "El personal estatutario está sujeto al régimen de incompatibilidades:",
       "respuestas": [
         "De los funcionarios de carrera",
@@ -3045,7 +3045,7 @@
       "correcta": 3
     },
     {
-      "id": 8,
+      "id": 274,
       "pregunta": "El régimen disciplinario del personal estatutario se rige por:",
       "respuestas": [
         "La normativa laboral",
@@ -3056,7 +3056,7 @@
       "correcta": 3
     },
     {
-      "id": 9,
+      "id": 275,
       "pregunta": "Las faltas disciplinarias del personal estatutario se clasifican en:",
       "respuestas": [
         "Leves y graves",
@@ -3067,7 +3067,7 @@
       "correcta": 3
     },
     {
-      "id": 10,
+      "id": 276,
       "pregunta": "La potestad disciplinaria corresponde:",
       "respuestas": [
         "Exclusivamente al Parlamento",
@@ -3078,7 +3078,7 @@
       "correcta": 3
     },
     {
-      "id": 11,
+      "id": 277,
       "pregunta": "El personal estatutario tiene derecho a la formación continuada:",
       "respuestas": [
         "Solo si es obligatoria",
@@ -3089,7 +3089,7 @@
       "correcta": 2
     },
     {
-      "id": 12,
+      "id": 278,
       "pregunta": "La movilidad voluntaria del personal estatutario se articula mediante:",
       "respuestas": [
         "Libre designación",
@@ -3100,7 +3100,7 @@
       "correcta": 3
     },
     {
-      "id": 13,
+      "id": 279,
       "pregunta": "La jornada de trabajo del personal estatutario:",
       "respuestas": [
         "Es idéntica en todos los servicios",
@@ -3111,7 +3111,7 @@
       "correcta": 3
     },
     {
-      "id": 14,
+      "id": 280,
       "pregunta": "El personal estatutario tiene derecho a la protección eficaz en materia de seguridad y salud:",
       "respuestas": [
         "Solo en caso de accidente",
@@ -3122,7 +3122,7 @@
       "correcta": 2
     },
     {
-      "id": 15,
+      "id": 281,
       "pregunta": "Las retribuciones del personal estatutario se estructuran en:",
       "respuestas": [
         "Retribuciones básicas y complementarias",
@@ -3133,7 +3133,7 @@
       "correcta": 1
     },
     {
-      "id": 16,
+      "id": 282,
       "pregunta": "El complemento específico retribuye:",
       "respuestas": [
         "La antigüedad",
@@ -3144,7 +3144,7 @@
       "correcta": 2
     },
     {
-      "id": 17,
+      "id": 283,
       "pregunta": "El complemento de productividad está vinculado a:",
       "respuestas": [
         "La antigüedad",
@@ -3155,7 +3155,7 @@
       "correcta": 2
     },
     {
-      "id": 18,
+      "id": 284,
       "pregunta": "El personal estatutario tiene derecho a permisos:",
       "respuestas": [
         "Solo por causas médicas",
@@ -3166,7 +3166,7 @@
       "correcta": 3
     },
     {
-      "id": 19,
+      "id": 285,
       "pregunta": "La jubilación del personal estatutario puede ser:",
       "respuestas": [
         "Únicamente forzosa",
@@ -3177,7 +3177,7 @@
       "correcta": 3
     },
     {
-      "id": 20,
+      "id": 286,
       "pregunta": "La acción social del personal estatutario:",
       "respuestas": [
         "Es obligatoria",
@@ -3188,7 +3188,7 @@
       "correcta": 2
     },
     {
-      "id": 21,
+      "id": 287,
       "pregunta": "El régimen de vacaciones del personal estatutario:",
       "respuestas": [
         "Es idéntico al del personal laboral",
@@ -3199,7 +3199,7 @@
       "correcta": 3
     },
     {
-      "id": 22,
+      "id": 288,
       "pregunta": "La evaluación del desempeño del personal estatutario:",
       "respuestas": [
         "No está prevista",
@@ -3210,7 +3210,7 @@
       "correcta": 3
     },
     {
-      "id": 23,
+      "id": 289,
       "pregunta": "La carrera profesional del personal estatutario:",
       "respuestas": [
         "Es automática",
@@ -3221,7 +3221,7 @@
       "correcta": 3
     },
     {
-      "id": 24,
+      "id": 290,
       "pregunta": "La representación del personal estatutario se ejerce mediante:",
       "respuestas": [
         "Órganos judiciales",
@@ -3232,7 +3232,7 @@
       "correcta": 3
     },
     {
-      "id": 25,
+      "id": 291,
       "pregunta": "El uso indebido de recursos públicos por el personal estatutario:",
       "respuestas": [
         "No tiene consecuencias",
@@ -3243,7 +3243,7 @@
       "correcta": 2
     },
     {
-      "id": 26,
+      "id": 292,
       "pregunta": "El personal estatutario tiene derecho a conocer los objetivos y funciones asignadas a su puesto de trabajo:",
       "respuestas": [
         "Solo a petición del interesado",
@@ -3254,7 +3254,7 @@
       "correcta": 3
     },
     {
-      "id": 27,
+      "id": 293,
       "pregunta": "El principio de igualdad en el acceso al empleo público implica:",
       "respuestas": [
         "Preferencia por antigüedad",
@@ -3265,7 +3265,7 @@
       "correcta": 3
     },
     {
-      "id": 28,
+      "id": 294,
       "pregunta": "La selección del personal estatutario se realizará, con carácter general, mediante:",
       "respuestas": [
         "Concurso",
@@ -3276,7 +3276,7 @@
       "correcta": 2
     },
     {
-      "id": 29,
+      "id": 295,
       "pregunta": "El acceso a la condición de personal estatutario fijo exige:",
       "respuestas": [
         "Solo antigüedad previa",
@@ -3287,7 +3287,7 @@
       "correcta": 2
     },
     {
-      "id": 30,
+      "id": 296,
       "pregunta": "El personal estatutario temporal podrá ser nombrado:",
       "respuestas": [
         "Únicamente por sustitución",
@@ -3298,7 +3298,7 @@
       "correcta": 3
     },
     {
-      "id": 31,
+      "id": 297,
       "pregunta": "La duración del nombramiento del personal estatutario temporal:",
       "respuestas": [
         "Es indefinida",
@@ -3309,7 +3309,7 @@
       "correcta": 2
     },
     {
-      "id": 32,
+      "id": 298,
       "pregunta": "El cese del personal estatutario temporal se producirá:",
       "respuestas": [
         "Solo mediante sanción",
@@ -3320,7 +3320,7 @@
       "correcta": 3
     },
     {
-      "id": 33,
+      "id": 299,
       "pregunta": "La movilidad forzosa del personal estatutario:",
       "respuestas": [
         "No está permitida",
@@ -3331,7 +3331,7 @@
       "correcta": 2
     },
     {
-      "id": 34,
+      "id": 300,
       "pregunta": "La comisión de servicios se caracteriza por ser:",
       "respuestas": [
         "Un sistema de provisión definitivo",
@@ -3342,7 +3342,7 @@
       "correcta": 2
     },
     {
-      "id": 35,
+      "id": 301,
       "pregunta": "El reingreso al servicio activo del personal estatutario:",
       "respuestas": [
         "Es automático",
@@ -3353,7 +3353,7 @@
       "correcta": 3
     },
     {
-      "id": 36,
+      "id": 302,
       "pregunta": "Las situaciones administrativas del personal estatutario:",
       "respuestas": [
         "No existen",
@@ -3364,7 +3364,7 @@
       "correcta": 3
     },
     {
-      "id": 37,
+      "id": 303,
       "pregunta": "La excedencia voluntaria del personal estatutario:",
       "respuestas": [
         "Es obligatoria",
@@ -3375,7 +3375,7 @@
       "correcta": 2
     },
     {
-      "id": 38,
+      "id": 304,
       "pregunta": "La excedencia por cuidado de familiares:",
       "respuestas": [
         "No computa a efectos de antigüedad",
@@ -3386,7 +3386,7 @@
       "correcta": 3
     },
     {
-      "id": 39,
+      "id": 305,
       "pregunta": "El personal estatutario en situación de servicios especiales:",
       "respuestas": [
         "Pierde la condición estatutaria",
@@ -3397,7 +3397,7 @@
       "correcta": 2
     },
     {
-      "id": 40,
+      "id": 306,
       "pregunta": "La evaluación del desempeño tiene como finalidad principal:",
       "respuestas": [
         "Sancionar al personal",
@@ -3408,7 +3408,7 @@
       "correcta": 2
     },
     {
-      "id": 41,
+      "id": 307,
       "pregunta": "El complemento de carrera profesional:",
       "respuestas": [
         "Es obligatorio para todo el personal",
@@ -3419,7 +3419,7 @@
       "correcta": 2
     },
     {
-      "id": 42,
+      "id": 308,
       "pregunta": "Las retribuciones complementarias pueden depender de:",
       "respuestas": [
         "La antigüedad únicamente",
@@ -3430,7 +3430,7 @@
       "correcta": 2
     },
     {
-      "id": 43,
+      "id": 309,
       "pregunta": "La jornada complementaria del personal estatutario:",
       "respuestas": [
         "Es ilegal",
@@ -3441,7 +3441,7 @@
       "correcta": 2
     },
     {
-      "id": 44,
+      "id": 310,
       "pregunta": "Los permisos por asuntos particulares:",
       "respuestas": [
         "No existen",
@@ -3452,7 +3452,7 @@
       "correcta": 3
     },
     {
-      "id": 45,
+      "id": 311,
       "pregunta": "Las licencias del personal estatutario:",
       "respuestas": [
         "Son siempre retribuidas",
@@ -3463,7 +3463,7 @@
       "correcta": 3
     },
     {
-      "id": 46,
+      "id": 312,
       "pregunta": "El derecho a la conciliación de la vida personal, familiar y laboral:",
       "respuestas": [
         "No está reconocido",
@@ -3474,7 +3474,7 @@
       "correcta": 3
     },
     {
-      "id": 47,
+      "id": 313,
       "pregunta": "El régimen de incompatibilidades del personal estatutario:",
       "respuestas": [
         "Permite cualquier actividad privada",
@@ -3485,7 +3485,7 @@
       "correcta": 3
     },
     {
-      "id": 48,
+      "id": 314,
       "pregunta": "La responsabilidad disciplinaria del personal estatutario:",
       "respuestas": [
         "Excluye la responsabilidad penal",
@@ -3496,7 +3496,7 @@
       "correcta": 3
     },
     {
-      "id": 49,
+      "id": 315,
       "pregunta": "Las sanciones disciplinarias deben respetar el principio de:",
       "respuestas": [
         "Discrecionalidad",
@@ -3507,7 +3507,7 @@
       "correcta": 2
     },
     {
-      "id": 50,
+      "id": 316,
       "pregunta": "El procedimiento disciplinario debe garantizar:",
       "respuestas": [
         "La rapidez exclusiva",
@@ -3518,7 +3518,7 @@
       "correcta": 3
     },
     {
-      "id": 51,
+      "id": 317,
       "pregunta": "El régimen disciplinario del personal estatutario se inspira, entre otros, en el principio de:",
       "respuestas": [
         "Discrecionalidad absoluta",
@@ -3529,7 +3529,7 @@
       "correcta": 2
     },
     {
-      "id": 52,
+      "id": 318,
       "pregunta": "Las faltas muy graves del personal estatutario pueden sancionarse con:",
       "respuestas": [
         "Amonestación verbal",
@@ -3540,7 +3540,7 @@
       "correcta": 3
     },
     {
-      "id": 53,
+      "id": 319,
       "pregunta": "La prescripción de las faltas disciplinarias:",
       "respuestas": [
         "No existe",
@@ -3551,7 +3551,7 @@
       "correcta": 3
     },
     {
-      "id": 54,
+      "id": 320,
       "pregunta": "El inicio del procedimiento disciplinario corresponde:",
       "respuestas": [
         "A cualquier empleado público",
@@ -3562,7 +3562,7 @@
       "correcta": 2
     },
     {
-      "id": 55,
+      "id": 321,
       "pregunta": "Durante la tramitación del procedimiento disciplinario puede acordarse:",
       "respuestas": [
         "La sanción definitiva inmediata",
@@ -3573,7 +3573,7 @@
       "correcta": 2
     },
     {
-      "id": 56,
+      "id": 322,
       "pregunta": "La suspensión provisional del personal estatutario:",
       "respuestas": [
         "Es una sanción firme",
@@ -3584,7 +3584,7 @@
       "correcta": 3
     },
     {
-      "id": 57,
+      "id": 323,
       "pregunta": "El personal estatutario tiene derecho a la defensa y asistencia:",
       "respuestas": [
         "Solo judicial",
@@ -3595,7 +3595,7 @@
       "correcta": 3
     },
     {
-      "id": 58,
+      "id": 324,
       "pregunta": "Las sanciones disciplinarias se anotarán:",
       "respuestas": [
         "En el BOE",
@@ -3606,7 +3606,7 @@
       "correcta": 2
     },
     {
-      "id": 59,
+      "id": 325,
       "pregunta": "La cancelación de las sanciones disciplinarias:",
       "respuestas": [
         "No está prevista",
@@ -3617,7 +3617,7 @@
       "correcta": 3
     },
     {
-      "id": 60,
+      "id": 326,
       "pregunta": "La responsabilidad disciplinaria del personal estatutario:",
       "respuestas": [
         "Es incompatible con la penal",
@@ -3628,7 +3628,7 @@
       "correcta": 3
     },
     {
-      "id": 61,
+      "id": 327,
       "pregunta": "La representación del personal estatutario en los órganos de negociación:",
       "respuestas": [
         "No existe",
@@ -3639,7 +3639,7 @@
       "correcta": 2
     },
     {
-      "id": 62,
+      "id": 328,
       "pregunta": "La negociación colectiva del personal estatutario:",
       "respuestas": [
         "No está permitida",
@@ -3650,7 +3650,7 @@
       "correcta": 3
     },
     {
-      "id": 63,
+      "id": 329,
       "pregunta": "Los acuerdos alcanzados en la negociación colectiva:",
       "respuestas": [
         "Tienen rango constitucional",
@@ -3661,7 +3661,7 @@
       "correcta": 3
     },
     {
-      "id": 64,
+      "id": 330,
       "pregunta": "La participación del personal estatutario en la gestión de los servicios:",
       "respuestas": [
         "No está prevista",
@@ -3672,7 +3672,7 @@
       "correcta": 3
     },
     {
-      "id": 65,
+      "id": 331,
       "pregunta": "La evaluación del desempeño debe realizarse conforme a criterios de:",
       "respuestas": [
         "Discrecionalidad",
@@ -3683,7 +3683,7 @@
       "correcta": 2
     },
     {
-      "id": 66,
+      "id": 332,
       "pregunta": "La carrera profesional del personal estatutario tiene como finalidad:",
       "respuestas": [
         "Sancionar al personal",
@@ -3694,7 +3694,7 @@
       "correcta": 2
     },
     {
-      "id": 67,
+      "id": 333,
       "pregunta": "El acceso a los distintos grados de carrera profesional:",
       "respuestas": [
         "Es automático",
@@ -3705,7 +3705,7 @@
       "correcta": 3
     },
     {
-      "id": 68,
+      "id": 334,
       "pregunta": "La formación continuada del personal estatutario:",
       "respuestas": [
         "Es voluntaria sin efectos",
@@ -3716,7 +3716,7 @@
       "correcta": 2
     },
     {
-      "id": 69,
+      "id": 335,
       "pregunta": "El derecho a la información del personal estatutario incluye:",
       "respuestas": [
         "Información confidencial sin límites",
@@ -3727,7 +3727,7 @@
       "correcta": 2
     },
     {
-      "id": 70,
+      "id": 336,
       "pregunta": "El deber de confidencialidad del personal estatutario:",
       "respuestas": [
         "Finaliza al cesar",
@@ -3738,7 +3738,7 @@
       "correcta": 3
     },
     {
-      "id": 71,
+      "id": 337,
       "pregunta": "El uso de los medios y recursos públicos por el personal estatutario:",
       "respuestas": [
         "Es libre",
@@ -3749,7 +3749,7 @@
       "correcta": 3
     },
     {
-      "id": 72,
+      "id": 338,
       "pregunta": "El incumplimiento de los deberes profesionales puede dar lugar a:",
       "respuestas": [
         "Únicamente advertencias",
@@ -3760,7 +3760,7 @@
       "correcta": 2
     },
     {
-      "id": 73,
+      "id": 339,
       "pregunta": "La responsabilidad patrimonial derivada de la actuación del personal estatutario:",
       "respuestas": [
         "Nunca existe",
@@ -3771,7 +3771,7 @@
       "correcta": 3
     },
     {
-      "id": 74,
+      "id": 340,
       "pregunta": "El personal estatutario debe actuar conforme a los principios de:",
       "respuestas": [
         "Eficiencia, imparcialidad y legalidad",
@@ -3782,7 +3782,7 @@
       "correcta": 1
     },
     {
-      "id": 75,
+      "id": 341,
       "pregunta": "La observancia de los principios éticos y de conducta profesional:",
       "respuestas": [
         "Es voluntaria",
@@ -3793,7 +3793,7 @@
       "correcta": 3
     },
     {
-      "id": 76,
+      "id": 342,
       "pregunta": "El principio de legalidad en la actuación del personal estatutario implica:",
       "respuestas": [
         "Actuar según instrucciones verbales",
@@ -3804,7 +3804,7 @@
       "correcta": 3
     },
     {
-      "id": 77,
+      "id": 343,
       "pregunta": "La imparcialidad en el ejercicio de las funciones públicas exige:",
       "respuestas": [
         "Preferencia por intereses personales",
@@ -3815,7 +3815,7 @@
       "correcta": 2
     },
     {
-      "id": 78,
+      "id": 344,
       "pregunta": "El deber de abstención del personal estatutario procede cuando:",
       "respuestas": [
         "Exista relación jerárquica",
@@ -3826,7 +3826,7 @@
       "correcta": 2
     },
     {
-      "id": 79,
+      "id": 345,
       "pregunta": "La recusación del personal estatutario puede ser promovida por:",
       "respuestas": [
         "Cualquier ciudadano",
@@ -3837,7 +3837,7 @@
       "correcta": 3
     },
     {
-      "id": 80,
+      "id": 346,
       "pregunta": "El deber de secreto profesional del personal estatutario:",
       "respuestas": [
         "Se limita al tiempo de servicio",
@@ -3848,7 +3848,7 @@
       "correcta": 3
     },
     {
-      "id": 81,
+      "id": 347,
       "pregunta": "La responsabilidad penal del personal estatutario:",
       "respuestas": [
         "Excluye la disciplinaria",
@@ -3859,7 +3859,7 @@
       "correcta": 2
     },
     {
-      "id": 82,
+      "id": 348,
       "pregunta": "La responsabilidad civil derivada de la actuación profesional:",
       "respuestas": [
         "Nunca existe",
@@ -3870,7 +3870,7 @@
       "correcta": 3
     },
     {
-      "id": 83,
+      "id": 349,
       "pregunta": "La responsabilidad patrimonial de la Administración se fundamenta en:",
       "respuestas": [
         "La culpa del empleado",
@@ -3881,7 +3881,7 @@
       "correcta": 2
     },
     {
-      "id": 84,
+      "id": 350,
       "pregunta": "La acción de regreso contra el personal estatutario:",
       "respuestas": [
         "No está prevista",
@@ -3892,7 +3892,7 @@
       "correcta": 3
     },
     {
-      "id": 85,
+      "id": 351,
       "pregunta": "El personal estatutario debe colaborar con la Administración de Justicia:",
       "respuestas": [
         "Solo si es voluntario",
@@ -3903,7 +3903,7 @@
       "correcta": 2
     },
     {
-      "id": 86,
+      "id": 352,
       "pregunta": "La participación del personal estatutario en actividades formativas:",
       "respuestas": [
         "Es irrelevante",
@@ -3914,7 +3914,7 @@
       "correcta": 2
     },
     {
-      "id": 87,
+      "id": 353,
       "pregunta": "La actualización permanente de conocimientos del personal estatutario:",
       "respuestas": [
         "Es opcional",
@@ -3925,7 +3925,7 @@
       "correcta": 3
     },
     {
-      "id": 88,
+      "id": 354,
       "pregunta": "El principio de eficiencia en la gestión pública implica:",
       "respuestas": [
         "Reducción de derechos",
@@ -3936,7 +3936,7 @@
       "correcta": 2
     },
     {
-      "id": 89,
+      "id": 355,
       "pregunta": "La calidad en la prestación de los servicios públicos exige:",
       "respuestas": [
         "Rapidez exclusivamente",
@@ -3947,7 +3947,7 @@
       "correcta": 2
     },
     {
-      "id": 90,
+      "id": 356,
       "pregunta": "El personal estatutario debe tratar a los ciudadanos con:",
       "respuestas": [
         "Distancia profesional",
@@ -3958,7 +3958,7 @@
       "correcta": 3
     },
     {
-      "id": 91,
+      "id": 357,
       "pregunta": "La transparencia en la actuación administrativa implica:",
       "respuestas": [
         "Difusión indiscriminada de información",
@@ -3969,7 +3969,7 @@
       "correcta": 2
     },
     {
-      "id": 92,
+      "id": 358,
       "pregunta": "El uso de sistemas de información por el personal estatutario:",
       "respuestas": [
         "Es libre",
@@ -3980,7 +3980,7 @@
       "correcta": 2
     },
     {
-      "id": 93,
+      "id": 359,
       "pregunta": "La protección de datos personales en el ámbito sanitario exige:",
       "respuestas": [
         "Libre acceso del personal",
@@ -3991,7 +3991,7 @@
       "correcta": 2
     },
     {
-      "id": 94,
+      "id": 360,
       "pregunta": "El acceso del personal estatutario a datos personales:",
       "respuestas": [
         "Es ilimitado",
@@ -4002,7 +4002,7 @@
       "correcta": 2
     },
     {
-      "id": 95,
+      "id": 361,
       "pregunta": "El incumplimiento de la normativa de protección de datos puede dar lugar a:",
       "respuestas": [
         "Solo advertencias",
@@ -4013,7 +4013,7 @@
       "correcta": 2
     },
     {
-      "id": 96,
+      "id": 362,
       "pregunta": "La utilización de dispositivos y sistemas corporativos:",
       "respuestas": [
         "Puede destinarse a fines personales sin límites",
@@ -4024,7 +4024,7 @@
       "correcta": 2
     },
     {
-      "id": 97,
+      "id": 363,
       "pregunta": "La seguridad de la información en la Administración sanitaria:",
       "respuestas": [
         "Es responsabilidad exclusiva del área TIC",
@@ -4035,7 +4035,7 @@
       "correcta": 3
     },
     {
-      "id": 98,
+      "id": 364,
       "pregunta": "La concienciación en materia de seguridad de la información:",
       "respuestas": [
         "No es necesaria",
@@ -4046,7 +4046,7 @@
       "correcta": 3
     },
     {
-      "id": 99,
+      "id": 365,
       "pregunta": "El incumplimiento de las políticas internas de seguridad puede suponer:",
       "respuestas": [
         "Ninguna consecuencia",
@@ -4057,7 +4057,7 @@
       "correcta": 2
     },
     {
-      "id": 100,
+      "id": 366,
       "pregunta": "El comportamiento ético del personal estatutario:",
       "respuestas": [
         "Es una recomendación",
@@ -4068,7 +4068,7 @@
       "correcta": 3
     },
     {
-      "id": 101,
+      "id": 367,
       "pregunta": "El principio de jerarquía normativa implica que:",
       "respuestas": [
         "Las normas de rango inferior pueden contradecir a las superiores",
@@ -4079,7 +4079,7 @@
       "correcta": 2
     },
     {
-      "id": 102,
+      "id": 368,
       "pregunta": "La actuación administrativa debe ajustarse al principio de eficacia, que supone:",
       "respuestas": [
         "Cumplir objetivos con independencia de la legalidad",
@@ -4090,7 +4090,7 @@
       "correcta": 2
     },
     {
-      "id": 103,
+      "id": 369,
       "pregunta": "El principio de economía procedimental persigue:",
       "respuestas": [
         "La eliminación de trámites esenciales",
@@ -4101,7 +4101,7 @@
       "correcta": 3
     },
     {
-      "id": 104,
+      "id": 370,
       "pregunta": "El principio de buena fe en las relaciones administrativas exige:",
       "respuestas": [
         "Confianza legítima y lealtad recíproca",
@@ -4112,7 +4112,7 @@
       "correcta": 1
     },
     {
-      "id": 105,
+      "id": 371,
       "pregunta": "El principio de confianza legítima protege al ciudadano frente a:",
       "respuestas": [
         "Cambios normativos imprevisibles y arbitrarios",
@@ -4123,7 +4123,7 @@
       "correcta": 1
     },
     {
-      "id": 106,
+      "id": 372,
       "pregunta": "La obligación de motivar los actos administrativos responde al principio de:",
       "respuestas": [
         "Discrecionalidad",
@@ -4134,7 +4134,7 @@
       "correcta": 2
     },
     {
-      "id": 107,
+      "id": 373,
       "pregunta": "La motivación es obligatoria especialmente en los actos que:",
       "respuestas": [
         "No afectan a derechos",
@@ -4145,7 +4145,7 @@
       "correcta": 2
     },
     {
-      "id": 108,
+      "id": 374,
       "pregunta": "La falta de motivación de un acto administrativo puede dar lugar a:",
       "respuestas": [
         "Su nulidad o anulabilidad según los casos",
@@ -4156,7 +4156,7 @@
       "correcta": 1
     },
     {
-      "id": 109,
+      "id": 375,
       "pregunta": "El principio de proporcionalidad en la actuación administrativa implica:",
       "respuestas": [
         "Aplicar siempre la medida más gravosa",
@@ -4167,7 +4167,7 @@
       "correcta": 2
     },
     {
-      "id": 110,
+      "id": 376,
       "pregunta": "El principio de igualdad en la actuación administrativa exige:",
       "respuestas": [
         "Trato idéntico en cualquier circunstancia",
@@ -4178,7 +4178,7 @@
       "correcta": 3
     },
     {
-      "id": 111,
+      "id": 377,
       "pregunta": "El principio de imparcialidad obliga al personal al servicio de la Administración a:",
       "respuestas": [
         "Evitar conflictos de intereses",
@@ -4189,7 +4189,7 @@
       "correcta": 1
     },
     {
-      "id": 112,
+      "id": 378,
       "pregunta": "El deber de abstención procede cuando:",
       "respuestas": [
         "Existe relación jerárquica",
@@ -4200,7 +4200,7 @@
       "correcta": 2
     },
     {
-      "id": 113,
+      "id": 379,
       "pregunta": "La recusación permite:",
       "respuestas": [
         "Sancionar al empleado",
@@ -4211,7 +4211,7 @@
       "correcta": 2
     },
     {
-      "id": 114,
+      "id": 380,
       "pregunta": "El principio de responsabilidad en la actuación administrativa implica:",
       "respuestas": [
         "Ausencia de consecuencias",
@@ -4222,7 +4222,7 @@
       "correcta": 2
     },
     {
-      "id": 115,
+      "id": 381,
       "pregunta": "La responsabilidad patrimonial de la Administración exige:",
       "respuestas": [
         "Dolo del empleado",
@@ -4233,7 +4233,7 @@
       "correcta": 2
     },
     {
-      "id": 116,
+      "id": 382,
       "pregunta": "El derecho de los ciudadanos a ser indemnizados se reconoce cuando:",
       "respuestas": [
         "Existe funcionamiento normal o anormal del servicio",
@@ -4244,7 +4244,7 @@
       "correcta": 1
     },
     {
-      "id": 117,
+      "id": 383,
       "pregunta": "La relación de causalidad es un requisito esencial de:",
       "respuestas": [
         "La potestad reglamentaria",
@@ -4255,7 +4255,7 @@
       "correcta": 2
     },
     {
-      "id": 118,
+      "id": 384,
       "pregunta": "La responsabilidad del personal al servicio de la Administración:",
       "respuestas": [
         "Es inexistente",
@@ -4266,7 +4266,7 @@
       "correcta": 2
     },
     {
-      "id": 119,
+      "id": 385,
       "pregunta": "El principio de legalidad en materia sancionadora implica:",
       "respuestas": [
         "Sancionar sin norma previa",
@@ -4277,7 +4277,7 @@
       "correcta": 2
     },
     {
-      "id": 120,
+      "id": 386,
       "pregunta": "El principio non bis in idem prohíbe:",
       "respuestas": [
         "La reiteración de procedimientos",
@@ -4288,7 +4288,7 @@
       "correcta": 2
     },
     {
-      "id": 121,
+      "id": 387,
       "pregunta": "El procedimiento sancionador debe respetar:",
       "respuestas": [
         "La presunción de culpabilidad",
@@ -4299,7 +4299,7 @@
       "correcta": 2
     },
     {
-      "id": 122,
+      "id": 388,
       "pregunta": "La audiencia al interesado en el procedimiento administrativo:",
       "respuestas": [
         "Es potestativa",
@@ -4310,7 +4310,7 @@
       "correcta": 2
     },
     {
-      "id": 123,
+      "id": 389,
       "pregunta": "La notificación de los actos administrativos tiene como finalidad:",
       "respuestas": [
         "Informar genéricamente",
@@ -4321,7 +4321,7 @@
       "correcta": 2
     },
     {
-      "id": 124,
+      "id": 390,
       "pregunta": "La validez de los actos administrativos exige:",
       "respuestas": [
         "Forma oral siempre",
@@ -4332,7 +4332,7 @@
       "correcta": 2
     },
     {
-      "id": 125,
+      "id": 391,
       "pregunta": "La nulidad de pleno derecho de un acto administrativo se produce cuando:",
       "respuestas": [
         "Existe cualquier defecto formal",
@@ -4343,7 +4343,7 @@
       "correcta": 2
     },
     {
-      "id": 126,
+      "id": 392,
       "pregunta": "La anulabilidad de los actos administrativos se produce cuando:",
       "respuestas": [
         "Existe cualquier defecto de forma",
@@ -4354,7 +4354,7 @@
       "correcta": 2
     },
     {
-      "id": 127,
+      "id": 393,
       "pregunta": "Los actos administrativos anulables:",
       "respuestas": [
         "Son ineficaces de pleno derecho",
@@ -4365,7 +4365,7 @@
       "correcta": 2
     },
     {
-      "id": 128,
+      "id": 394,
       "pregunta": "La revisión de oficio de los actos nulos corresponde:",
       "respuestas": [
         "A cualquier órgano",
@@ -4376,7 +4376,7 @@
       "correcta": 3
     },
     {
-      "id": 129,
+      "id": 395,
       "pregunta": "La declaración de lesividad de los actos anulables:",
       "respuestas": [
         "No está prevista",
@@ -4387,7 +4387,7 @@
       "correcta": 3
     },
     {
-      "id": 130,
+      "id": 396,
       "pregunta": "La revocación de los actos administrativos:",
       "respuestas": [
         "Procede en cualquier caso",
@@ -4398,7 +4398,7 @@
       "correcta": 3
     },
     {
-      "id": 131,
+      "id": 397,
       "pregunta": "La convalidación de los actos administrativos tiene como finalidad:",
       "respuestas": [
         "Sancionar al órgano incompetente",
@@ -4409,7 +4409,7 @@
       "correcta": 2
     },
     {
-      "id": 132,
+      "id": 398,
       "pregunta": "El silencio administrativo tiene por finalidad principal:",
       "respuestas": [
         "Eliminar la obligación de resolver",
@@ -4420,7 +4420,7 @@
       "correcta": 2
     },
     {
-      "id": 133,
+      "id": 399,
       "pregunta": "Con carácter general, el silencio administrativo en procedimientos iniciados a solicitud del interesado es:",
       "respuestas": [
         "Negativo",
@@ -4431,7 +4431,7 @@
       "correcta": 2
     },
     {
-      "id": 134,
+      "id": 400,
       "pregunta": "El silencio administrativo negativo implica:",
       "respuestas": [
         "Estimación de la solicitud",
@@ -4442,7 +4442,7 @@
       "correcta": 2
     },
     {
-      "id": 135,
+      "id": 401,
       "pregunta": "La Administración está obligada a dictar resolución expresa:",
       "respuestas": [
         "Solo si el interesado lo solicita",
@@ -4453,7 +4453,7 @@
       "correcta": 2
     },
     {
-      "id": 136,
+      "id": 402,
       "pregunta": "El plazo máximo para resolver un procedimiento administrativo:",
       "respuestas": [
         "Es siempre de tres meses",
@@ -4464,7 +4464,7 @@
       "correcta": 2
     },
     {
-      "id": 137,
+      "id": 403,
       "pregunta": "La ampliación de plazos en el procedimiento administrativo:",
       "respuestas": [
         "No está permitida",
@@ -4475,7 +4475,7 @@
       "correcta": 3
     },
     {
-      "id": 138,
+      "id": 404,
       "pregunta": "La caducidad del procedimiento se produce cuando:",
       "respuestas": [
         "Se dicta resolución fuera de plazo",
@@ -4486,7 +4486,7 @@
       "correcta": 3
     },
     {
-      "id": 139,
+      "id": 405,
       "pregunta": "La caducidad del procedimiento:",
       "respuestas": [
         "Impide iniciar uno nuevo",
@@ -4497,7 +4497,7 @@
       "correcta": 3
     },
     {
-      "id": 140,
+      "id": 406,
       "pregunta": "El desistimiento del interesado supone:",
       "respuestas": [
         "Renuncia al derecho",
@@ -4508,7 +4508,7 @@
       "correcta": 2
     },
     {
-      "id": 141,
+      "id": 407,
       "pregunta": "La renuncia del interesado:",
       "respuestas": [
         "No está permitida",
@@ -4519,7 +4519,7 @@
       "correcta": 3
     },
     {
-      "id": 142,
+      "id": 408,
       "pregunta": "La terminación convencional del procedimiento administrativo:",
       "respuestas": [
         "Está prohibida",
@@ -4530,7 +4530,7 @@
       "correcta": 3
     },
     {
-      "id": 143,
+      "id": 409,
       "pregunta": "La ejecución de los actos administrativos:",
       "respuestas": [
         "Requiere siempre autorización judicial",
@@ -4541,7 +4541,7 @@
       "correcta": 3
     },
     {
-      "id": 144,
+      "id": 410,
       "pregunta": "La suspensión de la ejecución de un acto administrativo:",
       "respuestas": [
         "Es automática al recurrir",
@@ -4552,7 +4552,7 @@
       "correcta": 3
     },
     {
-      "id": 145,
+      "id": 411,
       "pregunta": "Los medios de ejecución forzosa incluyen:",
       "respuestas": [
         "La sanción penal",
@@ -4563,7 +4563,7 @@
       "correcta": 2
     },
     {
-      "id": 146,
+      "id": 412,
       "pregunta": "La ejecución subsidiaria procede cuando:",
       "respuestas": [
         "El obligado no cumple y la prestación no es personalísima",
@@ -4574,7 +4574,7 @@
       "correcta": 1
     },
     {
-      "id": 147,
+      "id": 413,
       "pregunta": "Las multas coercitivas:",
       "respuestas": [
         "Tienen carácter sancionador",
@@ -4585,7 +4585,7 @@
       "correcta": 3
     },
     {
-      "id": 148,
+      "id": 414,
       "pregunta": "El apremio sobre el patrimonio:",
       "respuestas": [
         "Es un procedimiento judicial",
@@ -4596,7 +4596,7 @@
       "correcta": 2
     },
     {
-      "id": 149,
+      "id": 415,
       "pregunta": "La compulsión sobre las personas:",
       "respuestas": [
         "Está prohibida en todo caso",
@@ -4607,7 +4607,7 @@
       "correcta": 3
     },
     {
-      "id": 150,
+      "id": 416,
       "pregunta": "La ejecución forzosa debe realizarse respetando los principios de:",
       "respuestas": [
         "Discrecionalidad y oportunidad",

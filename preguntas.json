@@ -4616,10 +4616,419 @@
         "Jerarquía normativa"
       ],
       "correcta": 2
-    }
-
-
-
+    },
+{
+  "id": 417,
+  "pregunta": "¿Qué título de la Constitución Española trata de la Corona?",
+  "respuestas": [
+    "Título Preliminar",
+    "Título I",
+    "Título II",
+    "Título III"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 418,
+  "pregunta": "¿Cuál es el plazo de mandato de los miembros del Tribunal Constitucional según la Constitución Española?",
+  "respuestas": [
+    "Cuatro años",
+    "Cinco años",
+    "Seis años",
+    "Nueve años"
+  ],
+  "correcta": 3
+}
+, {
+  "id": 419,
+  "pregunta": "¿Qué mayoría se requiere, como regla general, para la aprobación de las leyes ordinarias en el Congreso de los Diputados?",
+  "respuestas": [
+    "Mayoría absoluta",
+    "Mayoría simple",
+    "Mayoría de dos tercios",
+    "Mayoría de tres quintos"
+  ],
+  "correcta": 1
+}, {
+  "id": 420,
+  "pregunta": "¿Qué nombre recibe el Título Preliminar de la Constitución Española?",
+  "respuestas": [
+    "De los derechos y deberes fundamentales",
+    "De la Corona",
+    "Título Preliminar",
+    "De las Cortes Generales"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 421,
+  "pregunta": "¿Cuál es la forma política del Estado español según el artículo 1.3 de la Constitución?",
+  "respuestas": [
+    "Monarquía parlamentaria",
+    "República democrática",
+    "Monarquía absoluta",
+    "Estado social y democrático de Derecho"
+  ],
+  "correcta": 0
+}
+, {
+  "id": 422,
+  "pregunta": "¿Ante quién presta juramento el Rey al ser proclamado ante las Cortes Generales?",
+  "respuestas": [
+    "Ante el Presidente del Gobierno",
+    "Ante el Tribunal Supremo",
+    "Ante las Cortes Generales",
+    "Ante el Consejo de Estado"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 423,
+  "pregunta": "¿Quién ostenta el mando supremo de las Fuerzas Armadas?",
+  "respuestas": [
+    "El Ministro de Defensa",
+    "El Presidente del Gobierno",
+    "El Jefe del Estado Mayor de la Defensa",
+    "El Rey"
+  ],
+  "correcta": 3
+}
+, {
+  "id": 424,
+  "pregunta": "¿Cuál es la duración del mandato de los Diputados y Senadores, salvo disolución anticipada?",
+  "respuestas": [
+    "Tres años",
+    "Cuatro años",
+    "Cinco años",
+    "Seis años"
+  ],
+  "correcta": 1
+}, {
+  "id": 425,
+  "pregunta": "¿A quién corresponde el ejercicio de la potestad reglamentaria según el artículo 97 de la Constitución?",
+  "respuestas": [
+    "Al Congreso de los Diputados",
+    "Al Rey",
+    "Al Gobierno",
+    "Al Consejo de Estado"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 426,
+  "pregunta": "¿Qué artículo de la Constitución Española establece que la justicia emana del pueblo?",
+  "respuestas": [
+    "Artículo 1",
+    "Artículo 103",
+    "Artículo 117",
+    "Artículo 122"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 427,
+  "pregunta": "¿Cuál es la edad mínima para ser elegido Senador en España?",
+  "respuestas": [
+    "18 años",
+    "21 años",
+    "25 años",
+    "30 años"
+  ],
+  "correcta": 0
+}
+, {
+  "id": 428,
+  "pregunta": "¿Quién propone al candidato a Presidente del Gobierno tras las elecciones generales?",
+  "respuestas": [
+    "El Presidente del Congreso",
+    "El Rey",
+    "La Junta Electoral Central",
+    "El Consejo de Ministros"
+  ],
+  "correcta": 1
+}
+, {
+  "id": 429,
+  "pregunta": "¿Qué institución tiene la función de velar por el cumplimiento de la Constitución como intérprete supremo?",
+  "respuestas": [
+    "El Tribunal Supremo",
+    "El Ministerio de Justicia",
+    "El Defensor del Pueblo",
+    "El Tribunal Constitucional"
+  ],
+  "correcta": 3
+}, {
+  "id": 430,
+  "pregunta": "¿Qué Título de la Constitución Española se dedica a la 'Reforma Constitucional'?",
+  "respuestas": [
+    "Título VIII",
+    "Título IX",
+    "Título X",
+    "Título XI"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 431,
+  "pregunta": "¿Cuál es el máximo órgano consultivo del Gobierno según la Constitución?",
+  "respuestas": [
+    "El Tribunal de Cuentas",
+    "El Consejo de Estado",
+    "El Consejo Económico y Social",
+    "El Defensor del Pueblo"
+  ],
+  "correcta": 1
+}
+, {
+  "id": 432,
+  "pregunta": "¿Quién nombra a los Vocales del Consejo General del Poder Judicial?",
+  "respuestas": [
+    "El Presidente del Gobierno",
+    "El Rey",
+    "El Presidente del Tribunal Supremo",
+    "Las Cortes Generales"
+  ],
+  "correcta": 1
+}
+, {
+  "id": 433,
+  "pregunta": "¿En qué año fue ratificada en referéndum la actual Constitución Española?",
+  "respuestas": [
+    "1975",
+    "1977",
+    "1978",
+    "1981"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 434,
+  "pregunta": "¿Quién es el encargado de autorizar la celebración de un referéndum consultivo?",
+  "respuestas": [
+    "El Congreso de los Diputados",
+    "El Presidente del Gobierno",
+    "El Rey, a propuesta del Presidente del Gobierno",
+    "El Tribunal Constitucional"
+  ],
+  "correcta": 2
+}, {
+  "id": 435,
+  "pregunta": "¿Cuál es la frecuencia máxima de funcionamiento certificada para un cable UTP de Categoría 6 (Cat6)?",
+  "respuestas": [
+    "100 MHz",
+    "250 MHz",
+    "500 MHz",
+    "600 MHz"
+  ],
+  "correcta": 1
+}
+, {
+  "id": 436,
+  "pregunta": "¿Qué categoría de cableado UTP es la mínima requerida para soportar velocidades de 10 Gbps a una distancia de hasta 100 metros?",
+  "respuestas": [
+    "Categoría 5e",
+    "Categoría 6",
+    "Categoría 6a",
+    "Categoría 3"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 437,
+  "pregunta": "¿Cuál es la longitud máxima recomendada para un segmento de cable horizontal (desde el switch hasta la toma de usuario) en redes Ethernet?",
+  "respuestas": [
+    "50 metros",
+    "90 metros",
+    "100 metros",
+    "150 metros"
+  ],
+  "correcta": 1
+}
+, {
+  "id": 438,
+  "pregunta": "¿Cuál es la principal diferencia física entre un cable Cat5 y uno Cat5e?",
+  "respuestas": [
+    "El grosor del plástico exterior",
+    "El número de hilos de cobre",
+    "La mayor torsión de los pares para reducir interferencias",
+    "El uso de conectores de fibra óptica"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 439,
+  "pregunta": "¿Qué estándar de asignación de colores en los pines se utiliza para crear un cable directo si ambos extremos siguen la norma T568B?",
+  "respuestas": [
+    "T568A en un lado y T568B en el otro",
+    "T568B en ambos extremos",
+    "T568A en ambos extremos",
+    "Cualquier combinación aleatoria mientras coincidan"
+  ],
+  "correcta": 1
+}, {
+  "id": 440,
+  "pregunta": "¿Cuál es la función principal del trenzado de los pares de hilos en un cable UTP?",
+  "respuestas": [
+    "Aumentar la flexibilidad del cable",
+    "Reducir las interferencias electromagnéticas y la diafonía",
+    "Permitir que el cable soporte mayores voltajes",
+    "Facilitar la identificación de los colores"
+  ],
+  "correcta": 1
+}
+, {
+  "id": 441,
+  "pregunta": "¿Qué tipo de conector se utiliza de forma estándar para terminar cables UTP de categorías 5e, 6 y 6a?",
+  "respuestas": [
+    "RJ-11",
+    "BNC",
+    "RJ-45",
+    "GG45"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 442,
+  "pregunta": "En la jerarquía de categorías, ¿qué mejora principal introduce la Categoría 6a (Cat6a) frente a la Cat6 estándar?",
+  "respuestas": [
+    "Reduce el número de hilos internos",
+    "Permite el uso de fibra óptica",
+    "Aumenta el ancho de banda hasta los 500 MHz",
+    "Es compatible únicamente con redes de 100 Mbps"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 443,
+  "pregunta": "¿Cómo se denomina al fenómeno donde la señal de un par de hilos se induce e interfiere en otro par adyacente?",
+  "respuestas": [
+    "Atenuación",
+    "Crosstalk o diafonía",
+    "Impedancia",
+    "Latencia"
+  ],
+  "correcta": 1
+}
+, {
+  "id": 444,
+  "pregunta": "¿Cuál de los siguientes cables incluye un blindaje global de lámina alrededor de todos los pares, pero los pares no están blindados individualmente?",
+  "respuestas": [
+    "U/UTP",
+    "F/UTP",
+    "U/FTP",
+    "S/FTP"
+  ],
+  "correcta": 1
+}, {
+  "id": 445,
+  "pregunta": "¿Qué velocidad máxima de transmisión de datos soporta oficialmente el estándar Categoría 5e (Cat5e)?",
+  "respuestas": [
+    "100 Mbps",
+    "1.000 Mbps (1 Gbps)",
+    "10.000 Mbps (10 Gbps)",
+    "40.000 Mbps (40 Gbps)"
+  ],
+  "correcta": 1
+}
+, {
+  "id": 446,
+  "pregunta": "¿Cuál es la principal ventaja de utilizar cable UTP de Categoría 6 en lugar de 5e para redes Gigabit?",
+  "respuestas": [
+    "Permite distancias de hasta 200 metros",
+    "Utiliza conectores RJ-11 más pequeños",
+    "Ofrece un mayor ancho de banda (250 MHz) y menor relación señal/ruido",
+    "No requiere ser trenzado"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 447,
+  "pregunta": "¿Qué elemento interno suelen incluir los cables Cat6 para mantener la separación de los pares y reducir la diafonía?",
+  "respuestas": [
+    "Un hilo de drenaje de cobre",
+    "Una guía central de plástico en forma de cruz (spline)",
+    "Una capa de gel aislante",
+    "Un recubrimiento de papel de aluminio individual"
+  ],
+  "correcta": 1
+}
+, {
+  "id": 448,
+  "pregunta": "¿Qué categoría de cableado es la primera en introducir el blindaje individual por par (S/FTP) de forma común para alcanzar frecuencias de 600 MHz?",
+  "respuestas": [
+    "Categoría 6",
+    "Categoría 6a",
+    "Categoría 7",
+    "Categoría 5e"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 449,
+  "pregunta": "¿Qué sucede si conectamos un cable Cat6a en una instalación donde todos los demás componentes son Cat5e?",
+  "respuestas": [
+    "La red funcionará a la velocidad del componente más lento (Cat5e)",
+    "La red no funcionará por incompatibilidad física",
+    "Se producirá un cortocircuito en el switch",
+    "Toda la red pasará a funcionar automáticamente a velocidad Cat6a"
+  ],
+  "correcta": 0
+}
+, {
+  "id": 450,
+  "pregunta": "¿Cuál es la frecuencia máxima de funcionamiento para el cableado de Categoría 8?",
+  "respuestas": [
+    "500 MHz",
+    "1.000 MHz",
+    "2.000 MHz",
+    "4.000 MHz"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 451,
+  "pregunta": "En la nomenclatura de blindaje, ¿qué significa la sigla 'U/FTP'?",
+  "respuestas": [
+    "Cable sin ningún tipo de blindaje",
+    "Global sin blindaje, pero con pares blindados con lámina",
+    "Global blindado con trenza y pares sin blindaje",
+    "Cable de fibra óptica monomodo"
+  ],
+  "correcta": 1
+}
+, {
+  "id": 452,
+  "pregunta": "¿Qué distancia máxima alcanza el estándar Cat8 para soportar velocidades de 25Gbps/40Gbps?",
+  "respuestas": [
+    "100 metros",
+    "50 metros",
+    "30 metros",
+    "10 metros"
+  ],
+  "correcta": 2
+}
+, {
+  "id": 453,
+  "pregunta": "¿Qué nombre recibe el estándar internacional que regula el cableado estructurado?",
+  "respuestas": [
+    "ISO/IEC 11801",
+    "IEEE 802.11",
+    "ANSI/TIA-232",
+    "ISO 9001"
+  ],
+  "correcta": 0
+}
+, {
+  "id": 454,
+  "pregunta": "¿Qué tipo de recubrimiento de cable se debe usar en instalaciones por falsos techos o conductos de ventilación para evitar humos tóxicos en caso de incendio?",
+  "respuestas": [
+    "PVC estándar",
+    "LSZH (Low Smoke Zero Halogen)",
+    "Polietileno de alta densidad",
+    "Goma sintética"
+  ],
+  "correcta": 1
+}
 
 
   ]
